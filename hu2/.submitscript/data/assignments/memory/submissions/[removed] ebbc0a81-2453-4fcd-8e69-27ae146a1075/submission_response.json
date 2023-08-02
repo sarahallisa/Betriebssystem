@@ -1,0 +1,28 @@
+{
+    "accepted": true,
+    "immediate_evaluation": true,
+    "log": "[2023-07-12 13:13:40.685990] Received submission ebbc0a81-2453-4fcd-8e69-27ae146a1075\n[2023-07-12 13:13:40.686078] Ip: 92.77.119.176\n[2023-07-12 13:13:40.686112] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]\n[2023-07-12 13:13:40.750416] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.\n[2023-07-12 13:13:40.750473] Your submission has the id ebbc0a81-2453-4fcd-8e69-27ae146a1075.\n[2023-07-12 13:13:40.750872] It will be evaluated shortly. Please check back soon for your results.\n",
+    "submission": {
+        "authors": [
+            {
+                "first_name": "Sarah Yanuar Nadia",
+                "last_name": "Allisa",
+                "matriculation_number": "5307737"
+            },
+            {
+                "first_name": "Yohanes Ranandika",
+                "last_name": "Kirana",
+                "matriculation_number": "5310931"
+            },
+            {
+                "first_name": "Fatma Nur",
+                "last_name": "Demir",
+                "matriculation_number": "5116449"
+            }
+        ],
+        "evaluation_result": null,
+        "id": "ebbc0a81-2453-4fcd-8e69-27ae146a1075",
+        "timestamp_ns": 1689160420680611021,
+        "upload_log": "[2023-07-12 13:13:40.685990] Received submission ebbc0a81-2453-4fcd-8e69-27ae146a1075\n[2023-07-12 13:13:40.686078] Ip: 92.77.119.176\n[2023-07-12 13:13:40.686112] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]\n[2023-07-12 13:13:40.750416] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.\n[2023-07-12 13:13:40.750473] Your submission has the id ebbc0a81-2453-4fcd-8e69-27ae146a1075.\n[2023-07-12 13:13:40.750872] It will be evaluated shortly. Please check back soon for your results.\n\n"
+    }
+}

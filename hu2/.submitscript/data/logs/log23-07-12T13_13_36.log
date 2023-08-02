@@ -1,0 +1,67 @@
+[2023-07-12 13:13:36.405350] Bootstrap log:
+Identified Python 3.9.2 at /usr/bin/python3.9
+[Bootstrap] Identified pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.9)' at /usr/bin/python3.9 -m pip
+[Bootstrap] Identified 'pipenv, version 2023.5.19' at /usr/bin/python3.9 -m pipenv
+[Bootstrap] Running '/usr/bin/python3.9 -m pipenv install --python 3.9' to ensure the existence of a virtual environment.
+[Bootstrap] This may take a moment.
+Installing dependencies from Pipfile.lock (df9bb1)...
+To activate this project's virtualenv, run pipenv shell.
+Alternatively, run a command inside the virtualenv with pipenv run.
+[Bootstrap] Running the script in a virtual environment.
+/usr/bin/python3.9 -m pipenv run python3 ./main.py
+
+[2023-07-12 13:13:36.405379] === Welcome ===
+[2023-07-12 13:13:36.492848] Please review the currently saved information about your team:
+[2023-07-12 13:13:36.493268]  1 - First name: Sarah Yanuar Nadia; Last name: Allisa; Matriculation number: 5307737
+[2023-07-12 13:13:36.493278]  2 - First name: Yohanes Ranandika; Last name: Kirana; Matriculation number: 5310931
+[2023-07-12 13:13:36.493283]  3 - First name: Fatma Nur; Last name: Demir; Matriculation number: 5116449
+[2023-07-12 13:13:38.721543] 
+[2023-07-12 13:13:40.221441] 
+[2023-07-12 13:13:40.221612] === Submitting ===
+[2023-07-12 13:13:40.222135] 
+[2023-07-12 13:13:40.224230] 
+[2023-07-12 13:13:40.224260] Selected variant 'memory' for assignment 'memory'.
+[2023-07-12 13:13:40.256938] === Building submission ===
+[2023-07-12 13:13:40.256970] Running 'cmake . && rm CMakeCache.txt && make'.
+[2023-07-12 13:13:40.256975] === Building submission finished ===
+[2023-07-12 13:13:40.596546] === Cleaning directory for submission ===
+[2023-07-12 13:13:40.599053] === Cleaning directory finished ===
+[2023-07-12 13:13:40.608661] === Starting Upload ===
+[2023-07-12 13:13:40.772866] === Upload finished ===
+[2023-07-12 13:13:40.772904] === BEGIN Upload Log
+[2023-07-12 13:13:40.772910] [2023-07-12 13:13:40.685990] Received submission ebbc0a81-2453-4fcd-8e69-27ae146a1075
+[2023-07-12 13:13:40.686078] Ip: 92.77.119.176
+[2023-07-12 13:13:40.686112] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]
+[2023-07-12 13:13:40.750416] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.
+[2023-07-12 13:13:40.750473] Your submission has the id ebbc0a81-2453-4fcd-8e69-27ae146a1075.
+[2023-07-12 13:13:40.750872] It will be evaluated shortly. Please check back soon for your results.
+
+[2023-07-12 13:13:40.772919] === END Upload Log
+[2023-07-12 13:13:40.772925] Successfully submitted your solution. Please see the upload log above for more details.
+[2023-07-12 13:13:40.773393] Polling for results (Press CTRL + C to abort).
+[2023-07-12 13:13:40.835925] .
+[2023-07-12 13:13:41.905940] .
+[2023-07-12 13:13:42.983835] .
+[2023-07-12 13:13:44.058031] .
+[2023-07-12 13:13:45.128123] .
+[2023-07-12 13:13:46.205213] .
+[2023-07-12 13:13:47.281767] .
+[2023-07-12 13:13:48.359889] .
+[2023-07-12 13:13:49.436266] .
+[2023-07-12 13:13:50.511864] .
+[2023-07-12 13:13:51.587416] .
+[2023-07-12 13:13:52.665811] .
+[2023-07-12 13:13:53.738250] .
+[2023-07-12 13:13:54.814881] .
+[2023-07-12 13:13:55.894700] .
+[2023-07-12 13:13:56.971804] .
+[2023-07-12 13:13:58.054631] .
+[2023-07-12 13:13:59.129773] .
+[2023-07-12 13:14:00.210129] .
+[2023-07-12 13:14:01.279307] .
+[2023-07-12 13:14:02.359492] .
+[2023-07-12 13:14:03.428406] .
+[2023-07-12 13:14:04.500907] .
+[2023-07-12 13:14:05.576678] .
+[2023-07-12 13:14:06.661569] - Submission 'ebbc0a81-2453-4fcd-8e69-27ae146a1075' can no longer be found on the server and will be marked as [removed].
+[2023-07-12 13:14:06.662881] 

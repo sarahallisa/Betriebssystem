@@ -1,0 +1,2869 @@
+[2023-07-12 15:57:47.611402] Bootstrap log:
+Identified Python 3.9.2 at /usr/bin/python3.9
+[Bootstrap] Identified pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.9)' at /usr/bin/python3.9 -m pip
+[Bootstrap] Identified 'pipenv, version 2023.5.19' at /usr/bin/python3.9 -m pipenv
+[Bootstrap] Running '/usr/bin/python3.9 -m pipenv install --python 3.9' to ensure the existence of a virtual environment.
+[Bootstrap] This may take a moment.
+Installing dependencies from Pipfile.lock (df9bb1)...
+To activate this project's virtualenv, run pipenv shell.
+Alternatively, run a command inside the virtualenv with pipenv run.
+[Bootstrap] Running the script in a virtual environment.
+/usr/bin/python3.9 -m pipenv run python3 ./main.py
+
+[2023-07-12 15:57:47.611453] === Welcome ===
+[2023-07-12 15:57:47.705871] Please review the currently saved information about your team:
+[2023-07-12 15:57:47.706288]  1 - First name: Sarah Yanuar Nadia; Last name: Allisa; Matriculation number: 5307737
+[2023-07-12 15:57:47.706303]  2 - First name: Yohanes Ranandika; Last name: Kirana; Matriculation number: 5310931
+[2023-07-12 15:57:47.706308]  3 - First name: Fatma Nur; Last name: Demir; Matriculation number: 5116449
+[2023-07-12 15:57:51.828860] 
+[2023-07-12 15:57:53.249492] 
+[2023-07-12 15:57:53.249611] === Submitting ===
+[2023-07-12 15:57:53.250113] 
+[2023-07-12 15:57:53.250214] 
+[2023-07-12 15:57:53.250230] Selected variant 'memory' for assignment 'memory'.
+[2023-07-12 15:57:53.284501] === Building submission ===
+[2023-07-12 15:57:53.284534] Running 'cmake . && rm CMakeCache.txt && make'.
+[2023-07-12 15:57:53.284539] === Building submission finished ===
+[2023-07-12 15:57:53.619295] === Cleaning directory for submission ===
+[2023-07-12 15:57:53.621533] === Cleaning directory finished ===
+[2023-07-12 15:57:53.631213] === Starting Upload ===
+[2023-07-12 15:57:53.811574] === Upload finished ===
+[2023-07-12 15:57:53.811597] === BEGIN Upload Log
+[2023-07-12 15:57:53.811605] [2023-07-12 15:57:53.720423] Received submission 5611e35c-4e21-469f-b829-079438202731
+[2023-07-12 15:57:53.720543] Ip: 92.77.119.176
+[2023-07-12 15:57:53.720585] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]
+[2023-07-12 15:57:53.792676] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.
+[2023-07-12 15:57:53.792743] Your submission has the id 5611e35c-4e21-469f-b829-079438202731.
+[2023-07-12 15:57:53.793321] It will be evaluated shortly. Please check back soon for your results.
+
+[2023-07-12 15:57:53.811681] === END Upload Log
+[2023-07-12 15:57:53.811688] Successfully submitted your solution. Please see the upload log above for more details.
+[2023-07-12 15:57:53.812115] Polling for results (Press CTRL + C to abort).
+[2023-07-12 15:57:53.900630] .
+[2023-07-12 15:57:54.980253] .
+[2023-07-12 15:57:56.059897] .
+[2023-07-12 15:57:57.133310] .
+[2023-07-12 15:57:58.211339] .
+[2023-07-12 15:57:59.292389] .
+[2023-07-12 15:58:00.359906] .
+[2023-07-12 15:58:01.422694] .
+[2023-07-12 15:58:02.489698] .
+[2023-07-12 15:58:03.562784] .
+[2023-07-12 15:58:04.628037] .
+[2023-07-12 15:58:05.700641] .
+[2023-07-12 15:58:06.779446] .
+[2023-07-12 15:58:07.856741] .
+[2023-07-12 15:58:08.931362] .
+[2023-07-12 15:58:10.005120] .
+[2023-07-12 15:58:11.085805] .
+[2023-07-12 15:58:12.159693] .
+[2023-07-12 15:58:13.235523] .
+[2023-07-12 15:58:14.303073] .
+[2023-07-12 15:58:15.374535] .
+[2023-07-12 15:58:16.452420] .
+[2023-07-12 15:58:17.528663] .
+[2023-07-12 15:58:18.602942] .
+[2023-07-12 15:58:19.917704] 
+=== Evaluation results for submission '5611e35c-4e21-469f-b829-079438202731' retrieved. ===
+[2023-07-12 15:58:19.917770] You achieved the score 0/154 (0%).
+[2023-07-12 15:58:19.917780] You have NOT PASSED this assignment.
+[2023-07-12 15:58:44.618207] NOTE: This evaluation log is also available at '/home/sarahallisa/Documents/bs-ss23/hu2/.submitscript/data/assignments/memory/submissions/[evaluated] 5611e35c-4e21-469f-b829-079438202731/evaluation.log'
+[2023-07-12 15:58:44.618516] 
+[2023-07-12 15:58:51.901475] 
+[2023-07-12 15:58:51.901533] === Submitting ===
+[2023-07-12 15:58:51.901719] 
+[2023-07-12 15:58:51.901768] 
+[2023-07-12 15:58:51.901774] Selected variant 'memory' for assignment 'memory'.
+[2023-07-12 15:58:51.904059] === Building submission ===
+[2023-07-12 15:58:51.904071] Running 'cmake . && rm CMakeCache.txt && make'.
+[2023-07-12 15:58:51.904075] === Building submission finished ===
+[2023-07-12 15:58:52.204054] === Cleaning directory for submission ===
+[2023-07-12 15:58:52.205883] === Cleaning directory finished ===
+[2023-07-12 15:58:52.215967] === Starting Upload ===
+[2023-07-12 15:58:52.394177] === Upload finished ===
+[2023-07-12 15:58:52.394197] === BEGIN Upload Log
+[2023-07-12 15:58:52.394203] [2023-07-12 15:58:52.309303] Received submission 4343663c-ec9a-414d-8096-960c688f14c5
+[2023-07-12 15:58:52.309357] Ip: 92.77.119.176
+[2023-07-12 15:58:52.309393] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]
+[2023-07-12 15:58:52.372922] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.
+[2023-07-12 15:58:52.372974] Your submission has the id 4343663c-ec9a-414d-8096-960c688f14c5.
+[2023-07-12 15:58:52.373365] It will be evaluated shortly. Please check back soon for your results.
+
+[2023-07-12 15:58:52.394207] === END Upload Log
+[2023-07-12 15:58:52.394211] Successfully submitted your solution. Please see the upload log above for more details.
+[2023-07-12 15:58:52.394504] Polling for results (Press CTRL + C to abort).
+[2023-07-12 15:58:52.455077] .
+[2023-07-12 15:58:53.527526] .
+[2023-07-12 15:58:54.602106] .
+[2023-07-12 15:58:55.675171] .
+[2023-07-12 15:58:56.746243] .
+[2023-07-12 15:58:57.819025] .
+[2023-07-12 15:58:58.890505] .
+[2023-07-12 15:58:59.964140] .
+[2023-07-12 15:59:01.033164] .
+[2023-07-12 15:59:02.103359] .
+[2023-07-12 15:59:03.177999] .
+[2023-07-12 15:59:04.248935] .
+[2023-07-12 15:59:05.316533] .
+[2023-07-12 15:59:06.398229] .
+[2023-07-12 15:59:07.477595] .
+[2023-07-12 15:59:08.546163] .
+[2023-07-12 15:59:09.621810] .
+[2023-07-12 15:59:10.704704] .
+[2023-07-12 15:59:11.778065] .
+[2023-07-12 15:59:12.853719] .
+[2023-07-12 15:59:13.924518] .
+[2023-07-12 15:59:15.000550] .
+[2023-07-12 15:59:16.078537] .
+[2023-07-12 15:59:17.148367] .
+[2023-07-12 15:59:18.368497] 
+=== Evaluation results for submission '4343663c-ec9a-414d-8096-960c688f14c5' retrieved. ===
+[2023-07-12 15:59:18.368574] You achieved the score 114/154 (74%).
+[2023-07-12 15:59:18.368591] You have NOT PASSED this assignment.
+[2023-07-12 15:59:55.780619] === BEGIN Evaluation Log
+[2023-07-12 15:59:55.799970] [2023-07-12 15:58:52.375836] Start of evaluation log for submission '4343663c-ec9a-414d-8096-960c688f14c5'.
+[2023-07-12 15:58:52.376387] Team member: ('Allisa', 'Sarah Yanuar Nadia', '5307737')
+[2023-07-12 15:58:52.376414] Team member: ('Kirana', 'Yohanes Ranandika', '5310931')
+[2023-07-12 15:58:52.376427] Team member: ('Demir', 'Fatma Nur', '5116449')
+[2023-07-12 15:58:52.593593] Preparing the sandbox
+[2023-07-12 15:58:53.166982] Unpacking submission in sandbox
+[2023-07-12 15:58:53.549037] Building the test subject
+[2023-07-12 15:58:53.549568] Preparing build with cmake
+[2023-07-12 15:58:54.070922] CMake log:
+-- The C compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/solution/memory/build
+[2023-07-12 15:58:54.070980] Building solution with make
+[2023-07-12 15:58:54.440682] Make log:
+Scanning dependencies of target vmm
+[ 25%] Building C object CMakeFiles/vmm.dir/src/vmm.c.o
+[ 50%] Building C object CMakeFiles/vmm.dir/src/main.c.o
+[ 75%] Building C object CMakeFiles/vmm.dir/src/output_utility.c.o
+[100%] Linking C executable vmm
+[100%] Built target vmm
+[2023-07-12 15:58:54.564056] Beginning evaluation.
+[2023-07-12 15:58:54.564716] Evaluating pt_fault_invalidate_tlb016 with the submitted solution.
+[2023-07-12 15:58:54.703827] Outputs match.
+[2023-07-12 15:58:54.703910] Test passed.
+[2023-07-12 15:58:54.703927] Running Score: 1/1
+
+[2023-07-12 15:58:54.703953] Evaluating pt_fault_invalidate_tlb032 with the submitted solution.
+[2023-07-12 15:58:54.839438] Outputs match.
+[2023-07-12 15:58:54.839522] Test passed.
+[2023-07-12 15:58:54.839535] Running Score: 2/2
+
+[2023-07-12 15:58:54.839562] Evaluating pt_fault_invalidate_tlb064 with the submitted solution.
+[2023-07-12 15:58:54.968537] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+67,69c67,69
+< Virtual:     0, Physical:   256, Value:   7, TLB hit: false, PT hit: false 
+< page_fault_rate [98.51%]
+< tlb_hit_rate [0.00%]
+---
+> Virtual:     0, Physical:     0, Value:  64, TLB hit: true
+> page_fault_rate [97.01%]
+> tlb_hit_rate [1.49%]
+[2023-07-12 15:58:54.968624] Test not passed.
+[2023-07-12 15:58:54.968637] Running Score: 2/3
+
+[2023-07-12 15:58:54.968660] Evaluating pt_fault_invalidate_tlb128 with the submitted solution.
+[2023-07-12 15:58:55.112940] Outputs match.
+[2023-07-12 15:58:55.113015] Test passed.
+[2023-07-12 15:58:55.113031] Running Score: 3/4
+
+[2023-07-12 15:58:55.113056] Evaluating random_addresses01 with the submitted solution.
+[2023-07-12 15:58:55.262053] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+331c331
+< Virtual: 19840, Physical:  1408, Value:  18, TLB hit: false, PT hit: false 
+---
+> Virtual: 19840, Physical:   640, Value: 144, TLB hit: true
+333,338c333,338
+< Virtual:  4255, Physical:  1695, Value: 189, TLB hit: false, PT hit: false 
+< Virtual: 17393, Physical:  2033, Value: 194, TLB hit: false, PT hit: false 
+< Virtual: 42455, Physical:  2263, Value: 174, TLB hit: false, PT hit: false 
+< Virtual: 13800, Physical:  2536, Value: 195, TLB hit: false, PT hit: false 
+< Virtual: 45438, Physical:  2686, Value:  11, TLB hit: false, PT hit: false 
+< Virtual: 25555, Physical:  3027, Value:  64, TLB hit: false, PT hit: false 
+---
+> Virtual:  4255, Physical:  1439, Value: 189, TLB hit: false, PT hit: false 
+> Virtual: 17393, Physical:  1777, Value: 194, TLB hit: false, PT hit: false 
+> Virtual: 42455, Physical:  2007, Value: 174, TLB hit: false, PT hit: true 
+> Virtual: 13800, Physical:  2024, Value: 195, TLB hit: false, PT hit: false 
+> Virtual: 45438, Physical:  2174, Value:  11, TLB hit: false, PT hit: false 
+> Virtual: 25555, Physical:  2515, Value:  64, TLB hit: false, PT hit: false 
+341,346c341,346
+< Virtual: 14548, Physical:  3284, Value:  18, TLB hit: false, PT hit: false 
+< Virtual:  7885, Physical:  3533, Value:   3, TLB hit: false, PT hit: false 
+< Virtual: 61235, Physical:  3635, Value: 110, TLB hit: false, PT hit: false 
+< Virtual: 44284, Physical:  4092, Value: 127, TLB hit: false, PT hit: false 
+< Virtual: 16295, Physical:  4263, Value: 240, TLB hit: false, PT hit: false 
+< Virtual: 38847, Physical:  4543, Value:  49, TLB hit: false, PT hit: false 
+---
+> Virtual: 14548, Physical:  2772, Value:  18, TLB hit: false, PT hit: false 
+> Virtual:  7885, Physical:  3021, Value:   3, TLB hit: false, PT hit: false 
+> Virtual: 61235, Physical:  3123, Value: 110, TLB hit: false, PT hit: false 
+> Virtual: 44284, Physical:  3580, Value: 127, TLB hit: false, PT hit: false 
+> Virtual: 16295, Physical:  3751, Value: 240, TLB hit: false, PT hit: false 
+> Virtual: 38847, Physical:  4031, Value:  49, TLB hit: false, PT hit: false 
+349,354c349,354
+< Virtual: 38509, Physical:  4717, Value:   6, TLB hit: false, PT hit: false 
+< Virtual: 15932, Physical:  4924, Value: 184, TLB hit: false, PT hit: false 
+< Virtual: 24789, Physical:  5333, Value: 223, TLB hit: false, PT hit: false 
+< Virtual:  5004, Physical:  5516, Value: 247, TLB hit: false, PT hit: false 
+< Virtual: 51383, Physical:  5815, Value:   0, TLB hit: false, PT hit: false 
+< Virtual: 58271, Physical:  6047, Value: 166, TLB hit: false, PT hit: false 
+---
+> Virtual: 38509, Physical:  4205, Value:   6, TLB hit: false, PT hit: true 
+> Virtual: 15932, Physical:  4156, Value: 184, TLB hit: false, PT hit: false 
+> Virtual: 24789, Physical:  4565, Value: 223, TLB hit: false, PT hit: false 
+> Virtual:  5004, Physical:  4748, Value: 247, TLB hit: false, PT hit: false 
+> Virtual: 51383, Physical:  5047, Value:   0, TLB hit: false, PT hit: false 
+> Virtual: 58271, Physical:  5279, Value: 166, TLB hit: false, PT hit: false 
+356,362c356,362
+< Virtual: 24966, Physical:  6278, Value: 128, TLB hit: false, PT hit: false 
+< Virtual: 59699, Physical:  6451, Value:  47, TLB hit: false, PT hit: false 
+< Virtual: 46734, Physical:  6798, Value: 243, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:55.262196] Test not passed.
+[2023-07-12 15:58:55.262210] Running Score: 3/5
+
+[2023-07-12 15:58:55.262233] Evaluating random_addresses02 with the submitted solution.
+[2023-07-12 15:58:55.398308] Outputs match.
+[2023-07-12 15:58:55.398382] Test passed.
+[2023-07-12 15:58:55.398395] Running Score: 4/6
+
+[2023-07-12 15:58:55.398419] Evaluating random_addresses03 with the submitted solution.
+[2023-07-12 15:58:55.530808] Outputs match.
+[2023-07-12 15:58:55.530883] Test passed.
+[2023-07-12 15:58:55.530896] Running Score: 5/7
+
+[2023-07-12 15:58:55.530921] Evaluating random_addresses04 with the submitted solution.
+[2023-07-12 15:58:55.680223] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+151c151
+< Virtual:  8918, Physical: 14294, Value: 188, TLB hit: false, PT hit: false 
+---
+> Virtual:  8918, Physical: 12758, Value: 112, TLB hit: true
+153,157c153,157
+< Virtual:  5300, Physical: 14516, Value: 231, TLB hit: false, PT hit: false 
+< Virtual:  5591, Physical: 14807, Value:  97, TLB hit: false, PT hit: false 
+< Virtual: 11984, Physical: 15056, Value: 239, TLB hit: false, PT hit: false 
+< Virtual: 48345, Physical: 15321, Value: 173, TLB hit: false, PT hit: false 
+< Virtual:   926, Physical: 15518, Value:  79, TLB hit: false, PT hit: false 
+---
+> Virtual:  5300, Physical: 14260, Value: 231, TLB hit: false, PT hit: false 
+> Virtual:  5591, Physical: 14551, Value:  97, TLB hit: false, PT hit: false 
+> Virtual: 11984, Physical: 14800, Value: 239, TLB hit: false, PT hit: false 
+> Virtual: 48345, Physical: 15065, Value: 173, TLB hit: false, PT hit: false 
+> Virtual:   926, Physical: 15262, Value:  79, TLB hit: false, PT hit: false 
+160c160
+< Virtual:  7602, Physical: 15794, Value: 133, TLB hit: false, PT hit: false 
+---
+> Virtual:  7602, Physical: 15538, Value: 133, TLB hit: false, PT hit: false 
+163c163
+< Virtual:  5649, Physical: 15889, Value: 123, TLB hit: false, PT hit: false 
+---
+> Virtual:  5649, Physical: 15633, Value: 123, TLB hit: false, PT hit: false 
+165c165
+< Virtual: 22182, Physical: 16294, Value: 206, TLB hit: false, PT hit: false 
+---
+> Virtual: 22182, Physical: 16038, Value: 206, TLB hit: false, PT hit: false 
+167,172c167,172
+< Virtual: 10649, Physical:   153, Value:  56, TLB hit: false, PT hit: false 
+< Virtual: 18252, Physical:   332, Value: 100, TLB hit: false, PT hit: false 
+< Virtual:  2650, Physical:   602, Value: 137, TLB hit: false, PT hit: false 
+< Virtual: 17688, Physical:   792, Value:  77, TLB hit: false, PT hit: false 
+< Virtual: 13320, Physical:  1032, Value:  54, TLB hit: false, PT hit: false 
+< Virtual: 10070, Physical:  1366, Value: 226, TLB hit: false, PT hit: false 
+---
+> Virtual: 10649, Physical: 16281, Value:  56, TLB hit: false, PT hit: false 
+> Virtual: 18252, Physical:    76, Value: 100, TLB hit: false, PT hit: false 
+> Virtual:  2650, Physical:   346, Value: 137, TLB hit: false, PT hit: false 
+> Virtual: 17688, Physical:   536, Value:  77, TLB hit: false, PT hit: false 
+> Virtual: 13320, Physical:   776, Value:  54, TLB hit: false, PT hit: false 
+> Virtual: 10070, Physical:  1110, Value: 226, TLB hit: false, PT hit: false 
+175,180c175,180
+< Virtual: 26446, Physical:  1614, Value: 175, TLB hit: false, PT hit: false 
+< Virtual: 13121, Physical:  1857, Value:  88, TLB hit: false, PT hit: false 
+< Virtual: 63862, Physical:  2166, Value:  63, TLB hit: false, PT hit: false 
+< Virtual: 56732, Physical:  2460, Value:  16, TLB hit: false, PT hit: false 
+< Virtual: 10525, Physical:    29, Value:  80, TLB hit: true
+< Virtual: 15090, Physical:  2802, Value: 241, TLB hit: false, PT hit: false 
+---
+[2023-07-12 15:58:55.680363] Test not passed.
+[2023-07-12 15:58:55.680377] Running Score: 5/8
+
+[2023-07-12 15:58:55.680398] Evaluating random_addresses05 with the submitted solution.
+[2023-07-12 15:58:55.822324] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+980,983c980,983
+< Virtual: 54852, Physical:  6724, Value:  20, TLB hit: false, PT hit: false 
+< Virtual: 60734, Physical:  6974, Value: 201, TLB hit: false, PT hit: false 
+< Virtual: 46102, Physical:  7190, Value: 112, TLB hit: false, PT hit: false 
+< Virtual: 57995, Physical:  7563, Value:  11, TLB hit: false, PT hit: false 
+---
+> Virtual: 54852, Physical:  3396, Value:  90, TLB hit: true
+> Virtual: 60734, Physical:  6718, Value: 201, TLB hit: false, PT hit: false 
+> Virtual: 46102, Physical:  6934, Value: 112, TLB hit: false, PT hit: false 
+> Virtual: 57995, Physical:  7307, Value:  11, TLB hit: false, PT hit: false 
+985,988c985,988
+< Virtual: 63137, Physical:  7841, Value: 103, TLB hit: false, PT hit: false 
+< Virtual: 47332, Physical:  8164, Value: 201, TLB hit: false, PT hit: false 
+< Virtual:  8436, Physical:  8436, Value:  19, TLB hit: false, PT hit: false 
+< Virtual: 33699, Physical:  8611, Value:  34, TLB hit: false, PT hit: false 
+---
+> Virtual: 63137, Physical:  7585, Value: 103, TLB hit: false, PT hit: false 
+> Virtual: 47332, Physical:  7908, Value: 201, TLB hit: false, PT hit: false 
+> Virtual:  8436, Physical:  8180, Value:  19, TLB hit: false, PT hit: false 
+> Virtual: 33699, Physical:  8355, Value:  34, TLB hit: false, PT hit: false 
+990,991c990,991
+< Virtual: 17753, Physical:  8793, Value:   7, TLB hit: false, PT hit: false 
+< Virtual: 37494, Physical:  9078, Value: 146, TLB hit: false, PT hit: false 
+---
+> Virtual: 17753, Physical:  8537, Value:   7, TLB hit: false, PT hit: false 
+> Virtual: 37494, Physical:  8822, Value: 146, TLB hit: false, PT hit: false 
+993c993
+< Virtual: 23227, Physical:  9403, Value: 119, TLB hit: false, PT hit: false 
+---
+> Virtual: 23227, Physical:  9147, Value: 119, TLB hit: false, PT hit: false 
+996,998c996,998
+< Virtual: 63287, Physical:  9527, Value: 107, TLB hit: false, PT hit: false 
+< Virtual: 36416, Physical:  9792, Value: 103, TLB hit: false, PT hit: false 
+< Virtual: 23763, Physical: 10195, Value:  29, TLB hit: false, PT hit: false 
+---
+> Virtual: 63287, Physical:  9271, Value: 107, TLB hit: false, PT hit: false 
+> Virtual: 36416, Physical:  9536, Value: 103, TLB hit: false, PT hit: false 
+> Virtual: 23763, Physical:  9939, Value:  29, TLB hit: false, PT hit: false 
+1001,1002c1001,1002
+< Virtual: 46132, Physical:  7220, Value: 137, TLB hit: false, PT hit: true 
+< Virtual: 39555, Physical: 10371, Value:  18, TLB hit: false, PT hit: false 
+---
+> Virtual: 46132, Physical:  6964, Value: 137, TLB hit: false, PT hit: true 
+> Virtual: 39555, Physical: 10115, Value:  18, TLB hit: false, PT hit: false 
+1004,1012c1004,1012
+< Virtual:  6254, Physical: 10606, Value: 163, TLB hit: false, PT hit: false 
+< Virtual:  4294, Physical: 10950, Value: 210, TLB hit: false, PT hit: false 
+< Virtual:  6077, Physical: 11197, Value:  51, TLB hit: false, PT hit: false 
+< Virtual: 32592, Physical: 11344, Value: 143, TLB hit: false, PT hit: false 
+< Virtual: 55473, Physical: 11697, Value:  47, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:55.822456] Test not passed.
+[2023-07-12 15:58:55.822468] Running Score: 5/9
+
+[2023-07-12 15:58:55.822491] Evaluating random_addresses06 with the submitted solution.
+[2023-07-12 15:58:55.974777] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+220,228c220,228
+< Virtual: 48839, Physical: 13767, Value: 247, TLB hit: false, PT hit: false 
+< Virtual: 44396, Physical: 13932, Value: 113, TLB hit: false, PT hit: false 
+< Virtual: 58503, Physical: 14215, Value: 241, TLB hit: false, PT hit: false 
+< Virtual: 26768, Physical: 14480, Value:  96, TLB hit: false, PT hit: false 
+< Virtual: 59927, Physical: 14615, Value: 252, TLB hit: false, PT hit: false 
+< Virtual: 54576, Physical: 14896, Value:  24, TLB hit: false, PT hit: false 
+< Virtual: 41462, Physical: 15350, Value: 180, TLB hit: false, PT hit: false 
+< Virtual: 56428, Physical: 15468, Value: 103, TLB hit: false, PT hit: false 
+< Virtual: 56177, Physical: 15729, Value: 170, TLB hit: false, PT hit: false 
+---
+> Virtual: 48839, Physical: 11975, Value:  99, TLB hit: true
+> Virtual: 44396, Physical: 13676, Value: 113, TLB hit: false, PT hit: false 
+> Virtual: 58503, Physical: 13959, Value: 241, TLB hit: false, PT hit: false 
+> Virtual: 26768, Physical: 14224, Value:  96, TLB hit: false, PT hit: false 
+> Virtual: 59927, Physical: 14359, Value: 252, TLB hit: false, PT hit: false 
+> Virtual: 54576, Physical: 14640, Value:  24, TLB hit: false, PT hit: false 
+> Virtual: 41462, Physical: 15094, Value: 180, TLB hit: false, PT hit: false 
+> Virtual: 56428, Physical: 15212, Value: 103, TLB hit: false, PT hit: false 
+> Virtual: 56177, Physical: 15473, Value: 170, TLB hit: false, PT hit: false 
+230c230
+< Virtual: 24973, Physical: 16013, Value: 149, TLB hit: false, PT hit: false 
+---
+> Virtual: 24973, Physical: 15757, Value: 149, TLB hit: false, PT hit: false 
+234c234
+< Virtual: 25160, Physical: 16200, Value: 171, TLB hit: false, PT hit: false 
+---
+> Virtual: 25160, Physical: 15944, Value: 171, TLB hit: false, PT hit: false 
+236c236
+< Virtual: 64940, Physical:   172, Value: 152, TLB hit: false, PT hit: false 
+---
+> Virtual: 64940, Physical: 16300, Value: 152, TLB hit: false, PT hit: false 
+240,241c240,241
+< Virtual: 21418, Physical:   426, Value: 225, TLB hit: false, PT hit: false 
+< Virtual: 27765, Physical:   629, Value: 240, TLB hit: false, PT hit: false 
+---
+> Virtual: 21418, Physical:   170, Value: 225, TLB hit: false, PT hit: false 
+> Virtual: 27765, Physical:   373, Value: 240, TLB hit: false, PT hit: false 
+243,246c243,246
+< Virtual: 15913, Physical:   809, Value: 144, TLB hit: false, PT hit: false 
+< Virtual: 56118, Physical: 15670, Value:  60, TLB hit: true
+< Virtual: 24774, Physical:  1222, Value: 185, TLB hit: false, PT hit: false 
+< Virtual:  2815, Physical:  1535, Value:   5, TLB hit: false, PT hit: false 
+---
+> Virtual: 15913, Physical:   553, Value: 144, TLB hit: false, PT hit: false 
+> Virtual: 56118, Physical: 15414, Value:  60, TLB hit: true
+> Virtual: 24774, Physical:   966, Value: 185, TLB hit: false, PT hit: false 
+> Virtual:  2815, Physical:  1279, Value:   5, TLB hit: false, PT hit: false 
+248c248
+< Virtual: 49518, Physical:  1646, Value: 171, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:55.974924] Test not passed.
+[2023-07-12 15:58:55.974940] Running Score: 5/10
+
+[2023-07-12 15:58:55.974962] Evaluating random_addresses07 with the submitted solution.
+[2023-07-12 15:58:56.129608] Outputs match.
+[2023-07-12 15:58:56.129686] Test passed.
+[2023-07-12 15:58:56.129701] Running Score: 6/11
+
+[2023-07-12 15:58:56.129725] Evaluating random_addresses08 with the submitted solution.
+[2023-07-12 15:58:56.275093] Outputs match.
+[2023-07-12 15:58:56.275173] Test passed.
+[2023-07-12 15:58:56.275189] Running Score: 7/12
+
+[2023-07-12 15:58:56.275213] Evaluating random_addresses09 with the submitted solution.
+[2023-07-12 15:58:56.420213] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+229,231c229,231
+< Virtual:  9283, Physical: 12611, Value:  56, TLB hit: false, PT hit: false 
+< Virtual: 57399, Physical: 12855, Value:  45, TLB hit: false, PT hit: false 
+< Virtual: 55628, Physical: 13132, Value:  59, TLB hit: false, PT hit: false 
+---
+> Virtual:  9283, Physical: 11843, Value:   6, TLB hit: true
+> Virtual: 57399, Physical: 12599, Value:  45, TLB hit: false, PT hit: true 
+> Virtual: 55628, Physical: 12620, Value:  59, TLB hit: false, PT hit: false 
+234,242c234,242
+< Virtual: 18412, Physical: 13548, Value: 195, TLB hit: false, PT hit: false 
+< Virtual: 45952, Physical: 13696, Value: 198, TLB hit: false, PT hit: false 
+< Virtual:  9806, Physical: 13902, Value:  32, TLB hit: false, PT hit: false 
+< Virtual:  2478, Physical: 14254, Value: 104, TLB hit: false, PT hit: false 
+< Virtual: 34246, Physical: 14534, Value:   0, TLB hit: false, PT hit: false 
+< Virtual: 29767, Physical: 14663, Value: 162, TLB hit: false, PT hit: false 
+< Virtual: 41284, Physical: 14916, Value: 128, TLB hit: false, PT hit: false 
+< Virtual: 11133, Physical: 15229, Value: 150, TLB hit: false, PT hit: false 
+< Virtual: 19043, Physical: 15459, Value: 213, TLB hit: false, PT hit: false 
+---
+> Virtual: 18412, Physical: 13036, Value: 195, TLB hit: false, PT hit: false 
+> Virtual: 45952, Physical: 13184, Value: 198, TLB hit: false, PT hit: false 
+> Virtual:  9806, Physical: 13390, Value:  32, TLB hit: false, PT hit: false 
+> Virtual:  2478, Physical: 13742, Value: 104, TLB hit: false, PT hit: false 
+> Virtual: 34246, Physical: 14022, Value:   0, TLB hit: false, PT hit: false 
+> Virtual: 29767, Physical: 14151, Value: 162, TLB hit: false, PT hit: false 
+> Virtual: 41284, Physical: 14404, Value: 128, TLB hit: false, PT hit: false 
+> Virtual: 11133, Physical: 14717, Value: 150, TLB hit: false, PT hit: false 
+> Virtual: 19043, Physical: 14947, Value: 213, TLB hit: false, PT hit: false 
+245,247c245,247
+< Virtual:  7032, Physical: 15736, Value: 236, TLB hit: false, PT hit: false 
+< Virtual: 36976, Physical: 15984, Value: 136, TLB hit: false, PT hit: false 
+< Virtual:  1003, Physical: 16363, Value: 107, TLB hit: false, PT hit: false 
+---
+> Virtual:  7032, Physical: 15224, Value: 236, TLB hit: false, PT hit: false 
+> Virtual: 36976, Physical: 15472, Value: 136, TLB hit: false, PT hit: false 
+> Virtual:  1003, Physical: 15851, Value: 107, TLB hit: false, PT hit: false 
+249,250c249,250
+< Virtual: 55793, Physical: 13297, Value: 157, TLB hit: false, PT hit: true 
+< Virtual:  8867, Physical:   163, Value: 234, TLB hit: false, PT hit: false 
+---
+> Virtual: 55793, Physical: 12785, Value: 157, TLB hit: false, PT hit: true 
+> Virtual:  8867, Physical: 16035, Value: 234, TLB hit: false, PT hit: false 
+252,263c252,263
+< Virtual:  5887, Physical:   511, Value: 109, TLB hit: false, PT hit: false 
+< Virtual:  8788, Physical:    84, Value: 168, TLB hit: true
+< Virtual: 15052, Physical:   716, Value: 152, TLB hit: false, PT hit: false 
+< Virtual: 25148, Physical:   828, Value: 175, TLB hit: false, PT hit: false 
+< Virtual:  8414, Physical:  1246, Value: 177, TLB hit: false, PT hit: false 
+< Virtual: 54331, Physical:  1339, Value:  79, TLB hit: false, PT hit: false 
+< Virtual:  5076, Physical:  1748, Value:   5, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:56.420950] Test not passed.
+[2023-07-12 15:58:56.420989] Running Score: 7/13
+
+[2023-07-12 15:58:56.421010] Evaluating random_addresses10 with the submitted solution.
+[2023-07-12 15:58:56.565420] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+470,471c470,471
+< Virtual: 13506, Physical:  8386, Value:  57, TLB hit: false, PT hit: false 
+< Virtual: 27724, Physical:  8524, Value: 166, TLB hit: false, PT hit: false 
+---
+> Virtual: 13506, Physical:  6082, Value: 164, TLB hit: true
+> Virtual: 27724, Physical:  8268, Value: 166, TLB hit: false, PT hit: false 
+473c473
+< Virtual: 24362, Physical:  8746, Value:  64, TLB hit: false, PT hit: false 
+---
+> Virtual: 24362, Physical:  8490, Value:  64, TLB hit: false, PT hit: false 
+475c475
+< Virtual: 38368, Physical:  9184, Value:  78, TLB hit: false, PT hit: false 
+---
+> Virtual: 38368, Physical:  8928, Value:  78, TLB hit: false, PT hit: false 
+479c479
+< Virtual:  7798, Physical:  9334, Value:  78, TLB hit: false, PT hit: false 
+---
+> Virtual:  7798, Physical:  9078, Value:  78, TLB hit: false, PT hit: false 
+483,489c483,489
+< Virtual: 50018, Physical:  9570, Value: 149, TLB hit: false, PT hit: false 
+< Virtual: 34386, Physical:  9810, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 38959, Physical: 10031, Value: 199, TLB hit: false, PT hit: false 
+< Virtual: 28718, Physical: 10286, Value: 108, TLB hit: false, PT hit: false 
+< Virtual:  4531, Physical: 10675, Value: 240, TLB hit: false, PT hit: false 
+< Virtual: 20187, Physical: 10971, Value: 157, TLB hit: false, PT hit: false 
+< Virtual: 17479, Physical: 11079, Value: 110, TLB hit: false, PT hit: false 
+---
+> Virtual: 50018, Physical:  9314, Value: 149, TLB hit: false, PT hit: false 
+> Virtual: 34386, Physical:  9554, Value:  13, TLB hit: false, PT hit: false 
+> Virtual: 38959, Physical:  9775, Value: 199, TLB hit: false, PT hit: false 
+> Virtual: 28718, Physical: 10030, Value: 108, TLB hit: false, PT hit: false 
+> Virtual:  4531, Physical: 10419, Value: 240, TLB hit: false, PT hit: false 
+> Virtual: 20187, Physical: 10715, Value: 157, TLB hit: false, PT hit: false 
+> Virtual: 17479, Physical: 10823, Value: 110, TLB hit: false, PT hit: false 
+491,496c491,496
+< Virtual: 49526, Physical: 11382, Value:  57, TLB hit: false, PT hit: false 
+< Virtual:  3445, Physical: 11637, Value:  28, TLB hit: false, PT hit: false 
+< Virtual: 59986, Physical: 11858, Value: 127, TLB hit: false, PT hit: false 
+< Virtual: 12106, Physical: 12106, Value:   1, TLB hit: false, PT hit: false 
+< Virtual: 55847, Physical: 12327, Value: 181, TLB hit: false, PT hit: false 
+< Virtual: 14382, Physical: 12590, Value: 125, TLB hit: false, PT hit: false 
+---
+> Virtual: 49526, Physical: 11126, Value:  57, TLB hit: false, PT hit: false 
+> Virtual:  3445, Physical: 11381, Value:  28, TLB hit: false, PT hit: false 
+> Virtual: 59986, Physical: 11602, Value: 127, TLB hit: false, PT hit: false 
+> Virtual: 12106, Physical: 11850, Value:   1, TLB hit: false, PT hit: false 
+> Virtual: 55847, Physical: 12071, Value: 181, TLB hit: false, PT hit: false 
+> Virtual: 14382, Physical: 12334, Value: 125, TLB hit: false, PT hit: false 
+498,504c498,504
+< Virtual: 48549, Physical: 12965, Value: 178, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:56.565743] Test not passed.
+[2023-07-12 15:58:56.565762] Running Score: 7/14
+
+[2023-07-12 15:58:56.565790] Evaluating random_addresses11 with the submitted solution.
+[2023-07-12 15:58:56.709246] Outputs match.
+[2023-07-12 15:58:56.709312] Test passed.
+[2023-07-12 15:58:56.709325] Running Score: 8/15
+
+[2023-07-12 15:58:56.709349] Evaluating random_addresses12 with the submitted solution.
+[2023-07-12 15:58:56.851299] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1160,1168c1160,1168
+< Virtual: 22228, Physical:  9684, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 50541, Physical:  9837, Value: 109, TLB hit: false, PT hit: false 
+< Virtual:  5762, Physical: 10114, Value:  46, TLB hit: false, PT hit: false 
+< Virtual: 55222, Physical: 10422, Value: 217, TLB hit: false, PT hit: false 
+< Virtual: 40557, Physical: 10605, Value: 106, TLB hit: false, PT hit: false 
+< Virtual: 12456, Physical: 10920, Value:  24, TLB hit: false, PT hit: false 
+< Virtual: 52812, Physical: 11084, Value: 173, TLB hit: false, PT hit: false 
+< Virtual: 41305, Physical: 11353, Value: 100, TLB hit: false, PT hit: false 
+< Virtual:  3412, Physical: 11604, Value:  45, TLB hit: false, PT hit: false 
+---
+> Virtual: 22228, Physical:  8660, Value:  98, TLB hit: true
+> Virtual: 50541, Physical:  9581, Value: 109, TLB hit: false, PT hit: false 
+> Virtual:  5762, Physical:  9858, Value:  46, TLB hit: false, PT hit: false 
+> Virtual: 55222, Physical: 10166, Value: 217, TLB hit: false, PT hit: false 
+> Virtual: 40557, Physical: 10349, Value: 106, TLB hit: false, PT hit: false 
+> Virtual: 12456, Physical: 10664, Value:  24, TLB hit: false, PT hit: false 
+> Virtual: 52812, Physical: 10828, Value: 173, TLB hit: false, PT hit: false 
+> Virtual: 41305, Physical: 11097, Value: 100, TLB hit: false, PT hit: false 
+> Virtual:  3412, Physical: 11348, Value:  45, TLB hit: false, PT hit: false 
+1170,1174c1170,1174
+< Virtual: 23951, Physical: 11919, Value: 112, TLB hit: false, PT hit: false 
+< Virtual:  4512, Physical: 12192, Value: 225, TLB hit: false, PT hit: false 
+< Virtual:  1938, Physical: 12434, Value: 140, TLB hit: false, PT hit: false 
+< Virtual: 45669, Physical: 12645, Value:  37, TLB hit: false, PT hit: false 
+< Virtual: 38297, Physical: 12953, Value: 182, TLB hit: false, PT hit: false 
+---
+> Virtual: 23951, Physical: 11663, Value: 112, TLB hit: false, PT hit: false 
+> Virtual:  4512, Physical: 11936, Value: 225, TLB hit: false, PT hit: false 
+> Virtual:  1938, Physical: 12178, Value: 140, TLB hit: false, PT hit: false 
+> Virtual: 45669, Physical: 12389, Value:  37, TLB hit: false, PT hit: false 
+> Virtual: 38297, Physical: 12697, Value: 182, TLB hit: false, PT hit: false 
+1176,1188c1176,1188
+< Virtual: 63052, Physical: 13132, Value:  98, TLB hit: false, PT hit: false 
+< Virtual:  2880, Physical: 13376, Value:  93, TLB hit: false, PT hit: false 
+< Virtual: 10304, Physical: 13632, Value: 245, TLB hit: false, PT hit: false 
+< Virtual: 38210, Physical: 12866, Value: 210, TLB hit: true
+< Virtual:  6700, Physical: 13868, Value: 138, TLB hit: false, PT hit: false 
+< Virtual: 36773, Physical: 14245, Value:  35, TLB hit: false, PT hit: false 
+< Virtual: 64156, Physical: 14492, Value: 218, TLB hit: false, PT hit: false 
+< Virtual: 57787, Physical: 14779, Value: 140, TLB hit: false, PT hit: false 
+< Virtual: 22395, Physical: 14971, Value: 104, TLB hit: false, PT hit: false 
+< Virtual: 32398, Physical: 15246, Value: 177, TLB hit: false, PT hit: false 
+< Virtual:  1708, Physical: 15532, Value: 110, TLB hit: false, PT hit: false 
+< Virtual: 65288, Physical: 15624, Value:  71, TLB hit: false, PT hit: false 
+< Virtual:  6172, Physical: 15900, Value:  11, TLB hit: false, PT hit: false 
+---
+> Virtual: 63052, Physical: 12876, Value:  98, TLB hit: false, PT hit: false 
+> Virtual:  2880, Physical: 13120, Value:  93, TLB hit: false, PT hit: false 
+> Virtual: 10304, Physical: 13376, Value: 245, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:56.851451] Test not passed.
+[2023-07-12 15:58:56.851469] Running Score: 8/16
+
+[2023-07-12 15:58:56.851494] Evaluating random_addresses13 with the submitted solution.
+[2023-07-12 15:58:56.988364] Outputs match.
+[2023-07-12 15:58:56.988442] Test passed.
+[2023-07-12 15:58:56.988461] Running Score: 9/17
+
+[2023-07-12 15:58:56.988513] Evaluating random_addresses14 with the submitted solution.
+[2023-07-12 15:58:57.135867] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+694,702c694,702
+< Virtual: 20008, Physical:  5160, Value: 123, TLB hit: false, PT hit: false 
+< Virtual: 17432, Physical:  5400, Value: 247, TLB hit: false, PT hit: false 
+< Virtual:  4253, Physical:  5789, Value: 113, TLB hit: false, PT hit: false 
+< Virtual: 53393, Physical:  6033, Value: 229, TLB hit: false, PT hit: false 
+< Virtual: 56252, Physical:  6332, Value: 215, TLB hit: false, PT hit: false 
+< Virtual: 28669, Physical:  6653, Value: 240, TLB hit: false, PT hit: false 
+< Virtual:  2878, Physical:  6718, Value: 212, TLB hit: false, PT hit: false 
+< Virtual: 19574, Physical:  7030, Value: 210, TLB hit: false, PT hit: false 
+< Virtual: 59307, Physical:  7339, Value: 135, TLB hit: false, PT hit: false 
+---
+> Virtual: 20008, Physical:  4648, Value:  47, TLB hit: true
+> Virtual: 17432, Physical:  5144, Value: 247, TLB hit: false, PT hit: false 
+> Virtual:  4253, Physical:  5533, Value: 113, TLB hit: false, PT hit: false 
+> Virtual: 53393, Physical:  5777, Value: 229, TLB hit: false, PT hit: false 
+> Virtual: 56252, Physical:  6076, Value: 215, TLB hit: false, PT hit: false 
+> Virtual: 28669, Physical:  6397, Value: 240, TLB hit: false, PT hit: false 
+> Virtual:  2878, Physical:  6462, Value: 212, TLB hit: false, PT hit: false 
+> Virtual: 19574, Physical:  6774, Value: 210, TLB hit: false, PT hit: false 
+> Virtual: 59307, Physical:  7083, Value: 135, TLB hit: false, PT hit: false 
+704c704
+< Virtual: 36039, Physical:  7623, Value: 228, TLB hit: false, PT hit: false 
+---
+> Virtual: 36039, Physical:  7367, Value: 228, TLB hit: false, PT hit: false 
+706,707c706,707
+< Virtual: 43642, Physical:  7802, Value:  18, TLB hit: false, PT hit: false 
+< Virtual: 46669, Physical:  8013, Value: 135, TLB hit: false, PT hit: false 
+---
+> Virtual: 43642, Physical:  7546, Value:  18, TLB hit: false, PT hit: false 
+> Virtual: 46669, Physical:  7757, Value: 135, TLB hit: false, PT hit: false 
+710,719c710,719
+< Virtual: 43290, Physical:  8218, Value: 247, TLB hit: false, PT hit: false 
+< Virtual: 65326, Physical:  8494, Value: 228, TLB hit: false, PT hit: false 
+< Virtual: 23074, Physical:  8738, Value: 123, TLB hit: false, PT hit: false 
+< Virtual: 11985, Physical:  9169, Value: 142, TLB hit: false, PT hit: false 
+< Virtual:  5479, Physical:  9319, Value: 178, TLB hit: false, PT hit: false 
+< Virtual: 40491, Physical:  9515, Value:  71, TLB hit: false, PT hit: false 
+< Virtual: 28470, Physical:  6454, Value:   7, TLB hit: false, PT hit: true 
+< Virtual: 60024, Physical:  9848, Value: 113, TLB hit: false, PT hit: false 
+< Virtual: 57701, Physical: 10085, Value:   8, TLB hit: false, PT hit: false 
+< Virtual: 17055, Physical: 10399, Value:  83, TLB hit: false, PT hit: false 
+---
+> Virtual: 43290, Physical:  7962, Value: 247, TLB hit: false, PT hit: false 
+> Virtual: 65326, Physical:  8238, Value: 228, TLB hit: false, PT hit: false 
+> Virtual: 23074, Physical:  8482, Value: 123, TLB hit: false, PT hit: false 
+> Virtual: 11985, Physical:  8913, Value: 142, TLB hit: false, PT hit: false 
+> Virtual:  5479, Physical:  9063, Value: 178, TLB hit: false, PT hit: false 
+> Virtual: 40491, Physical:  9259, Value:  71, TLB hit: false, PT hit: false 
+> Virtual: 28470, Physical:  6198, Value:   7, TLB hit: false, PT hit: true 
+> Virtual: 60024, Physical:  9592, Value: 113, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:57.136007] Test not passed.
+[2023-07-12 15:58:57.136020] Running Score: 9/18
+
+[2023-07-12 15:58:57.136040] Evaluating random_addresses15 with the submitted solution.
+[2023-07-12 15:58:57.285860] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+257c257
+< Virtual: 16541, Physical:  4509, Value: 230, TLB hit: false, PT hit: false 
+---
+> Virtual: 16541, Physical:  2461, Value: 247, TLB hit: true
+259,265c259,265
+< Virtual: 52244, Physical:  4628, Value:  69, TLB hit: false, PT hit: false 
+< Virtual: 11575, Physical:  4919, Value:  98, TLB hit: false, PT hit: false 
+< Virtual: 34532, Physical:  5348, Value:  89, TLB hit: false, PT hit: false 
+< Virtual: 49242, Physical:  5466, Value: 135, TLB hit: false, PT hit: false 
+< Virtual: 62642, Physical:  5810, Value: 136, TLB hit: false, PT hit: false 
+< Virtual: 13924, Physical:  5988, Value: 160, TLB hit: false, PT hit: false 
+< Virtual: 11021, Physical:  6157, Value:  51, TLB hit: false, PT hit: false 
+---
+> Virtual: 52244, Physical:  4372, Value:  69, TLB hit: false, PT hit: false 
+> Virtual: 11575, Physical:  4663, Value:  98, TLB hit: false, PT hit: false 
+> Virtual: 34532, Physical:  5092, Value:  89, TLB hit: false, PT hit: false 
+> Virtual: 49242, Physical:  5210, Value: 135, TLB hit: false, PT hit: false 
+> Virtual: 62642, Physical:  5554, Value: 136, TLB hit: false, PT hit: false 
+> Virtual: 13924, Physical:  5732, Value: 160, TLB hit: false, PT hit: false 
+> Virtual: 11021, Physical:  5901, Value:  51, TLB hit: false, PT hit: false 
+267,277c267,277
+< Virtual: 10375, Physical:  6535, Value: 103, TLB hit: false, PT hit: false 
+< Virtual: 46107, Physical:  6683, Value: 108, TLB hit: false, PT hit: false 
+< Virtual: 44400, Physical:  7024, Value: 167, TLB hit: false, PT hit: false 
+< Virtual:  6953, Physical:  7209, Value:  70, TLB hit: false, PT hit: false 
+< Virtual: 56841, Physical:  7433, Value:   5, TLB hit: false, PT hit: false 
+< Virtual: 24618, Physical:  7722, Value:  20, TLB hit: false, PT hit: false 
+< Virtual: 26438, Physical:  8006, Value: 108, TLB hit: false, PT hit: false 
+< Virtual:   879, Physical:  8303, Value: 115, TLB hit: false, PT hit: false 
+< Virtual:  3896, Physical:  8504, Value: 215, TLB hit: false, PT hit: false 
+< Virtual: 31841, Physical:  8801, Value: 166, TLB hit: false, PT hit: false 
+< Virtual:  6209, Physical:  9025, Value: 200, TLB hit: false, PT hit: false 
+---
+> Virtual: 10375, Physical:  6279, Value: 103, TLB hit: false, PT hit: false 
+> Virtual: 46107, Physical:  6427, Value: 108, TLB hit: false, PT hit: false 
+> Virtual: 44400, Physical:  6768, Value: 167, TLB hit: false, PT hit: false 
+> Virtual:  6953, Physical:  6953, Value:  70, TLB hit: false, PT hit: false 
+> Virtual: 56841, Physical:  7177, Value:   5, TLB hit: false, PT hit: false 
+> Virtual: 24618, Physical:  7466, Value:  20, TLB hit: false, PT hit: false 
+> Virtual: 26438, Physical:  7750, Value: 108, TLB hit: false, PT hit: false 
+> Virtual:   879, Physical:  8047, Value: 115, TLB hit: false, PT hit: false 
+> Virtual:  3896, Physical:  8248, Value: 215, TLB hit: false, PT hit: false 
+> Virtual: 31841, Physical:  8545, Value: 166, TLB hit: false, PT hit: false 
+> Virtual:  6209, Physical:  8769, Value: 200, TLB hit: false, PT hit: false 
+279,290c279,290
+< Virtual: 50170, Physical:  9466, Value:  43, TLB hit: false, PT hit: false 
+< Virtual: 29566, Physical:  9598, Value: 234, TLB hit: false, PT hit: false 
+< Virtual: 26416, Physical:  7984, Value:  45, TLB hit: true
+< Virtual:  3496, Physical:  9896, Value: 191, TLB hit: false, PT hit: false 
+< Virtual: 17530, Physical: 10106, Value:  64, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:57.286088] Test not passed.
+[2023-07-12 15:58:57.286109] Running Score: 9/19
+
+[2023-07-12 15:58:57.286173] Evaluating random_addresses16 with the submitted solution.
+[2023-07-12 15:58:57.431009] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+155c155
+< Virtual: 35398, Physical: 14918, Value: 235, TLB hit: false, PT hit: false 
+---
+> Virtual: 35398, Physical: 14406, Value: 198, TLB hit: true
+157,174c157,174
+< Virtual: 44196, Physical: 15268, Value:  91, TLB hit: false, PT hit: false 
+< Virtual:  8911, Physical: 15567, Value: 205, TLB hit: false, PT hit: false 
+< Virtual: 26473, Physical: 15721, Value: 170, TLB hit: false, PT hit: false 
+< Virtual:   667, Physical: 16027, Value: 189, TLB hit: false, PT hit: false 
+< Virtual: 43032, Physical: 16152, Value: 170, TLB hit: false, PT hit: false 
+< Virtual: 26339, Physical:   227, Value:  17, TLB hit: false, PT hit: false 
+< Virtual:  6726, Physical:   326, Value: 153, TLB hit: false, PT hit: false 
+< Virtual: 46431, Physical:   607, Value:  79, TLB hit: false, PT hit: false 
+< Virtual:   552, Physical: 15912, Value: 166, TLB hit: true
+< Virtual: 56854, Physical:   790, Value: 243, TLB hit: false, PT hit: false 
+< Virtual: 42263, Physical:  1047, Value:  35, TLB hit: false, PT hit: false 
+< Virtual: 64049, Physical:  1329, Value: 172, TLB hit: false, PT hit: false 
+< Virtual: 26883, Physical:  1539, Value:  73, TLB hit: false, PT hit: false 
+< Virtual: 10611, Physical:  1907, Value: 184, TLB hit: false, PT hit: false 
+< Virtual: 24354, Physical:  2082, Value: 132, TLB hit: false, PT hit: false 
+< Virtual:  9444, Physical:  2532, Value:  30, TLB hit: false, PT hit: false 
+< Virtual: 35212, Physical:  2700, Value:  42, TLB hit: false, PT hit: false 
+< Virtual: 18071, Physical:  2967, Value: 182, TLB hit: false, PT hit: false 
+---
+> Virtual: 44196, Physical: 15012, Value:  91, TLB hit: false, PT hit: false 
+> Virtual:  8911, Physical: 15311, Value: 205, TLB hit: false, PT hit: false 
+> Virtual: 26473, Physical: 15465, Value: 170, TLB hit: false, PT hit: false 
+> Virtual:   667, Physical: 15771, Value: 189, TLB hit: false, PT hit: false 
+> Virtual: 43032, Physical: 15896, Value: 170, TLB hit: false, PT hit: false 
+> Virtual: 26339, Physical: 16355, Value:  17, TLB hit: false, PT hit: false 
+> Virtual:  6726, Physical:    70, Value: 153, TLB hit: false, PT hit: false 
+> Virtual: 46431, Physical:   351, Value:  79, TLB hit: false, PT hit: false 
+> Virtual:   552, Physical: 15656, Value: 166, TLB hit: true
+> Virtual: 56854, Physical:   534, Value: 243, TLB hit: false, PT hit: false 
+> Virtual: 42263, Physical:   791, Value:  35, TLB hit: false, PT hit: false 
+> Virtual: 64049, Physical:  1073, Value: 172, TLB hit: false, PT hit: false 
+> Virtual: 26883, Physical:  1283, Value:  73, TLB hit: false, PT hit: false 
+> Virtual: 10611, Physical:  1651, Value: 184, TLB hit: false, PT hit: false 
+> Virtual: 24354, Physical:  1826, Value: 132, TLB hit: false, PT hit: false 
+> Virtual:  9444, Physical:  2276, Value:  30, TLB hit: false, PT hit: false 
+> Virtual: 35212, Physical:  2444, Value:  42, TLB hit: false, PT hit: false 
+> Virtual: 18071, Physical:  2711, Value: 182, TLB hit: false, PT hit: false 
+176,186c176,186
+< Virtual: 54807, Physical:  3095, Value: 184, TLB hit: false, PT hit: false 
+< Virtual: 20839, Physical:  3431, Value: 224, TLB hit: false, PT hit: false 
+< Virtual: 10957, Physical:  3789, Value:  60, TLB hit: false, PT hit: false 
+< Virtual: 65261, Physical:  4077, Value: 108, TLB hit: false, PT hit: false 
+< Virtual: 34910, Physical:  4190, Value: 109, TLB hit: false, PT hit: false 
+< Virtual: 61470, Physical:  4382, Value:  26, TLB hit: false, PT hit: false 
+< Virtual: 16582, Physical:  4806, Value: 144, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:57.432352] Test not passed.
+[2023-07-12 15:58:57.432409] Running Score: 9/20
+
+[2023-07-12 15:58:57.432532] Evaluating random_addresses17 with the submitted solution.
+[2023-07-12 15:58:57.591475] Outputs match.
+[2023-07-12 15:58:57.591557] Test passed.
+[2023-07-12 15:58:57.591577] Running Score: 10/21
+
+[2023-07-12 15:58:57.591602] Evaluating random_addresses18 with the submitted solution.
+[2023-07-12 15:58:57.726830] Outputs match.
+[2023-07-12 15:58:57.726898] Test passed.
+[2023-07-12 15:58:57.726911] Running Score: 11/22
+
+[2023-07-12 15:58:57.726939] Evaluating random_addresses19 with the submitted solution.
+[2023-07-12 15:58:57.872007] Outputs match.
+[2023-07-12 15:58:57.872082] Test passed.
+[2023-07-12 15:58:57.872096] Running Score: 12/23
+
+[2023-07-12 15:58:57.872124] Evaluating random_addresses20 with the submitted solution.
+[2023-07-12 15:58:58.013659] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+419,420c419,420
+< Virtual: 18364, Physical: 13756, Value: 162, TLB hit: false, PT hit: false 
+< Virtual: 61509, Physical: 13893, Value: 147, TLB hit: false, PT hit: false 
+---
+> Virtual: 18364, Physical: 12220, Value: 102, TLB hit: true
+> Virtual: 61509, Physical: 13637, Value: 147, TLB hit: false, PT hit: false 
+422,423c422,423
+< Virtual: 28117, Physical: 14293, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 58232, Physical: 14456, Value:  91, TLB hit: false, PT hit: false 
+---
+> Virtual: 28117, Physical: 14037, Value:  13, TLB hit: false, PT hit: false 
+> Virtual: 58232, Physical: 14200, Value:  91, TLB hit: false, PT hit: false 
+425c425
+< Virtual: 22785, Physical: 14593, Value:  63, TLB hit: false, PT hit: false 
+---
+> Virtual: 22785, Physical: 14337, Value:  63, TLB hit: false, PT hit: false 
+427,430c427,430
+< Virtual: 56466, Physical: 14994, Value: 252, TLB hit: false, PT hit: false 
+< Virtual:  6765, Physical: 15213, Value: 203, TLB hit: false, PT hit: false 
+< Virtual: 36685, Physical: 15437, Value:  53, TLB hit: false, PT hit: false 
+< Virtual: 20214, Physical: 15862, Value: 102, TLB hit: false, PT hit: false 
+---
+> Virtual: 56466, Physical: 14738, Value: 252, TLB hit: false, PT hit: false 
+> Virtual:  6765, Physical: 14957, Value: 203, TLB hit: false, PT hit: false 
+> Virtual: 36685, Physical: 15181, Value:  53, TLB hit: false, PT hit: false 
+> Virtual: 20214, Physical: 15606, Value: 102, TLB hit: false, PT hit: false 
+433,435c433,435
+< Virtual: 33550, Physical: 15886, Value: 222, TLB hit: false, PT hit: false 
+< Virtual: 32472, Physical: 16344, Value: 230, TLB hit: false, PT hit: false 
+< Virtual: 53271, Physical:    23, Value: 199, TLB hit: false, PT hit: false 
+---
+> Virtual: 33550, Physical: 15630, Value: 222, TLB hit: false, PT hit: false 
+> Virtual: 32472, Physical: 16088, Value: 230, TLB hit: false, PT hit: false 
+> Virtual: 53271, Physical: 16151, Value: 199, TLB hit: false, PT hit: false 
+437,447c437,447
+< Virtual: 20648, Physical:   424, Value:  31, TLB hit: false, PT hit: false 
+< Virtual: 17567, Physical:   671, Value:  66, TLB hit: false, PT hit: false 
+< Virtual: 34459, Physical:   923, Value: 170, TLB hit: false, PT hit: false 
+< Virtual: 24389, Physical:  1093, Value:  46, TLB hit: false, PT hit: false 
+< Virtual: 48994, Physical:  1378, Value: 169, TLB hit: false, PT hit: false 
+< Virtual: 24756, Physical:  1716, Value:  93, TLB hit: false, PT hit: false 
+< Virtual: 37567, Physical:  1983, Value: 237, TLB hit: false, PT hit: false 
+< Virtual: 60334, Physical:  2222, Value:  66, TLB hit: false, PT hit: false 
+< Virtual: 39577, Physical:  2457, Value: 238, TLB hit: false, PT hit: false 
+< Virtual: 39706, Physical:  2586, Value: 152, TLB hit: false, PT hit: false 
+< Virtual: 41667, Physical:  3011, Value: 219, TLB hit: false, PT hit: false 
+---
+> Virtual: 20648, Physical:   168, Value:  31, TLB hit: false, PT hit: false 
+> Virtual: 17567, Physical:   415, Value:  66, TLB hit: false, PT hit: false 
+> Virtual: 34459, Physical:   667, Value: 170, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:58.013826] Test not passed.
+[2023-07-12 15:58:58.013840] Running Score: 12/24
+
+[2023-07-12 15:58:58.013861] Evaluating random_addresses21 with the submitted solution.
+[2023-07-12 15:58:58.161509] Outputs match.
+[2023-07-12 15:58:58.161586] Test passed.
+[2023-07-12 15:58:58.161600] Running Score: 13/25
+
+[2023-07-12 15:58:58.161629] Evaluating random_addresses22 with the submitted solution.
+[2023-07-12 15:58:58.301766] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+190,191c190,191
+< Virtual: 58222, Physical:  7022, Value: 217, TLB hit: false, PT hit: false 
+< Virtual: 39902, Physical:  7390, Value:  27, TLB hit: false, PT hit: false 
+---
+> Virtual: 58222, Physical:  5742, Value:  70, TLB hit: true
+> Virtual: 39902, Physical:  7134, Value:  27, TLB hit: false, PT hit: false 
+193c193
+< Virtual: 32330, Physical:  7498, Value: 252, TLB hit: false, PT hit: false 
+---
+> Virtual: 32330, Physical:  7242, Value: 252, TLB hit: false, PT hit: false 
+195,200c195,200
+< Virtual:  6877, Physical:  7901, Value: 209, TLB hit: false, PT hit: false 
+< Virtual: 21643, Physical:  8075, Value: 213, TLB hit: false, PT hit: false 
+< Virtual: 36298, Physical:  8394, Value: 201, TLB hit: false, PT hit: false 
+< Virtual: 49432, Physical:  8472, Value:  45, TLB hit: false, PT hit: false 
+< Virtual: 61684, Physical:  8948, Value: 139, TLB hit: false, PT hit: false 
+< Virtual: 37902, Physical:  8974, Value: 249, TLB hit: false, PT hit: false 
+---
+> Virtual:  6877, Physical:  7645, Value: 209, TLB hit: false, PT hit: false 
+> Virtual: 21643, Physical:  7819, Value: 213, TLB hit: false, PT hit: false 
+> Virtual: 36298, Physical:  8138, Value: 201, TLB hit: false, PT hit: false 
+> Virtual: 49432, Physical:  8216, Value:  45, TLB hit: false, PT hit: false 
+> Virtual: 61684, Physical:  8692, Value: 139, TLB hit: false, PT hit: false 
+> Virtual: 37902, Physical:  8718, Value: 249, TLB hit: false, PT hit: false 
+202c202
+< Virtual: 44306, Physical:  9234, Value: 128, TLB hit: false, PT hit: false 
+---
+> Virtual: 44306, Physical:  8978, Value: 128, TLB hit: false, PT hit: false 
+204c204
+< Virtual: 27296, Physical:  9632, Value:  59, TLB hit: false, PT hit: false 
+---
+> Virtual: 27296, Physical:  9376, Value:  59, TLB hit: false, PT hit: false 
+206,208c206,208
+< Virtual: 20085, Physical:  9845, Value: 150, TLB hit: false, PT hit: false 
+< Virtual: 42918, Physical: 10150, Value: 230, TLB hit: false, PT hit: false 
+< Virtual: 12415, Physical: 10367, Value: 157, TLB hit: false, PT hit: false 
+---
+> Virtual: 20085, Physical:  9589, Value: 150, TLB hit: false, PT hit: false 
+> Virtual: 42918, Physical:  9894, Value: 230, TLB hit: false, PT hit: false 
+> Virtual: 12415, Physical: 10111, Value: 157, TLB hit: false, PT hit: false 
+210,223c210,223
+< Virtual: 21924, Physical: 10660, Value:  53, TLB hit: false, PT hit: false 
+< Virtual: 48841, Physical: 10953, Value:  37, TLB hit: false, PT hit: false 
+< Virtual:  2447, Physical: 11151, Value:  64, TLB hit: false, PT hit: false 
+< Virtual: 57963, Physical: 11371, Value:  28, TLB hit: false, PT hit: false 
+< Virtual: 22241, Physical: 11745, Value: 208, TLB hit: false, PT hit: false 
+< Virtual:  2170, Physical: 11898, Value: 252, TLB hit: false, PT hit: false 
+< Virtual: 50356, Physical: 12212, Value:  83, TLB hit: false, PT hit: false 
+< Virtual: 14998, Physical: 12438, Value:  96, TLB hit: false, PT hit: false 
+< Virtual: 45310, Physical: 12798, Value: 200, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:58.301934] Test not passed.
+[2023-07-12 15:58:58.301952] Running Score: 13/26
+
+[2023-07-12 15:58:58.301974] Evaluating random_addresses23 with the submitted solution.
+[2023-07-12 15:58:58.454764] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+236c236
+< Virtual: 52099, Physical: 14979, Value: 233, TLB hit: false, PT hit: false 
+---
+> Virtual: 52099, Physical: 12931, Value:  31, TLB hit: true
+238,239c238,239
+< Virtual:  4584, Physical: 15336, Value:  59, TLB hit: false, PT hit: false 
+< Virtual: 31058, Physical: 15442, Value: 127, TLB hit: false, PT hit: false 
+---
+> Virtual:  4584, Physical: 15080, Value:  59, TLB hit: false, PT hit: false 
+> Virtual: 31058, Physical: 15186, Value: 127, TLB hit: false, PT hit: false 
+241,253c241,253
+< Virtual: 38697, Physical: 15657, Value: 162, TLB hit: false, PT hit: false 
+< Virtual: 41894, Physical: 16038, Value: 133, TLB hit: false, PT hit: false 
+< Virtual: 38391, Physical: 16375, Value: 232, TLB hit: false, PT hit: false 
+< Virtual: 38147, Physical: 16131, Value: 210, TLB hit: true
+< Virtual: 28558, Physical:   142, Value: 118, TLB hit: false, PT hit: false 
+< Virtual: 55183, Physical:   399, Value:  92, TLB hit: false, PT hit: false 
+< Virtual: 44660, Physical:   628, Value:  45, TLB hit: false, PT hit: false 
+< Virtual: 32903, Physical:   903, Value:  33, TLB hit: false, PT hit: false 
+< Virtual: 51665, Physical:  1233, Value: 223, TLB hit: false, PT hit: false 
+< Virtual: 54535, Physical:  1287, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 38277, Physical: 16261, Value: 226, TLB hit: true
+< Virtual: 47080, Physical:  1768, Value:  78, TLB hit: false, PT hit: false 
+< Virtual: 53077, Physical: 14165, Value: 247, TLB hit: false, PT hit: true 
+---
+> Virtual: 38697, Physical: 15401, Value: 162, TLB hit: false, PT hit: false 
+> Virtual: 41894, Physical: 15782, Value: 133, TLB hit: false, PT hit: false 
+> Virtual: 38391, Physical: 16119, Value: 232, TLB hit: false, PT hit: false 
+> Virtual: 38147, Physical: 15875, Value: 210, TLB hit: true
+> Virtual: 28558, Physical: 16270, Value: 118, TLB hit: false, PT hit: false 
+> Virtual: 55183, Physical:   143, Value:  92, TLB hit: false, PT hit: false 
+> Virtual: 44660, Physical:   372, Value:  45, TLB hit: false, PT hit: false 
+> Virtual: 32903, Physical:   647, Value:  33, TLB hit: false, PT hit: false 
+> Virtual: 51665, Physical:   977, Value: 223, TLB hit: false, PT hit: false 
+> Virtual: 54535, Physical:  1031, Value:  13, TLB hit: false, PT hit: false 
+> Virtual: 38277, Physical: 16005, Value: 226, TLB hit: true
+> Virtual: 47080, Physical:  1512, Value:  78, TLB hit: false, PT hit: false 
+> Virtual: 53077, Physical: 14165, Value: 247, TLB hit: true
+255c255
+< Virtual: 40243, Physical:  1843, Value: 229, TLB hit: false, PT hit: false 
+---
+> Virtual: 40243, Physical:  1587, Value: 229, TLB hit: false, PT hit: false 
+257,264c257,264
+< Virtual: 26082, Physical:  2274, Value: 219, TLB hit: false, PT hit: false 
+< Virtual: 33001, Physical:  1001, Value: 243, TLB hit: true
+< Virtual: 64803, Physical:  2339, Value: 254, TLB hit: false, PT hit: false 
+< Virtual: 11862, Physical:  2646, Value: 106, TLB hit: false, PT hit: false 
+< Virtual: 61101, Physical:  2989, Value: 216, TLB hit: false, PT hit: false 
+< Virtual: 18060, Physical:  3212, Value:  26, TLB hit: false, PT hit: false 
+< Virtual: 24119, Physical:  3383, Value: 180, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:58.455179] Test not passed.
+[2023-07-12 15:58:58.455202] Running Score: 13/27
+
+[2023-07-12 15:58:58.455226] Evaluating random_addresses24 with the submitted solution.
+[2023-07-12 15:58:58.600277] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+333,338c333,338
+< Virtual: 17774, Physical:  2670, Value: 190, TLB hit: false, PT hit: false 
+< Virtual: 43457, Physical:  3009, Value:  92, TLB hit: false, PT hit: false 
+< Virtual: 44194, Physical:  3234, Value: 248, TLB hit: false, PT hit: false 
+< Virtual: 54567, Physical:  3367, Value: 224, TLB hit: false, PT hit: false 
+< Virtual: 54503, Physical:  3815, Value:  89, TLB hit: false, PT hit: false 
+< Virtual: 50290, Physical:  3954, Value: 127, TLB hit: false, PT hit: false 
+---
+> Virtual: 17774, Physical:  1902, Value: 119, TLB hit: true
+> Virtual: 43457, Physical:  2753, Value:  92, TLB hit: false, PT hit: false 
+> Virtual: 44194, Physical:  2978, Value: 248, TLB hit: false, PT hit: false 
+> Virtual: 54567, Physical:  3111, Value: 224, TLB hit: false, PT hit: false 
+> Virtual: 54503, Physical:  3559, Value:  89, TLB hit: false, PT hit: false 
+> Virtual: 50290, Physical:  3698, Value: 127, TLB hit: false, PT hit: false 
+341c341
+< Virtual:  2303, Physical:  4351, Value:  57, TLB hit: false, PT hit: false 
+---
+> Virtual:  2303, Physical:  4095, Value:  57, TLB hit: false, PT hit: false 
+343,344c343,344
+< Virtual: 16475, Physical:  4443, Value: 149, TLB hit: false, PT hit: false 
+< Virtual: 19900, Physical:  4796, Value: 180, TLB hit: false, PT hit: false 
+---
+> Virtual: 16475, Physical:  4187, Value: 149, TLB hit: false, PT hit: false 
+> Virtual: 19900, Physical:  4540, Value: 180, TLB hit: false, PT hit: false 
+346,351c346,351
+< Virtual: 32271, Physical:  4879, Value: 106, TLB hit: false, PT hit: false 
+< Virtual: 14812, Physical:  5340, Value:  19, TLB hit: false, PT hit: false 
+< Virtual: 33033, Physical:  5385, Value:  59, TLB hit: false, PT hit: false 
+< Virtual: 29354, Physical:  5802, Value: 142, TLB hit: false, PT hit: false 
+< Virtual:  5546, Physical:  6058, Value:  67, TLB hit: false, PT hit: false 
+< Virtual: 18742, Physical:  6198, Value: 161, TLB hit: false, PT hit: false 
+---
+> Virtual: 32271, Physical:  4623, Value: 106, TLB hit: false, PT hit: false 
+> Virtual: 14812, Physical:  5084, Value:  19, TLB hit: false, PT hit: false 
+> Virtual: 33033, Physical:  5129, Value:  59, TLB hit: false, PT hit: false 
+> Virtual: 29354, Physical:  5546, Value: 142, TLB hit: false, PT hit: false 
+> Virtual:  5546, Physical:  5802, Value:  67, TLB hit: false, PT hit: false 
+> Virtual: 18742, Physical:  5942, Value: 161, TLB hit: false, PT hit: false 
+353,354c353,354
+< Virtual: 11338, Physical:  6474, Value: 134, TLB hit: false, PT hit: false 
+< Virtual: 55918, Physical:  6766, Value: 176, TLB hit: false, PT hit: false 
+---
+> Virtual: 11338, Physical:  6218, Value: 134, TLB hit: false, PT hit: false 
+> Virtual: 55918, Physical:  6510, Value: 176, TLB hit: false, PT hit: false 
+356,358c356,358
+< Virtual: 45033, Physical:  7145, Value: 141, TLB hit: false, PT hit: false 
+< Virtual: 50467, Physical:  7203, Value: 132, TLB hit: false, PT hit: false 
+< Virtual: 46582, Physical:  7670, Value: 167, TLB hit: false, PT hit: false 
+---
+> Virtual: 45033, Physical:  6889, Value: 141, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:58.600440] Test not passed.
+[2023-07-12 15:58:58.600454] Running Score: 13/28
+
+[2023-07-12 15:58:58.600496] Evaluating random_addresses25 with the submitted solution.
+[2023-07-12 15:58:58.740830] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+453c453
+< Virtual: 48015, Physical: 11919, Value: 252, TLB hit: false, PT hit: false 
+---
+> Virtual: 48015, Physical:  9359, Value:  77, TLB hit: true
+455,456c455,456
+< Virtual: 31933, Physical: 12221, Value: 254, TLB hit: false, PT hit: false 
+< Virtual: 38481, Physical: 12369, Value: 126, TLB hit: false, PT hit: false 
+---
+> Virtual: 31933, Physical: 11965, Value: 254, TLB hit: false, PT hit: false 
+> Virtual: 38481, Physical: 12113, Value: 126, TLB hit: false, PT hit: false 
+461c461
+< Virtual: 60602, Physical: 12730, Value:  11, TLB hit: false, PT hit: false 
+---
+> Virtual: 60602, Physical: 12474, Value:  11, TLB hit: false, PT hit: false 
+463,470c463,470
+< Virtual: 53611, Physical: 12907, Value: 115, TLB hit: false, PT hit: false 
+< Virtual: 59589, Physical: 13253, Value:  36, TLB hit: false, PT hit: false 
+< Virtual: 39918, Physical: 13550, Value:  74, TLB hit: false, PT hit: false 
+< Virtual: 46922, Physical: 13642, Value: 209, TLB hit: false, PT hit: false 
+< Virtual: 21320, Physical: 13896, Value:  29, TLB hit: false, PT hit: false 
+< Virtual: 53914, Physical: 14234, Value: 179, TLB hit: false, PT hit: false 
+< Virtual: 14033, Physical: 14545, Value: 227, TLB hit: false, PT hit: false 
+< Virtual: 35118, Physical: 14638, Value:  75, TLB hit: false, PT hit: false 
+---
+> Virtual: 53611, Physical: 12651, Value: 115, TLB hit: false, PT hit: false 
+> Virtual: 59589, Physical: 12997, Value:  36, TLB hit: false, PT hit: false 
+> Virtual: 39918, Physical: 13294, Value:  74, TLB hit: false, PT hit: false 
+> Virtual: 46922, Physical: 13386, Value: 209, TLB hit: false, PT hit: false 
+> Virtual: 21320, Physical: 13640, Value:  29, TLB hit: false, PT hit: false 
+> Virtual: 53914, Physical: 13978, Value: 179, TLB hit: false, PT hit: false 
+> Virtual: 14033, Physical: 14289, Value: 227, TLB hit: false, PT hit: false 
+> Virtual: 35118, Physical: 14382, Value:  75, TLB hit: false, PT hit: false 
+472,477c472,477
+< Virtual: 23619, Physical: 14915, Value: 110, TLB hit: false, PT hit: false 
+< Virtual: 14376, Physical: 15144, Value: 179, TLB hit: false, PT hit: false 
+< Virtual: 62661, Physical: 15557, Value: 131, TLB hit: false, PT hit: false 
+< Virtual: 12113, Physical: 15697, Value: 165, TLB hit: false, PT hit: false 
+< Virtual: 41229, Physical: 15885, Value:   6, TLB hit: false, PT hit: false 
+< Virtual: 55968, Physical: 16288, Value: 106, TLB hit: false, PT hit: false 
+---
+> Virtual: 23619, Physical: 14659, Value: 110, TLB hit: false, PT hit: false 
+> Virtual: 14376, Physical: 14888, Value: 179, TLB hit: false, PT hit: false 
+> Virtual: 62661, Physical: 15301, Value: 131, TLB hit: false, PT hit: false 
+> Virtual: 12113, Physical: 15441, Value: 165, TLB hit: false, PT hit: false 
+> Virtual: 41229, Physical: 15629, Value:   6, TLB hit: false, PT hit: false 
+> Virtual: 55968, Physical: 16032, Value: 106, TLB hit: false, PT hit: false 
+479,487c479,487
+< Virtual: 55307, Physical:    11, Value: 239, TLB hit: false, PT hit: false 
+< Virtual: 53677, Physical: 12973, Value: 197, TLB hit: false, PT hit: true 
+< Virtual: 25262, Physical:   430, Value:  38, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:58.740977] Test not passed.
+[2023-07-12 15:58:58.740991] Running Score: 13/29
+
+[2023-07-12 15:58:58.741012] Evaluating random_addresses26 with the submitted solution.
+[2023-07-12 15:58:58.893534] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+324,326c324,326
+< Virtual: 32422, Physical: 14502, Value: 178, TLB hit: false, PT hit: false 
+< Virtual: 22994, Physical: 14802, Value: 205, TLB hit: false, PT hit: false 
+< Virtual: 22878, Physical: 14686, Value: 208, TLB hit: true
+---
+> Virtual: 32422, Physical: 13222, Value: 209, TLB hit: true
+> Virtual: 22994, Physical: 14546, Value: 205, TLB hit: false, PT hit: false 
+> Virtual: 22878, Physical: 14430, Value: 208, TLB hit: true
+328c328
+< Virtual:  2388, Physical: 14932, Value: 114, TLB hit: false, PT hit: false 
+---
+> Virtual:  2388, Physical: 14676, Value: 114, TLB hit: false, PT hit: false 
+331,334c331,334
+< Virtual: 28887, Physical: 15319, Value: 131, TLB hit: false, PT hit: false 
+< Virtual: 32220, Physical: 15580, Value: 235, TLB hit: false, PT hit: false 
+< Virtual: 39984, Physical: 15664, Value: 112, TLB hit: false, PT hit: false 
+< Virtual: 29689, Physical: 16121, Value:  27, TLB hit: false, PT hit: false 
+---
+> Virtual: 28887, Physical: 15063, Value: 131, TLB hit: false, PT hit: false 
+> Virtual: 32220, Physical: 15324, Value: 235, TLB hit: false, PT hit: false 
+> Virtual: 39984, Physical: 15408, Value: 112, TLB hit: false, PT hit: false 
+> Virtual: 29689, Physical: 15865, Value:  27, TLB hit: false, PT hit: false 
+336,342c336,342
+< Virtual: 27889, Physical: 16369, Value:  42, TLB hit: false, PT hit: false 
+< Virtual: 24364, Physical:    44, Value: 214, TLB hit: false, PT hit: false 
+< Virtual: 48905, Physical:   265, Value: 135, TLB hit: false, PT hit: false 
+< Virtual: 63924, Physical:   692, Value:  28, TLB hit: false, PT hit: false 
+< Virtual: 51086, Physical:   910, Value:   6, TLB hit: false, PT hit: false 
+< Virtual: 29330, Physical:  1170, Value:  35, TLB hit: false, PT hit: false 
+< Virtual: 30262, Physical:  1334, Value: 109, TLB hit: false, PT hit: false 
+---
+> Virtual: 27889, Physical: 16113, Value:  42, TLB hit: false, PT hit: false 
+> Virtual: 24364, Physical: 16172, Value: 214, TLB hit: false, PT hit: false 
+> Virtual: 48905, Physical:     9, Value: 135, TLB hit: false, PT hit: false 
+> Virtual: 63924, Physical:   436, Value:  28, TLB hit: false, PT hit: false 
+> Virtual: 51086, Physical:   654, Value:   6, TLB hit: false, PT hit: false 
+> Virtual: 29330, Physical:   914, Value:  35, TLB hit: false, PT hit: false 
+> Virtual: 30262, Physical:  1078, Value: 109, TLB hit: false, PT hit: false 
+345,354c345,354
+< Virtual: 58255, Physical:  1679, Value:  65, TLB hit: false, PT hit: false 
+< Virtual: 48784, Physical:  1936, Value:  17, TLB hit: false, PT hit: false 
+< Virtual: 49942, Physical:  2070, Value: 232, TLB hit: false, PT hit: false 
+< Virtual: 26495, Physical:  2431, Value:  32, TLB hit: false, PT hit: false 
+< Virtual: 57224, Physical:  2696, Value: 100, TLB hit: false, PT hit: false 
+< Virtual: 41336, Physical:  2936, Value: 195, TLB hit: false, PT hit: false 
+< Virtual: 30236, Physical:  1308, Value:  38, TLB hit: true
+< Virtual: 41753, Physical:  3097, Value:  75, TLB hit: false, PT hit: false 
+< Virtual: 60656, Physical:  3568, Value:  88, TLB hit: false, PT hit: false 
+< Virtual: 17501, Physical:  3677, Value: 136, TLB hit: false, PT hit: false 
+---
+[2023-07-12 15:58:58.893723] Test not passed.
+[2023-07-12 15:58:58.893751] Running Score: 13/30
+
+[2023-07-12 15:58:58.893797] Evaluating random_addresses27 with the submitted solution.
+[2023-07-12 15:58:59.029407] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+292c292
+< Virtual: 26743, Physical:  9335, Value: 227, TLB hit: false, PT hit: false 
+---
+> Virtual: 26743, Physical:  8567, Value:  27, TLB hit: true
+294,296c294,296
+< Virtual: 35746, Physical:  9634, Value: 184, TLB hit: false, PT hit: false 
+< Virtual:  8135, Physical:  9927, Value:  84, TLB hit: false, PT hit: false 
+< Virtual:  7897, Physical: 10201, Value: 116, TLB hit: false, PT hit: false 
+---
+> Virtual: 35746, Physical:  9378, Value: 184, TLB hit: false, PT hit: false 
+> Virtual:  8135, Physical:  9671, Value:  84, TLB hit: false, PT hit: false 
+> Virtual:  7897, Physical:  9945, Value: 116, TLB hit: false, PT hit: false 
+298,300c298,300
+< Virtual: 24361, Physical: 10281, Value: 160, TLB hit: false, PT hit: false 
+< Virtual: 53688, Physical: 10680, Value:  51, TLB hit: false, PT hit: false 
+< Virtual: 57124, Physical: 10788, Value:  80, TLB hit: false, PT hit: false 
+---
+> Virtual: 24361, Physical: 10025, Value: 160, TLB hit: false, PT hit: false 
+> Virtual: 53688, Physical: 10424, Value:  51, TLB hit: false, PT hit: false 
+> Virtual: 57124, Physical: 10532, Value:  80, TLB hit: false, PT hit: false 
+302,306c302,306
+< Virtual: 19180, Physical: 11244, Value:  16, TLB hit: false, PT hit: false 
+< Virtual: 39191, Physical: 11287, Value: 136, TLB hit: false, PT hit: false 
+< Virtual: 21463, Physical: 11735, Value:  61, TLB hit: false, PT hit: false 
+< Virtual: 21688, Physical: 11960, Value:  48, TLB hit: false, PT hit: false 
+< Virtual: 26603, Physical: 12267, Value: 137, TLB hit: false, PT hit: false 
+---
+> Virtual: 19180, Physical: 10988, Value:  16, TLB hit: false, PT hit: false 
+> Virtual: 39191, Physical: 11031, Value: 136, TLB hit: false, PT hit: false 
+> Virtual: 21463, Physical: 11479, Value:  61, TLB hit: false, PT hit: false 
+> Virtual: 21688, Physical: 11704, Value:  48, TLB hit: false, PT hit: false 
+> Virtual: 26603, Physical: 12011, Value: 137, TLB hit: false, PT hit: false 
+309c309
+< Virtual: 30391, Physical: 12471, Value: 184, TLB hit: false, PT hit: false 
+---
+> Virtual: 30391, Physical: 12215, Value: 184, TLB hit: false, PT hit: false 
+312,315c312,315
+< Virtual: 44992, Physical: 12736, Value: 137, TLB hit: false, PT hit: false 
+< Virtual: 26978, Physical: 12898, Value: 161, TLB hit: false, PT hit: false 
+< Virtual: 60635, Physical: 13275, Value: 210, TLB hit: false, PT hit: false 
+< Virtual: 57243, Physical: 10907, Value:  91, TLB hit: true
+---
+> Virtual: 44992, Physical: 12480, Value: 137, TLB hit: false, PT hit: false 
+> Virtual: 26978, Physical: 12642, Value: 161, TLB hit: false, PT hit: false 
+> Virtual: 60635, Physical: 13019, Value: 210, TLB hit: false, PT hit: false 
+> Virtual: 57243, Physical: 10651, Value:  91, TLB hit: true
+317,320c317,320
+< Virtual: 33423, Physical: 13455, Value: 112, TLB hit: false, PT hit: false 
+< Virtual:  9445, Physical: 13797, Value: 129, TLB hit: false, PT hit: false 
+< Virtual: 20993, Physical: 13825, Value:  66, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:59.029562] Test not passed.
+[2023-07-12 15:58:59.029576] Running Score: 13/31
+
+[2023-07-12 15:58:59.029599] Evaluating random_addresses28 with the submitted solution.
+[2023-07-12 15:58:59.184579] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+154,155c154,155
+< Virtual: 23632, Physical:  1104, Value: 119, TLB hit: false, PT hit: false 
+< Virtual: 31081, Physical:  1385, Value:  50, TLB hit: false, PT hit: false 
+---
+> Virtual: 23632, Physical: 14672, Value: 228, TLB hit: true
+> Virtual: 31081, Physical:  1129, Value:  50, TLB hit: false, PT hit: false 
+157,158c157,158
+< Virtual: 41221, Physical:  1541, Value:  27, TLB hit: false, PT hit: false 
+< Virtual: 60815, Physical:  1935, Value:  21, TLB hit: false, PT hit: false 
+---
+> Virtual: 41221, Physical:  1285, Value:  27, TLB hit: false, PT hit: false 
+> Virtual: 60815, Physical:  1679, Value:  21, TLB hit: false, PT hit: false 
+160,164c160,164
+< Virtual: 27090, Physical:  2258, Value: 242, TLB hit: false, PT hit: false 
+< Virtual: 39162, Physical:  2554, Value: 202, TLB hit: false, PT hit: false 
+< Virtual: 18207, Physical:  2591, Value: 213, TLB hit: false, PT hit: false 
+< Virtual: 44332, Physical:  2860, Value: 237, TLB hit: false, PT hit: false 
+< Virtual:  3455, Physical:  3199, Value: 134, TLB hit: false, PT hit: false 
+---
+> Virtual: 27090, Physical:  2002, Value: 242, TLB hit: false, PT hit: false 
+> Virtual: 39162, Physical:  2298, Value: 202, TLB hit: false, PT hit: false 
+> Virtual: 18207, Physical:  2335, Value: 213, TLB hit: false, PT hit: false 
+> Virtual: 44332, Physical:  2604, Value: 237, TLB hit: false, PT hit: false 
+> Virtual:  3455, Physical:  2943, Value: 134, TLB hit: false, PT hit: false 
+166,167c166,167
+< Virtual:  1564, Physical:  3356, Value: 118, TLB hit: false, PT hit: false 
+< Virtual: 57176, Physical:  3672, Value: 228, TLB hit: false, PT hit: false 
+---
+> Virtual:  1564, Physical:  3100, Value: 118, TLB hit: false, PT hit: false 
+> Virtual: 57176, Physical:  3416, Value: 228, TLB hit: false, PT hit: false 
+171,179c171,179
+< Virtual: 50575, Physical:  3983, Value: 229, TLB hit: false, PT hit: false 
+< Virtual: 18565, Physical:  4229, Value: 237, TLB hit: false, PT hit: false 
+< Virtual: 17754, Physical:  4442, Value:  56, TLB hit: false, PT hit: false 
+< Virtual: 46240, Physical:  4768, Value: 187, TLB hit: false, PT hit: false 
+< Virtual: 39205, Physical:  4901, Value:  64, TLB hit: false, PT hit: false 
+< Virtual: 55628, Physical:  5196, Value:  59, TLB hit: false, PT hit: false 
+< Virtual: 55527, Physical:  5607, Value: 233, TLB hit: false, PT hit: false 
+< Virtual: 15163, Physical:  5691, Value:  57, TLB hit: false, PT hit: false 
+< Virtual: 38345, Physical:  6089, Value:  95, TLB hit: false, PT hit: false 
+---
+> Virtual: 50575, Physical:  3727, Value: 229, TLB hit: false, PT hit: false 
+> Virtual: 18565, Physical:  3973, Value: 237, TLB hit: false, PT hit: false 
+> Virtual: 17754, Physical:  4186, Value:  56, TLB hit: false, PT hit: false 
+> Virtual: 46240, Physical:  4512, Value: 187, TLB hit: false, PT hit: false 
+> Virtual: 39205, Physical:  4645, Value:  64, TLB hit: false, PT hit: false 
+> Virtual: 55628, Physical:  4940, Value:  59, TLB hit: false, PT hit: false 
+> Virtual: 55527, Physical:  5351, Value: 233, TLB hit: false, PT hit: false 
+> Virtual: 15163, Physical:  5435, Value:  57, TLB hit: false, PT hit: false 
+> Virtual: 38345, Physical:  5833, Value:  95, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:59.184730] Test not passed.
+[2023-07-12 15:58:59.184747] Running Score: 13/32
+
+[2023-07-12 15:58:59.184774] Evaluating random_addresses29 with the submitted solution.
+[2023-07-12 15:58:59.329363] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+405c405
+< Virtual: 61309, Physical: 15997, Value: 143, TLB hit: false, PT hit: false 
+---
+> Virtual: 61309, Physical: 15229, Value: 173, TLB hit: true
+407,410c407,410
+< Virtual: 35951, Physical: 16239, Value: 108, TLB hit: false, PT hit: false 
+< Virtual: 32727, Physical:   215, Value: 225, TLB hit: false, PT hit: false 
+< Virtual: 58072, Physical:   472, Value: 207, TLB hit: false, PT hit: false 
+< Virtual: 22476, Physical:   716, Value:  32, TLB hit: false, PT hit: false 
+---
+> Virtual: 35951, Physical: 15983, Value: 108, TLB hit: false, PT hit: false 
+> Virtual: 32727, Physical: 16343, Value: 225, TLB hit: false, PT hit: false 
+> Virtual: 58072, Physical:   216, Value: 207, TLB hit: false, PT hit: false 
+> Virtual: 22476, Physical:   460, Value:  32, TLB hit: false, PT hit: false 
+412,417c412,417
+< Virtual: 37861, Physical: 14053, Value: 105, TLB hit: false, PT hit: true 
+< Virtual: 34778, Physical:   986, Value:  32, TLB hit: false, PT hit: false 
+< Virtual: 57269, Physical:  1205, Value: 163, TLB hit: false, PT hit: false 
+< Virtual: 45298, Physical:  1522, Value: 162, TLB hit: false, PT hit: false 
+< Virtual: 22625, Physical:  1633, Value:  78, TLB hit: false, PT hit: false 
+< Virtual: 40309, Physical:  1909, Value: 212, TLB hit: false, PT hit: false 
+---
+> Virtual: 37861, Physical: 14053, Value: 105, TLB hit: true
+> Virtual: 34778, Physical:   730, Value:  32, TLB hit: false, PT hit: false 
+> Virtual: 57269, Physical:   949, Value: 163, TLB hit: false, PT hit: false 
+> Virtual: 45298, Physical:  1266, Value: 162, TLB hit: false, PT hit: false 
+> Virtual: 22625, Physical:  1377, Value:  78, TLB hit: false, PT hit: false 
+> Virtual: 40309, Physical:  1653, Value: 212, TLB hit: false, PT hit: false 
+419,425c419,425
+< Virtual: 58093, Physical:   493, Value: 135, TLB hit: true
+< Virtual: 51533, Physical:  2125, Value: 233, TLB hit: false, PT hit: false 
+< Virtual:  3381, Physical:  2357, Value:  36, TLB hit: false, PT hit: false 
+< Virtual: 44767, Physical:  2783, Value: 140, TLB hit: false, PT hit: false 
+< Virtual:  1337, Physical:  2873, Value: 249, TLB hit: false, PT hit: false 
+< Virtual: 25476, Physical:  3204, Value: 151, TLB hit: false, PT hit: false 
+< Virtual: 43133, Physical:  3453, Value: 116, TLB hit: false, PT hit: false 
+---
+> Virtual: 58093, Physical:   237, Value: 135, TLB hit: true
+> Virtual: 51533, Physical:  1869, Value: 233, TLB hit: false, PT hit: false 
+> Virtual:  3381, Physical:  2101, Value:  36, TLB hit: false, PT hit: false 
+> Virtual: 44767, Physical:  2527, Value: 140, TLB hit: false, PT hit: false 
+> Virtual:  1337, Physical:  2617, Value: 249, TLB hit: false, PT hit: false 
+> Virtual: 25476, Physical:  2948, Value: 151, TLB hit: false, PT hit: false 
+> Virtual: 43133, Physical:  3197, Value: 116, TLB hit: false, PT hit: false 
+428,432c428,432
+< Virtual: 14808, Physical:  3800, Value:  52, TLB hit: false, PT hit: false 
+< Virtual: 18249, Physical:  3913, Value: 217, TLB hit: false, PT hit: false 
+< Virtual: 45076, Physical:  1300, Value:  10, TLB hit: true
+< Virtual: 52538, Physical:  4154, Value: 214, TLB hit: false, PT hit: false 
+< Virtual: 33378, Physical:  4450, Value: 192, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:59.329499] Test not passed.
+[2023-07-12 15:58:59.329513] Running Score: 13/33
+
+[2023-07-12 15:58:59.329544] Evaluating random_addresses30 with the submitted solution.
+[2023-07-12 15:58:59.474155] Outputs match.
+[2023-07-12 15:58:59.474254] Test passed.
+[2023-07-12 15:58:59.474273] Running Score: 14/34
+
+[2023-07-12 15:58:59.474307] Evaluating random_addresses31 with the submitted solution.
+[2023-07-12 15:58:59.625422] Outputs match.
+[2023-07-12 15:58:59.625496] Test passed.
+[2023-07-12 15:58:59.625517] Running Score: 15/35
+
+[2023-07-12 15:58:59.625546] Evaluating random_addresses32 with the submitted solution.
+[2023-07-12 15:58:59.766074] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+405,412c405,412
+< Virtual: 49085, Physical:   189, Value:  15, TLB hit: false, PT hit: false 
+< Virtual: 39526, Physical:   358, Value: 220, TLB hit: false, PT hit: false 
+< Virtual:  1193, Physical:   681, Value:   2, TLB hit: false, PT hit: false 
+< Virtual:  3168, Physical:   864, Value: 110, TLB hit: false, PT hit: false 
+< Virtual:  7901, Physical:  1245, Value:  11, TLB hit: false, PT hit: false 
+< Virtual: 23820, Physical:  1292, Value: 125, TLB hit: false, PT hit: false 
+< Virtual: 51920, Physical:  1744, Value: 210, TLB hit: false, PT hit: false 
+< Virtual: 34796, Physical:  2028, Value:  99, TLB hit: false, PT hit: false 
+---
+> Virtual: 49085, Physical: 16061, Value:  11, TLB hit: true
+> Virtual: 39526, Physical:   102, Value: 220, TLB hit: false, PT hit: false 
+> Virtual:  1193, Physical:   425, Value:   2, TLB hit: false, PT hit: false 
+> Virtual:  3168, Physical:   608, Value: 110, TLB hit: false, PT hit: false 
+> Virtual:  7901, Physical:   989, Value:  11, TLB hit: false, PT hit: false 
+> Virtual: 23820, Physical:  1036, Value: 125, TLB hit: false, PT hit: false 
+> Virtual: 51920, Physical:  1488, Value: 210, TLB hit: false, PT hit: false 
+> Virtual: 34796, Physical:  1772, Value:  99, TLB hit: false, PT hit: false 
+414,415c414,415
+< Virtual: 41489, Physical:  2065, Value:  85, TLB hit: false, PT hit: false 
+< Virtual: 63428, Physical:  2500, Value:  12, TLB hit: false, PT hit: false 
+---
+> Virtual: 41489, Physical:  1809, Value:  85, TLB hit: false, PT hit: false 
+> Virtual: 63428, Physical:  2244, Value:  12, TLB hit: false, PT hit: false 
+418,420c418,420
+< Virtual: 44334, Physical:  2606, Value: 216, TLB hit: false, PT hit: false 
+< Virtual: 65505, Physical:  3041, Value: 175, TLB hit: false, PT hit: false 
+< Virtual: 65510, Physical:  3046, Value:  49, TLB hit: true
+---
+> Virtual: 44334, Physical:  2350, Value: 216, TLB hit: false, PT hit: false 
+> Virtual: 65505, Physical:  2785, Value: 175, TLB hit: false, PT hit: false 
+> Virtual: 65510, Physical:  2790, Value:  49, TLB hit: true
+422,426c422,426
+< Virtual: 10156, Physical:  3244, Value:  46, TLB hit: false, PT hit: false 
+< Virtual: 60648, Physical:  3560, Value: 171, TLB hit: false, PT hit: false 
+< Virtual: 10546, Physical:  3634, Value: 171, TLB hit: false, PT hit: false 
+< Virtual: 14209, Physical:  3969, Value:  36, TLB hit: false, PT hit: false 
+< Virtual: 22013, Physical:  4349, Value: 251, TLB hit: false, PT hit: false 
+---
+> Virtual: 10156, Physical:  2988, Value:  46, TLB hit: false, PT hit: false 
+> Virtual: 60648, Physical:  3304, Value: 171, TLB hit: false, PT hit: false 
+> Virtual: 10546, Physical:  3378, Value: 171, TLB hit: false, PT hit: false 
+> Virtual: 14209, Physical:  3713, Value:  36, TLB hit: false, PT hit: false 
+> Virtual: 22013, Physical:  4093, Value: 251, TLB hit: false, PT hit: false 
+428,433c428,433
+< Virtual:  3939, Physical:  4451, Value: 198, TLB hit: false, PT hit: false 
+< Virtual: 55223, Physical:  4791, Value: 237, TLB hit: false, PT hit: false 
+< Virtual:  8141, Physical:  5069, Value:  70, TLB hit: false, PT hit: false 
+< Virtual: 43716, Physical:  5316, Value: 219, TLB hit: false, PT hit: false 
+< Virtual: 39959, Physical:  5399, Value: 216, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:59.766213] Test not passed.
+[2023-07-12 15:58:59.766230] Running Score: 15/36
+
+[2023-07-12 15:58:59.766257] Evaluating random_addresses33 with the submitted solution.
+[2023-07-12 15:58:59.915347] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+801,803c801,803
+< Virtual: 29292, Physical:  5484, Value: 238, TLB hit: false, PT hit: false 
+< Virtual: 22770, Physical:  5874, Value:  35, TLB hit: false, PT hit: false 
+< Virtual: 28482, Physical:  5954, Value: 147, TLB hit: false, PT hit: false 
+---
+> Virtual: 29292, Physical:  2924, Value: 111, TLB hit: true
+> Virtual: 22770, Physical:  5618, Value:  35, TLB hit: false, PT hit: false 
+> Virtual: 28482, Physical:  5698, Value: 147, TLB hit: false, PT hit: false 
+805,809c805,809
+< Virtual: 34546, Physical:  6386, Value: 155, TLB hit: false, PT hit: false 
+< Virtual:  7166, Physical:  6654, Value: 245, TLB hit: false, PT hit: false 
+< Virtual: 53911, Physical:  6807, Value:  87, TLB hit: false, PT hit: false 
+< Virtual: 54671, Physical:  7055, Value:  75, TLB hit: false, PT hit: false 
+< Virtual:  1746, Physical:  7378, Value: 132, TLB hit: false, PT hit: false 
+---
+> Virtual: 34546, Physical:  6130, Value: 155, TLB hit: false, PT hit: false 
+> Virtual:  7166, Physical:  6398, Value: 245, TLB hit: false, PT hit: false 
+> Virtual: 53911, Physical:  6551, Value:  87, TLB hit: false, PT hit: false 
+> Virtual: 54671, Physical:  6799, Value:  75, TLB hit: false, PT hit: false 
+> Virtual:  1746, Physical:  7122, Value: 132, TLB hit: false, PT hit: false 
+811c811
+< Virtual: 30382, Physical:  7598, Value:  20, TLB hit: false, PT hit: false 
+---
+> Virtual: 30382, Physical:  7342, Value:  20, TLB hit: false, PT hit: false 
+813,824c813,824
+< Virtual: 11830, Physical:  7734, Value: 171, TLB hit: false, PT hit: false 
+< Virtual: 16707, Physical:  8003, Value: 111, TLB hit: false, PT hit: false 
+< Virtual: 59649, Physical:  8193, Value:  56, TLB hit: false, PT hit: false 
+< Virtual:  9127, Physical:  8615, Value:   2, TLB hit: false, PT hit: false 
+< Virtual: 54694, Physical:  7078, Value: 138, TLB hit: true
+< Virtual:  7912, Physical:  8936, Value: 143, TLB hit: false, PT hit: false 
+< Virtual:   407, Physical:  9111, Value: 226, TLB hit: false, PT hit: false 
+< Virtual: 29858, Physical:  9378, Value:  46, TLB hit: false, PT hit: false 
+< Virtual: 26568, Physical:  9672, Value:  47, TLB hit: false, PT hit: false 
+< Virtual: 38978, Physical:  9794, Value: 115, TLB hit: false, PT hit: false 
+< Virtual: 51853, Physical: 10125, Value: 125, TLB hit: false, PT hit: false 
+< Virtual:  3788, Physical: 10444, Value: 195, TLB hit: false, PT hit: false 
+---
+> Virtual: 11830, Physical:  7478, Value: 171, TLB hit: false, PT hit: false 
+> Virtual: 16707, Physical:  7747, Value: 111, TLB hit: false, PT hit: false 
+> Virtual: 59649, Physical:  7937, Value:  56, TLB hit: false, PT hit: false 
+> Virtual:  9127, Physical:  8359, Value:   2, TLB hit: false, PT hit: false 
+> Virtual: 54694, Physical:  6822, Value: 138, TLB hit: true
+> Virtual:  7912, Physical:  8680, Value: 143, TLB hit: false, PT hit: false 
+> Virtual:   407, Physical:  8855, Value: 226, TLB hit: false, PT hit: false 
+> Virtual: 29858, Physical:  9122, Value:  46, TLB hit: false, PT hit: false 
+> Virtual: 26568, Physical:  9416, Value:  47, TLB hit: false, PT hit: false 
+> Virtual: 38978, Physical:  9538, Value: 115, TLB hit: false, PT hit: false 
+> Virtual: 51853, Physical:  9869, Value: 125, TLB hit: false, PT hit: false 
+> Virtual:  3788, Physical: 10188, Value: 195, TLB hit: false, PT hit: false 
+[2023-07-12 15:58:59.915483] Test not passed.
+[2023-07-12 15:58:59.915499] Running Score: 15/37
+
+[2023-07-12 15:58:59.915527] Evaluating random_addresses34 with the submitted solution.
+[2023-07-12 15:59:00.053945] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1228,1230c1228,1230
+< Virtual: 34498, Physical:  5314, Value: 137, TLB hit: false, PT hit: false 
+< Virtual: 48482, Physical:  5474, Value: 137, TLB hit: false, PT hit: false 
+< Virtual:  7089, Physical:  5809, Value: 128, TLB hit: false, PT hit: false 
+---
+> Virtual: 34498, Physical:  4802, Value:  99, TLB hit: true
+> Virtual: 48482, Physical:  5218, Value: 137, TLB hit: false, PT hit: false 
+> Virtual:  7089, Physical:  5553, Value: 128, TLB hit: false, PT hit: false 
+1232c1232
+< Virtual:  1124, Physical:  5988, Value: 146, TLB hit: false, PT hit: false 
+---
+> Virtual:  1124, Physical:  5732, Value: 146, TLB hit: false, PT hit: false 
+1234c1234
+< Virtual: 46266, Physical:  6330, Value:  58, TLB hit: false, PT hit: false 
+---
+> Virtual: 46266, Physical:  6074, Value:  58, TLB hit: false, PT hit: false 
+1236,1238c1236,1238
+< Virtual: 49568, Physical:  6560, Value: 100, TLB hit: false, PT hit: false 
+< Virtual: 63679, Physical:  6847, Value:  78, TLB hit: false, PT hit: false 
+< Virtual: 16380, Physical:  7164, Value:  13, TLB hit: false, PT hit: false 
+---
+> Virtual: 49568, Physical:  6304, Value: 100, TLB hit: false, PT hit: false 
+> Virtual: 63679, Physical:  6591, Value:  78, TLB hit: false, PT hit: false 
+> Virtual: 16380, Physical:  6908, Value:  13, TLB hit: false, PT hit: false 
+1240,1242c1240,1242
+< Virtual: 42884, Physical:  7300, Value:   4, TLB hit: false, PT hit: false 
+< page_fault_rate [74.60%]
+< tlb_hit_rate [5.73%]
+---
+> Virtual: 42884, Physical:  7044, Value:   4, TLB hit: false, PT hit: false 
+> page_fault_rate [74.52%]
+> tlb_hit_rate [5.81%]
+[2023-07-12 15:59:00.054259] Test not passed.
+[2023-07-12 15:59:00.054281] Running Score: 15/38
+
+[2023-07-12 15:59:00.054311] Evaluating random_addresses35 with the submitted solution.
+[2023-07-12 15:59:00.190946] Outputs match.
+[2023-07-12 15:59:00.191021] Test passed.
+[2023-07-12 15:59:00.191038] Running Score: 16/39
+
+[2023-07-12 15:59:00.191065] Evaluating random_addresses36 with the submitted solution.
+[2023-07-12 15:59:00.334235] Outputs match.
+[2023-07-12 15:59:00.334352] Test passed.
+[2023-07-12 15:59:00.334418] Running Score: 17/40
+
+[2023-07-12 15:59:00.334518] Evaluating random_addresses37 with the submitted solution.
+[2023-07-12 15:59:00.487599] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+673,683c673,683
+< Virtual: 36288, Physical: 10432, Value: 158, TLB hit: false, PT hit: false 
+< Virtual: 23686, Physical: 10630, Value: 191, TLB hit: false, PT hit: false 
+< Virtual: 64137, Physical: 10889, Value: 224, TLB hit: false, PT hit: false 
+< Virtual: 53131, Physical: 11147, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 37772, Physical: 11404, Value:  22, TLB hit: false, PT hit: false 
+< Virtual: 40181, Physical: 11765, Value: 183, TLB hit: false, PT hit: false 
+< Virtual:   226, Physical: 12002, Value:  16, TLB hit: false, PT hit: false 
+< Virtual: 23805, Physical: 10749, Value:  86, TLB hit: true
+< Virtual: 50917, Physical: 12261, Value: 225, TLB hit: false, PT hit: false 
+< Virtual: 17884, Physical: 12508, Value: 129, TLB hit: false, PT hit: false 
+< Virtual: 57869, Physical: 12557, Value:  42, TLB hit: false, PT hit: false 
+---
+> Virtual: 36288, Physical:  9664, Value:  77, TLB hit: true
+> Virtual: 23686, Physical: 10374, Value: 191, TLB hit: false, PT hit: false 
+> Virtual: 64137, Physical: 10633, Value: 224, TLB hit: false, PT hit: false 
+> Virtual: 53131, Physical: 10891, Value:  13, TLB hit: false, PT hit: false 
+> Virtual: 37772, Physical: 11148, Value:  22, TLB hit: false, PT hit: false 
+> Virtual: 40181, Physical: 11509, Value: 183, TLB hit: false, PT hit: false 
+> Virtual:   226, Physical: 11746, Value:  16, TLB hit: false, PT hit: false 
+> Virtual: 23805, Physical: 10493, Value:  86, TLB hit: true
+> Virtual: 50917, Physical: 12005, Value: 225, TLB hit: false, PT hit: false 
+> Virtual: 17884, Physical: 12252, Value: 129, TLB hit: false, PT hit: false 
+> Virtual: 57869, Physical: 12301, Value:  42, TLB hit: false, PT hit: false 
+686,687c686,687
+< Virtual: 16160, Physical: 12832, Value:  51, TLB hit: false, PT hit: false 
+< Virtual: 29185, Physical: 13057, Value: 123, TLB hit: false, PT hit: false 
+---
+> Virtual: 16160, Physical: 12576, Value:  51, TLB hit: false, PT hit: false 
+> Virtual: 29185, Physical: 12801, Value: 123, TLB hit: false, PT hit: false 
+689,700c689,700
+< Virtual: 26362, Physical: 13562, Value: 172, TLB hit: false, PT hit: false 
+< Virtual: 18391, Physical: 13783, Value: 176, TLB hit: false, PT hit: false 
+< Virtual: 14868, Physical: 13844, Value: 243, TLB hit: false, PT hit: false 
+< Virtual:  6762, Physical: 14186, Value: 172, TLB hit: false, PT hit: false 
+< Virtual: 31381, Physical: 14485, Value: 242, TLB hit: false, PT hit: false 
+< Virtual: 42452, Physical: 14804, Value:   3, TLB hit: false, PT hit: false 
+< Virtual: 54183, Physical: 15015, Value: 133, TLB hit: false, PT hit: false 
+< Virtual: 45450, Physical: 15242, Value: 252, TLB hit: false, PT hit: false 
+< Virtual: 54117, Physical: 14949, Value:  88, TLB hit: true
+< Virtual: 61802, Physical: 15466, Value: 247, TLB hit: false, PT hit: false 
+< Virtual: 61451, Physical: 15627, Value: 126, TLB hit: false, PT hit: false 
+< Virtual: 57215, Physical: 15999, Value: 207, TLB hit: false, PT hit: false 
+---
+> Virtual: 26362, Physical: 13306, Value: 172, TLB hit: false, PT hit: false 
+> Virtual: 18391, Physical: 13527, Value: 176, TLB hit: false, PT hit: false 
+> Virtual: 14868, Physical: 13588, Value: 243, TLB hit: false, PT hit: false 
+> Virtual:  6762, Physical: 13930, Value: 172, TLB hit: false, PT hit: false 
+> Virtual: 31381, Physical: 14229, Value: 242, TLB hit: false, PT hit: false 
+> Virtual: 42452, Physical: 14548, Value:   3, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:00.487719] Test not passed.
+[2023-07-12 15:59:00.487729] Running Score: 17/41
+
+[2023-07-12 15:59:00.487747] Evaluating random_addresses38 with the submitted solution.
+[2023-07-12 15:59:00.628816] Outputs match.
+[2023-07-12 15:59:00.628889] Test passed.
+[2023-07-12 15:59:00.628910] Running Score: 18/42
+
+[2023-07-12 15:59:00.628953] Evaluating random_addresses39 with the submitted solution.
+[2023-07-12 15:59:00.769918] Outputs match.
+[2023-07-12 15:59:00.770000] Test passed.
+[2023-07-12 15:59:00.770013] Running Score: 19/43
+
+[2023-07-12 15:59:00.770036] Evaluating random_addresses40 with the submitted solution.
+[2023-07-12 15:59:00.912962] Outputs match.
+[2023-07-12 15:59:00.913033] Test passed.
+[2023-07-12 15:59:00.913049] Running Score: 20/44
+
+[2023-07-12 15:59:00.913081] Evaluating random_addresses41 with the submitted solution.
+[2023-07-12 15:59:01.056739] Outputs match.
+[2023-07-12 15:59:01.056822] Test passed.
+[2023-07-12 15:59:01.056840] Running Score: 21/45
+
+[2023-07-12 15:59:01.056867] Evaluating random_addresses42 with the submitted solution.
+[2023-07-12 15:59:01.206047] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+320,324c320,324
+< Virtual: 47043, Physical: 14787, Value:  50, TLB hit: false, PT hit: false 
+< Virtual: 40941, Physical: 15085, Value: 233, TLB hit: false, PT hit: false 
+< Virtual:  4005, Physical: 15269, Value: 153, TLB hit: false, PT hit: false 
+< Virtual: 60006, Physical: 15462, Value: 225, TLB hit: false, PT hit: false 
+< Virtual: 33810, Physical: 15634, Value: 155, TLB hit: false, PT hit: false 
+---
+> Virtual: 47043, Physical: 12739, Value: 147, TLB hit: true
+> Virtual: 40941, Physical: 14829, Value: 233, TLB hit: false, PT hit: false 
+> Virtual:  4005, Physical: 15013, Value: 153, TLB hit: false, PT hit: false 
+> Virtual: 60006, Physical: 15206, Value: 225, TLB hit: false, PT hit: false 
+> Virtual: 33810, Physical: 15378, Value: 155, TLB hit: false, PT hit: false 
+326c326
+< Virtual:  3451, Physical: 15995, Value: 145, TLB hit: false, PT hit: false 
+---
+> Virtual:  3451, Physical: 15739, Value: 145, TLB hit: false, PT hit: false 
+328c328
+< Virtual:   390, Physical: 16262, Value:  55, TLB hit: false, PT hit: false 
+---
+> Virtual:   390, Physical: 16006, Value:  55, TLB hit: false, PT hit: false 
+330c330
+< Virtual:  3930, Physical: 15194, Value: 213, TLB hit: true
+---
+> Virtual:  3930, Physical: 14938, Value: 213, TLB hit: true
+333,336c333,336
+< Virtual: 10417, Physical:   177, Value: 156, TLB hit: false, PT hit: false 
+< Virtual: 37894, Physical:   262, Value:  33, TLB hit: false, PT hit: false 
+< Virtual: 48004, Physical: 13956, Value: 192, TLB hit: false, PT hit: true 
+< Virtual: 60055, Physical: 15511, Value: 136, TLB hit: true
+---
+> Virtual: 10417, Physical: 16305, Value: 156, TLB hit: false, PT hit: false 
+> Virtual: 37894, Physical:     6, Value:  33, TLB hit: false, PT hit: false 
+> Virtual: 48004, Physical: 13956, Value: 192, TLB hit: true
+> Virtual: 60055, Physical: 15255, Value: 136, TLB hit: true
+339,355c339,355
+< Virtual: 64355, Physical:   611, Value: 126, TLB hit: false, PT hit: false 
+< Virtual:  4647, Physical:   807, Value: 112, TLB hit: false, PT hit: false 
+< Virtual: 30086, Physical:  1158, Value: 211, TLB hit: false, PT hit: false 
+< Virtual:  4563, Physical:  1491, Value: 198, TLB hit: false, PT hit: false 
+< Virtual:   685, Physical:  1709, Value:  50, TLB hit: false, PT hit: false 
+< Virtual: 16536, Physical:  1944, Value: 222, TLB hit: false, PT hit: false 
+< Virtual: 16540, Physical:  1948, Value:  18, TLB hit: true
+< Virtual: 51770, Physical:  2106, Value:  17, TLB hit: false, PT hit: false 
+< Virtual: 53596, Physical:  2396, Value: 225, TLB hit: false, PT hit: false 
+< Virtual: 44730, Physical:  2746, Value:  98, TLB hit: false, PT hit: false 
+< Virtual:  5972, Physical:  2900, Value:  21, TLB hit: false, PT hit: false 
+< Virtual: 41143, Physical:  3255, Value: 157, TLB hit: false, PT hit: false 
+< Virtual: 22566, Physical:  3366, Value:  64, TLB hit: false, PT hit: false 
+< Virtual: 13176, Physical:  3704, Value:  31, TLB hit: false, PT hit: false 
+< Virtual: 39212, Physical:  3884, Value: 154, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:01.206621] Test not passed.
+[2023-07-12 15:59:01.206673] Running Score: 21/46
+
+[2023-07-12 15:59:01.206731] Evaluating random_addresses43 with the submitted solution.
+[2023-07-12 15:59:01.356394] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+310,311c310,311
+< Virtual: 38865, Physical: 14033, Value: 168, TLB hit: false, PT hit: false 
+< Virtual: 63838, Physical: 14174, Value: 157, TLB hit: false, PT hit: false 
+---
+> Virtual: 38865, Physical: 12753, Value: 129, TLB hit: true
+> Virtual: 63838, Physical: 13918, Value: 157, TLB hit: false, PT hit: false 
+313c313
+< Virtual: 39072, Physical: 14496, Value: 102, TLB hit: false, PT hit: false 
+---
+> Virtual: 39072, Physical: 14240, Value: 102, TLB hit: false, PT hit: false 
+315,318c315,318
+< Virtual: 12041, Physical: 14601, Value:  41, TLB hit: false, PT hit: false 
+< Virtual: 51373, Physical: 15021, Value:  50, TLB hit: false, PT hit: false 
+< Virtual: 12642, Physical: 15202, Value:  20, TLB hit: false, PT hit: false 
+< Virtual: 23404, Physical: 15468, Value:   6, TLB hit: false, PT hit: false 
+---
+> Virtual: 12041, Physical: 14345, Value:  41, TLB hit: false, PT hit: false 
+> Virtual: 51373, Physical: 14765, Value:  50, TLB hit: false, PT hit: false 
+> Virtual: 12642, Physical: 14946, Value:  20, TLB hit: false, PT hit: false 
+> Virtual: 23404, Physical: 15212, Value:   6, TLB hit: false, PT hit: false 
+320,326c320,326
+< Virtual: 60521, Physical: 15721, Value:  92, TLB hit: false, PT hit: false 
+< Virtual: 25348, Physical: 15876, Value: 129, TLB hit: false, PT hit: false 
+< Virtual: 20573, Physical: 16221, Value: 141, TLB hit: false, PT hit: false 
+< Virtual: 42643, Physical:   147, Value: 172, TLB hit: false, PT hit: false 
+< Virtual: 41205, Physical:   501, Value: 152, TLB hit: false, PT hit: false 
+< Virtual: 13185, Physical:   641, Value:  61, TLB hit: false, PT hit: false 
+< Virtual: 56873, Physical:   809, Value: 227, TLB hit: false, PT hit: false 
+---
+> Virtual: 60521, Physical: 15465, Value:  92, TLB hit: false, PT hit: false 
+> Virtual: 25348, Physical: 15620, Value: 129, TLB hit: false, PT hit: false 
+> Virtual: 20573, Physical: 15965, Value: 141, TLB hit: false, PT hit: false 
+> Virtual: 42643, Physical: 16275, Value: 172, TLB hit: false, PT hit: false 
+> Virtual: 41205, Physical:   245, Value: 152, TLB hit: false, PT hit: false 
+> Virtual: 13185, Physical:   385, Value:  61, TLB hit: false, PT hit: false 
+> Virtual: 56873, Physical:   553, Value: 227, TLB hit: false, PT hit: false 
+328c328
+< Virtual: 65047, Physical:  1047, Value: 104, TLB hit: false, PT hit: false 
+---
+> Virtual: 65047, Physical:   791, Value: 104, TLB hit: false, PT hit: false 
+330,336c330,336
+< Virtual: 25887, Physical:  1311, Value: 219, TLB hit: false, PT hit: false 
+< Virtual: 25714, Physical:  1650, Value: 219, TLB hit: false, PT hit: false 
+< Virtual: 34897, Physical:  1873, Value: 149, TLB hit: false, PT hit: false 
+< Virtual: 60628, Physical: 15828, Value: 213, TLB hit: true
+< Virtual: 48011, Physical:  2187, Value:  72, TLB hit: false, PT hit: false 
+< Virtual: 29191, Physical:  2311, Value:  33, TLB hit: false, PT hit: false 
+< Virtual: 62595, Physical:  2691, Value: 114, TLB hit: false, PT hit: false 
+---
+> Virtual: 25887, Physical:  1055, Value: 219, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:01.357062] Test not passed.
+[2023-07-12 15:59:01.357116] Running Score: 21/47
+
+[2023-07-12 15:59:01.357158] Evaluating random_addresses44 with the submitted solution.
+[2023-07-12 15:59:01.497327] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+199,201c199,201
+< Virtual: 45057, Physical:  8193, Value:  23, TLB hit: false, PT hit: false 
+< Virtual:  1316, Physical:  8484, Value: 244, TLB hit: false, PT hit: false 
+< Virtual: 31961, Physical:  8921, Value: 207, TLB hit: false, PT hit: false 
+---
+> Virtual: 45057, Physical:  7681, Value:  61, TLB hit: true
+> Virtual:  1316, Physical:  8228, Value: 244, TLB hit: false, PT hit: false 
+> Virtual: 31961, Physical:  8665, Value: 207, TLB hit: false, PT hit: false 
+203,204c203,204
+< Virtual: 63056, Physical:  9040, Value: 234, TLB hit: false, PT hit: false 
+< Virtual: 55172, Physical:  9348, Value: 219, TLB hit: false, PT hit: false 
+---
+> Virtual: 63056, Physical:  8784, Value: 234, TLB hit: false, PT hit: false 
+> Virtual: 55172, Physical:  9092, Value: 219, TLB hit: false, PT hit: false 
+206,210c206,210
+< Virtual: 62681, Physical:  9689, Value: 165, TLB hit: false, PT hit: false 
+< Virtual: 22294, Physical:  9750, Value: 245, TLB hit: false, PT hit: false 
+< Virtual: 33032, Physical:  9992, Value: 165, TLB hit: false, PT hit: false 
+< Virtual: 64722, Physical: 10450, Value: 137, TLB hit: false, PT hit: false 
+< Virtual: 23487, Physical: 10687, Value: 201, TLB hit: false, PT hit: false 
+---
+> Virtual: 62681, Physical:  9433, Value: 165, TLB hit: false, PT hit: false 
+> Virtual: 22294, Physical:  9494, Value: 245, TLB hit: false, PT hit: false 
+> Virtual: 33032, Physical:  9736, Value: 165, TLB hit: false, PT hit: false 
+> Virtual: 64722, Physical: 10194, Value: 137, TLB hit: false, PT hit: false 
+> Virtual: 23487, Physical: 10431, Value: 201, TLB hit: false, PT hit: false 
+213,215c213,215
+< Virtual: 13988, Physical: 10916, Value: 207, TLB hit: false, PT hit: false 
+< Virtual: 60822, Physical: 11158, Value: 162, TLB hit: false, PT hit: false 
+< Virtual: 35873, Physical: 11297, Value:  48, TLB hit: false, PT hit: false 
+---
+> Virtual: 13988, Physical: 10660, Value: 207, TLB hit: false, PT hit: false 
+> Virtual: 60822, Physical: 10902, Value: 162, TLB hit: false, PT hit: false 
+> Virtual: 35873, Physical: 11041, Value:  48, TLB hit: false, PT hit: false 
+217,218c217,218
+< Virtual: 53015, Physical: 11543, Value: 138, TLB hit: false, PT hit: false 
+< Virtual: 23746, Physical: 11970, Value: 139, TLB hit: false, PT hit: false 
+---
+> Virtual: 53015, Physical: 11287, Value: 138, TLB hit: false, PT hit: false 
+> Virtual: 23746, Physical: 11714, Value: 139, TLB hit: false, PT hit: false 
+220c220
+< Virtual: 44416, Physical: 12160, Value: 186, TLB hit: false, PT hit: false 
+---
+> Virtual: 44416, Physical: 11904, Value: 186, TLB hit: false, PT hit: false 
+222c222
+< Virtual:  1431, Physical:  8599, Value:  66, TLB hit: false, PT hit: true 
+---
+> Virtual:  1431, Physical:  8343, Value:  66, TLB hit: false, PT hit: true 
+224,226c224,226
+< Virtual: 25315, Physical: 12515, Value:  69, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:01.497470] Test not passed.
+[2023-07-12 15:59:01.497484] Running Score: 21/48
+
+[2023-07-12 15:59:01.497504] Evaluating random_addresses45 with the submitted solution.
+[2023-07-12 15:59:01.638651] Outputs match.
+[2023-07-12 15:59:01.638727] Test passed.
+[2023-07-12 15:59:01.638743] Running Score: 22/49
+
+[2023-07-12 15:59:01.638773] Evaluating random_addresses46 with the submitted solution.
+[2023-07-12 15:59:01.784125] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+451,454c451,454
+< Virtual: 17055, Physical:  6815, Value:  83, TLB hit: false, PT hit: false 
+< Virtual: 62448, Physical:  7152, Value:  58, TLB hit: false, PT hit: false 
+< Virtual: 15433, Physical:  7241, Value:  87, TLB hit: false, PT hit: false 
+< Virtual: 23338, Physical:  7466, Value: 255, TLB hit: false, PT hit: false 
+---
+> Virtual: 17055, Physical:  6303, Value:  92, TLB hit: true
+> Virtual: 62448, Physical:  6896, Value:  58, TLB hit: false, PT hit: false 
+> Virtual: 15433, Physical:  6985, Value:  87, TLB hit: false, PT hit: false 
+> Virtual: 23338, Physical:  7210, Value: 255, TLB hit: false, PT hit: false 
+456,459c456,459
+< Virtual: 53503, Physical:  7935, Value: 141, TLB hit: false, PT hit: false 
+< Virtual: 24665, Physical:  8025, Value:  93, TLB hit: false, PT hit: false 
+< Virtual: 62816, Physical:  8288, Value:  70, TLB hit: false, PT hit: false 
+< Virtual: 34834, Physical:  8466, Value:  44, TLB hit: false, PT hit: false 
+---
+> Virtual: 53503, Physical:  7679, Value: 141, TLB hit: false, PT hit: false 
+> Virtual: 24665, Physical:  7769, Value:  93, TLB hit: false, PT hit: false 
+> Virtual: 62816, Physical:  8032, Value:  70, TLB hit: false, PT hit: false 
+> Virtual: 34834, Physical:  8210, Value:  44, TLB hit: false, PT hit: false 
+462,468c462,468
+< Virtual: 48450, Physical:  8770, Value:  90, TLB hit: false, PT hit: false 
+< Virtual: 19770, Physical:  9018, Value:  44, TLB hit: false, PT hit: false 
+< Virtual: 12262, Physical:  9446, Value: 229, TLB hit: false, PT hit: false 
+< Virtual: 40413, Physical:  9693, Value:  56, TLB hit: false, PT hit: false 
+< Virtual: 25403, Physical:  9787, Value: 134, TLB hit: false, PT hit: false 
+< Virtual: 58961, Physical: 10065, Value: 118, TLB hit: false, PT hit: false 
+< Virtual: 60383, Physical: 10463, Value: 236, TLB hit: false, PT hit: false 
+---
+> Virtual: 48450, Physical:  8514, Value:  90, TLB hit: false, PT hit: false 
+> Virtual: 19770, Physical:  8762, Value:  44, TLB hit: false, PT hit: false 
+> Virtual: 12262, Physical:  9190, Value: 229, TLB hit: false, PT hit: false 
+> Virtual: 40413, Physical:  9437, Value:  56, TLB hit: false, PT hit: false 
+> Virtual: 25403, Physical:  9531, Value: 134, TLB hit: false, PT hit: false 
+> Virtual: 58961, Physical:  9809, Value: 118, TLB hit: false, PT hit: false 
+> Virtual: 60383, Physical: 10207, Value: 236, TLB hit: false, PT hit: false 
+470c470
+< Virtual: 51838, Physical: 10622, Value: 203, TLB hit: false, PT hit: false 
+---
+> Virtual: 51838, Physical: 10366, Value: 203, TLB hit: false, PT hit: false 
+472,479c472,479
+< Virtual: 22620, Physical: 10844, Value: 173, TLB hit: false, PT hit: false 
+< Virtual: 28915, Physical: 11251, Value: 133, TLB hit: false, PT hit: false 
+< Virtual:  3936, Physical: 11360, Value:  39, TLB hit: false, PT hit: false 
+< Virtual:  3893, Physical: 11317, Value: 233, TLB hit: true
+< Virtual: 13437, Physical: 11645, Value:  20, TLB hit: false, PT hit: false 
+< Virtual:  4502, Physical: 11926, Value: 201, TLB hit: false, PT hit: false 
+< Virtual: 20710, Physical: 12262, Value: 231, TLB hit: false, PT hit: false 
+< Virtual: 55908, Physical: 12388, Value: 142, TLB hit: false, PT hit: false 
+---
+[2023-07-12 15:59:01.784277] Test not passed.
+[2023-07-12 15:59:01.784291] Running Score: 22/50
+
+[2023-07-12 15:59:01.784321] Evaluating random_addresses47 with the submitted solution.
+[2023-07-12 15:59:01.921298] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+140,147c140,147
+< Virtual: 25904, Physical: 11056, Value:  61, TLB hit: false, PT hit: false 
+< Virtual: 55659, Physical: 11371, Value:  45, TLB hit: false, PT hit: false 
+< Virtual: 26066, Physical: 11218, Value: 126, TLB hit: true
+< Virtual:  9356, Physical: 11660, Value:  86, TLB hit: false, PT hit: false 
+< Virtual: 13640, Physical: 11848, Value: 127, TLB hit: false, PT hit: false 
+< Virtual:  4213, Physical: 12149, Value: 104, TLB hit: false, PT hit: false 
+< Virtual: 54087, Physical: 12359, Value:  30, TLB hit: false, PT hit: false 
+< Virtual: 31250, Physical: 12562, Value:  51, TLB hit: false, PT hit: false 
+---
+> Virtual: 25904, Physical: 10800, Value:  95, TLB hit: true
+> Virtual: 55659, Physical: 11115, Value:  45, TLB hit: false, PT hit: false 
+> Virtual: 26066, Physical: 10962, Value: 231, TLB hit: true
+> Virtual:  9356, Physical: 11404, Value:  86, TLB hit: false, PT hit: false 
+> Virtual: 13640, Physical: 11592, Value: 127, TLB hit: false, PT hit: false 
+> Virtual:  4213, Physical: 11893, Value: 104, TLB hit: false, PT hit: false 
+> Virtual: 54087, Physical: 12103, Value:  30, TLB hit: false, PT hit: false 
+> Virtual: 31250, Physical: 12306, Value:  51, TLB hit: false, PT hit: false 
+149c149
+< Virtual: 22244, Physical: 13028, Value:  85, TLB hit: false, PT hit: false 
+---
+> Virtual: 22244, Physical: 12772, Value:  85, TLB hit: false, PT hit: false 
+151,155c151,155
+< Virtual: 63243, Physical: 13067, Value: 135, TLB hit: false, PT hit: false 
+< Virtual: 46760, Physical: 13480, Value: 185, TLB hit: false, PT hit: false 
+< Virtual: 58570, Physical: 13770, Value:  97, TLB hit: false, PT hit: false 
+< Virtual: 54822, Physical: 13862, Value: 225, TLB hit: false, PT hit: false 
+< Virtual: 34117, Physical: 14149, Value:  51, TLB hit: false, PT hit: false 
+---
+> Virtual: 63243, Physical: 12811, Value: 135, TLB hit: false, PT hit: false 
+> Virtual: 46760, Physical: 13224, Value: 185, TLB hit: false, PT hit: false 
+> Virtual: 58570, Physical: 13514, Value:  97, TLB hit: false, PT hit: false 
+> Virtual: 54822, Physical: 13606, Value: 225, TLB hit: false, PT hit: false 
+> Virtual: 34117, Physical: 13893, Value:  51, TLB hit: false, PT hit: false 
+157,160c157,160
+< Virtual: 61728, Physical: 14368, Value: 191, TLB hit: false, PT hit: false 
+< Virtual: 11600, Physical: 14672, Value:  22, TLB hit: false, PT hit: false 
+< Virtual:  4895, Physical: 14879, Value: 206, TLB hit: false, PT hit: false 
+< Virtual: 56976, Physical: 15248, Value:  33, TLB hit: false, PT hit: false 
+---
+> Virtual: 61728, Physical: 14112, Value: 191, TLB hit: false, PT hit: false 
+> Virtual: 11600, Physical: 14416, Value:  22, TLB hit: false, PT hit: false 
+> Virtual:  4895, Physical: 14623, Value: 206, TLB hit: false, PT hit: false 
+> Virtual: 56976, Physical: 14992, Value:  33, TLB hit: false, PT hit: false 
+162,167c162,167
+< Virtual: 14937, Physical: 15449, Value: 114, TLB hit: false, PT hit: false 
+< Virtual: 57597, Physical: 15869, Value: 105, TLB hit: false, PT hit: false 
+< Virtual: 22199, Physical: 12983, Value:  69, TLB hit: true
+< Virtual: 56004, Physical: 16068, Value: 185, TLB hit: false, PT hit: false 
+< Virtual: 26139, Physical: 16155, Value:  51, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:01.921444] Test not passed.
+[2023-07-12 15:59:01.921458] Running Score: 22/51
+
+[2023-07-12 15:59:01.921481] Evaluating random_addresses48 with the submitted solution.
+[2023-07-12 15:59:02.057951] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+423,428c423,428
+< Virtual: 62591, Physical: 16255, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 50198, Physical:    22, Value:  42, TLB hit: false, PT hit: false 
+< Virtual: 37292, Physical:   428, Value: 186, TLB hit: false, PT hit: false 
+< Virtual: 53061, Physical:   581, Value: 112, TLB hit: false, PT hit: false 
+< Virtual: 14165, Physical:   853, Value:  40, TLB hit: false, PT hit: false 
+< Virtual: 25283, Physical:  1219, Value: 206, TLB hit: false, PT hit: false 
+---
+> Virtual: 62591, Physical: 13951, Value:  93, TLB hit: true
+> Virtual: 50198, Physical: 16150, Value:  42, TLB hit: false, PT hit: true 
+> Virtual: 37292, Physical: 16300, Value: 186, TLB hit: false, PT hit: false 
+> Virtual: 53061, Physical:    69, Value: 112, TLB hit: false, PT hit: false 
+> Virtual: 14165, Physical:   341, Value:  40, TLB hit: false, PT hit: false 
+> Virtual: 25283, Physical:   707, Value: 206, TLB hit: false, PT hit: false 
+431c431
+< Virtual:   404, Physical:  1428, Value: 192, TLB hit: false, PT hit: false 
+---
+> Virtual:   404, Physical:   916, Value: 192, TLB hit: false, PT hit: false 
+433c433
+< Virtual: 22456, Physical:  1720, Value:   5, TLB hit: false, PT hit: false 
+---
+> Virtual: 22456, Physical:  1208, Value:   5, TLB hit: false, PT hit: false 
+435,436c435,436
+< Virtual: 32539, Physical:  1819, Value: 133, TLB hit: false, PT hit: false 
+< Virtual: 12067, Physical:  2083, Value:  79, TLB hit: false, PT hit: false 
+---
+> Virtual: 32539, Physical:  1307, Value: 133, TLB hit: false, PT hit: false 
+> Virtual: 12067, Physical:  1571, Value:  79, TLB hit: false, PT hit: false 
+439,442c439,442
+< Virtual: 23720, Physical:  2472, Value: 175, TLB hit: false, PT hit: false 
+< Virtual: 19200, Physical:  2560, Value:  71, TLB hit: false, PT hit: false 
+< Virtual: 21719, Physical:  3031, Value: 162, TLB hit: false, PT hit: false 
+< Virtual: 59906, Physical:  3074, Value: 139, TLB hit: false, PT hit: false 
+---
+> Virtual: 23720, Physical:  1960, Value: 175, TLB hit: false, PT hit: false 
+> Virtual: 19200, Physical:  2048, Value:  71, TLB hit: false, PT hit: false 
+> Virtual: 21719, Physical:  2519, Value: 162, TLB hit: false, PT hit: false 
+> Virtual: 59906, Physical:  2562, Value: 139, TLB hit: false, PT hit: false 
+444,450c444,450
+< Virtual: 28393, Physical:  3561, Value: 133, TLB hit: false, PT hit: false 
+< Virtual: 57240, Physical:  3736, Value: 242, TLB hit: false, PT hit: false 
+< Virtual: 31762, Physical:  3858, Value: 148, TLB hit: false, PT hit: false 
+< Virtual:  6385, Physical:  4337, Value: 157, TLB hit: false, PT hit: false 
+< Virtual: 31777, Physical:  3873, Value: 103, TLB hit: true
+< Virtual: 39975, Physical:  4391, Value: 248, TLB hit: false, PT hit: false 
+< Virtual: 32624, Physical:  1904, Value: 240, TLB hit: true
+---
+> Virtual: 28393, Physical:  3049, Value: 133, TLB hit: false, PT hit: false 
+> Virtual: 57240, Physical:  3224, Value: 242, TLB hit: false, PT hit: false 
+> Virtual: 31762, Physical:  3346, Value: 148, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:02.058053] Test not passed.
+[2023-07-12 15:59:02.058065] Running Score: 22/52
+
+[2023-07-12 15:59:02.058084] Evaluating random_addresses49 with the submitted solution.
+[2023-07-12 15:59:02.190195] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+189c189
+< Virtual: 61672, Physical:  8424, Value:  80, TLB hit: false, PT hit: false 
+---
+> Virtual: 61672, Physical:  6632, Value:   6, TLB hit: true
+191c191
+< Virtual: 30068, Physical:  8564, Value: 224, TLB hit: false, PT hit: false 
+---
+> Virtual: 30068, Physical:  8308, Value: 224, TLB hit: false, PT hit: false 
+193,198c193,198
+< Virtual: 28491, Physical:  8779, Value: 103, TLB hit: false, PT hit: false 
+< Virtual: 40817, Physical:  9073, Value:  71, TLB hit: false, PT hit: false 
+< Virtual: 18816, Physical:  9344, Value:  10, TLB hit: false, PT hit: false 
+< Virtual: 32877, Physical:  9581, Value: 217, TLB hit: false, PT hit: false 
+< Virtual:  2401, Physical:  9825, Value: 197, TLB hit: false, PT hit: false 
+< Virtual: 31811, Physical: 10051, Value: 236, TLB hit: false, PT hit: false 
+---
+> Virtual: 28491, Physical:  8523, Value: 103, TLB hit: false, PT hit: false 
+> Virtual: 40817, Physical:  8817, Value:  71, TLB hit: false, PT hit: false 
+> Virtual: 18816, Physical:  9088, Value:  10, TLB hit: false, PT hit: false 
+> Virtual: 32877, Physical:  9325, Value: 217, TLB hit: false, PT hit: false 
+> Virtual:  2401, Physical:  9569, Value: 197, TLB hit: false, PT hit: false 
+> Virtual: 31811, Physical:  9795, Value: 236, TLB hit: false, PT hit: false 
+200c200
+< Virtual: 13650, Physical: 10322, Value: 135, TLB hit: false, PT hit: false 
+---
+> Virtual: 13650, Physical: 10066, Value: 135, TLB hit: false, PT hit: false 
+202,207c202,207
+< Virtual: 27957, Physical: 10549, Value:  82, TLB hit: false, PT hit: false 
+< Virtual: 38413, Physical: 10765, Value:  37, TLB hit: false, PT hit: false 
+< Virtual:  9770, Physical: 11050, Value:  97, TLB hit: false, PT hit: false 
+< Virtual: 56149, Physical: 11349, Value:   8, TLB hit: false, PT hit: false 
+< Virtual: 16087, Physical: 11735, Value:  12, TLB hit: false, PT hit: false 
+< Virtual: 38303, Physical: 11935, Value: 247, TLB hit: false, PT hit: false 
+---
+> Virtual: 27957, Physical: 10293, Value:  82, TLB hit: false, PT hit: false 
+> Virtual: 38413, Physical: 10509, Value:  37, TLB hit: false, PT hit: false 
+> Virtual:  9770, Physical: 10794, Value:  97, TLB hit: false, PT hit: false 
+> Virtual: 56149, Physical: 11093, Value:   8, TLB hit: false, PT hit: false 
+> Virtual: 16087, Physical: 11479, Value:  12, TLB hit: false, PT hit: false 
+> Virtual: 38303, Physical: 11679, Value: 247, TLB hit: false, PT hit: false 
+209,211c209,211
+< Virtual: 42615, Physical: 12151, Value: 128, TLB hit: false, PT hit: false 
+< Virtual:  7224, Physical: 12344, Value: 180, TLB hit: false, PT hit: false 
+< Virtual: 14248, Physical: 12712, Value: 102, TLB hit: false, PT hit: false 
+---
+> Virtual: 42615, Physical: 11895, Value: 128, TLB hit: false, PT hit: false 
+> Virtual:  7224, Physical: 12088, Value: 180, TLB hit: false, PT hit: false 
+> Virtual: 14248, Physical: 12456, Value: 102, TLB hit: false, PT hit: false 
+214,215c214,215
+< Virtual: 60705, Physical: 12833, Value: 150, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:02.190361] Test not passed.
+[2023-07-12 15:59:02.190376] Running Score: 22/53
+
+[2023-07-12 15:59:02.190398] Evaluating random_addresses50 with the submitted solution.
+[2023-07-12 15:59:02.326460] Outputs match.
+[2023-07-12 15:59:02.326528] Test passed.
+[2023-07-12 15:59:02.326541] Running Score: 23/54
+
+[2023-07-12 15:59:02.326572] Evaluating random_pages01 with the submitted solution.
+[2023-07-12 15:59:02.463653] Outputs match.
+[2023-07-12 15:59:02.463724] Test passed.
+[2023-07-12 15:59:02.463737] Running Score: 24/55
+
+[2023-07-12 15:59:02.463762] Evaluating random_pages02 with the submitted solution.
+[2023-07-12 15:59:02.601149] Outputs match.
+[2023-07-12 15:59:02.601230] Test passed.
+[2023-07-12 15:59:02.601250] Running Score: 25/56
+
+[2023-07-12 15:59:02.601280] Evaluating random_pages03 with the submitted solution.
+[2023-07-12 15:59:02.736031] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1291,1308c1291,1308
+< Virtual: 52884, Physical: 12948, Value: 219, TLB hit: false, PT hit: false 
+< Virtual: 52908, Physical: 12972, Value:  49, TLB hit: true
+< Virtual: 52975, Physical: 13039, Value: 181, TLB hit: true
+< Virtual: 52852, Physical: 12916, Value: 104, TLB hit: true
+< Virtual: 52754, Physical: 12818, Value:  88, TLB hit: true
+< Virtual: 52955, Physical: 13019, Value:  24, TLB hit: true
+< Virtual: 12726, Physical: 13238, Value:  36, TLB hit: false, PT hit: false 
+< Virtual: 12564, Physical: 13076, Value: 228, TLB hit: true
+< Virtual: 12784, Physical: 13296, Value:  47, TLB hit: true
+< Virtual: 12627, Physical: 13139, Value: 186, TLB hit: true
+< Virtual: 12719, Physical: 13231, Value:  25, TLB hit: true
+< Virtual: 12626, Physical: 13138, Value: 126, TLB hit: true
+< Virtual: 26544, Physical: 13488, Value:  22, TLB hit: false, PT hit: false 
+< Virtual: 26618, Physical: 13562, Value:   5, TLB hit: true
+< Virtual: 26414, Physical: 13358, Value: 248, TLB hit: true
+< Virtual: 26623, Physical: 13567, Value:  94, TLB hit: true
+< Virtual: 26512, Physical: 13456, Value: 229, TLB hit: true
+< Virtual: 26537, Physical: 13481, Value: 157, TLB hit: true
+---
+> Virtual: 52884, Physical: 12692, Value: 139, TLB hit: true
+> Virtual: 52908, Physical: 12716, Value:  85, TLB hit: true
+> Virtual: 52975, Physical: 12783, Value:  49, TLB hit: true
+> Virtual: 52852, Physical: 12660, Value: 168, TLB hit: true
+> Virtual: 52754, Physical: 12562, Value: 133, TLB hit: true
+> Virtual: 52955, Physical: 12763, Value: 123, TLB hit: true
+> Virtual: 12726, Physical: 12982, Value:  36, TLB hit: false, PT hit: false 
+> Virtual: 12564, Physical: 12820, Value: 228, TLB hit: true
+> Virtual: 12784, Physical: 13040, Value:  47, TLB hit: true
+> Virtual: 12627, Physical: 12883, Value: 186, TLB hit: true
+> Virtual: 12719, Physical: 12975, Value:  25, TLB hit: true
+> Virtual: 12626, Physical: 12882, Value: 126, TLB hit: true
+> Virtual: 26544, Physical: 13232, Value:  22, TLB hit: false, PT hit: false 
+> Virtual: 26618, Physical: 13306, Value:   5, TLB hit: true
+> Virtual: 26414, Physical: 13102, Value: 248, TLB hit: true
+> Virtual: 26623, Physical: 13311, Value:  94, TLB hit: true
+> Virtual: 26512, Physical: 13200, Value: 229, TLB hit: true
+> Virtual: 26537, Physical: 13225, Value: 157, TLB hit: true
+1315,1344c1315,1344
+< Virtual: 39787, Physical: 13675, Value:  93, TLB hit: false, PT hit: false 
+< Virtual: 39819, Physical: 13707, Value: 200, TLB hit: true
+< Virtual: 39736, Physical: 13624, Value: 132, TLB hit: true
+< Virtual: 39866, Physical: 13754, Value: 109, TLB hit: true
+< Virtual: 39847, Physical: 13735, Value: 192, TLB hit: true
+< Virtual: 39706, Physical: 13594, Value: 152, TLB hit: true
+< Virtual: 58732, Physical: 13932, Value: 139, TLB hit: false, PT hit: false 
+< Virtual: 58629, Physical: 13829, Value: 153, TLB hit: true
+< Virtual: 58809, Physical: 14009, Value: 200, TLB hit: true
+< Virtual: 58874, Physical: 14074, Value: 246, TLB hit: true
+< Virtual: 58767, Physical: 13967, Value: 197, TLB hit: true
+[2023-07-12 15:59:02.736455] Test not passed.
+[2023-07-12 15:59:02.736514] Running Score: 25/57
+
+[2023-07-12 15:59:02.736544] Evaluating random_pages04 with the submitted solution.
+[2023-07-12 15:59:02.867023] Outputs match.
+[2023-07-12 15:59:02.867096] Test passed.
+[2023-07-12 15:59:02.867107] Running Score: 26/58
+
+[2023-07-12 15:59:02.867126] Evaluating random_pages05 with the submitted solution.
+[2023-07-12 15:59:03.025540] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+2212,2266c2212,2266
+< Virtual: 45636, Physical:  7492, Value: 220, TLB hit: false, PT hit: false 
+< Virtual: 45580, Physical:  7436, Value: 119, TLB hit: true
+< Virtual: 45614, Physical:  7470, Value: 130, TLB hit: true
+< Virtual: 45649, Physical:  7505, Value:  51, TLB hit: true
+< Virtual: 45746, Physical:  7602, Value:  70, TLB hit: true
+< Virtual: 45661, Physical:  7517, Value: 226, TLB hit: true
+< Virtual: 45618, Physical:  7474, Value: 224, TLB hit: true
+< Virtual: 45747, Physical:  7603, Value:  94, TLB hit: true
+< Virtual: 45770, Physical:  7626, Value:  32, TLB hit: true
+< Virtual: 45720, Physical:  7576, Value: 198, TLB hit: true
+< Virtual: 45616, Physical:  7472, Value: 119, TLB hit: true
+< Virtual: 58687, Physical:  7743, Value: 115, TLB hit: false, PT hit: false 
+< Virtual: 58858, Physical:  7914, Value: 195, TLB hit: true
+< Virtual: 58865, Physical:  7921, Value: 102, TLB hit: true
+< Virtual: 58676, Physical:  7732, Value:  89, TLB hit: true
+< Virtual: 58761, Physical:  7817, Value: 174, TLB hit: true
+< Virtual: 58779, Physical:  7835, Value: 201, TLB hit: true
+< Virtual: 58736, Physical:  7792, Value: 221, TLB hit: true
+< Virtual: 58733, Physical:  7789, Value: 147, TLB hit: true
+< Virtual: 58748, Physical:  7804, Value:  28, TLB hit: true
+< Virtual: 58663, Physical:  7719, Value: 107, TLB hit: true
+< Virtual: 58637, Physical:  7693, Value:  16, TLB hit: true
+< Virtual:   723, Physical:  8147, Value: 118, TLB hit: false, PT hit: false 
+< Virtual:   752, Physical:  8176, Value: 199, TLB hit: true
+< Virtual:   729, Physical:  8153, Value: 208, TLB hit: true
+< Virtual:   753, Physical:  8177, Value:  48, TLB hit: true
+< Virtual:   568, Physical:  7992, Value: 106, TLB hit: true
+< Virtual:   569, Physical:  7993, Value: 240, TLB hit: true
+< Virtual:   692, Physical:  8116, Value:  77, TLB hit: true
+< Virtual:   590, Physical:  8014, Value:   7, TLB hit: true
+< Virtual:   646, Physical:  8070, Value: 217, TLB hit: true
+< Virtual:   763, Physical:  8187, Value: 174, TLB hit: true
+< Virtual:   729, Physical:  8153, Value: 208, TLB hit: true
+< Virtual: 56770, Physical:  8386, Value: 235, TLB hit: false, PT hit: false 
+< Virtual: 56784, Physical:  8400, Value: 104, TLB hit: true
+< Virtual: 56703, Physical:  8319, Value:  98, TLB hit: true
+< Virtual: 56710, Physical:  8326, Value: 178, TLB hit: true
+< Virtual: 56673, Physical:  8289, Value:  71, TLB hit: true
+< Virtual: 56646, Physical:  8262, Value:  54, TLB hit: true
+< Virtual: 56613, Physical:  8229, Value:  40, TLB hit: true
+< Virtual: 56793, Physical:  8409, Value: 215, TLB hit: true
+< Virtual: 56589, Physical:  8205, Value:  11, TLB hit: true
+< Virtual: 56734, Physical:  8350, Value: 206, TLB hit: true
+< Virtual: 56826, Physical:  8442, Value:   5, TLB hit: true
+< Virtual:  1692, Physical:  8604, Value:  86, TLB hit: false, PT hit: false 
+< Virtual:  1602, Physical:  8514, Value:  21, TLB hit: true
+< Virtual:  1708, Physical:  8620, Value: 110, TLB hit: true
+< Virtual:  1610, Physical:  8522, Value: 166, TLB hit: true
+< Virtual:  1707, Physical:  8619, Value: 100, TLB hit: true
+[2023-07-12 15:59:03.025697] Test not passed.
+[2023-07-12 15:59:03.025713] Running Score: 26/59
+
+[2023-07-12 15:59:03.025736] Evaluating random_pages06 with the submitted solution.
+[2023-07-12 15:59:03.160271] Outputs match.
+[2023-07-12 15:59:03.160356] Test passed.
+[2023-07-12 15:59:03.160380] Running Score: 27/60
+
+[2023-07-12 15:59:03.160408] Evaluating random_pages07 with the submitted solution.
+[2023-07-12 15:59:03.293750] Outputs match.
+[2023-07-12 15:59:03.293826] Test passed.
+[2023-07-12 15:59:03.293842] Running Score: 28/61
+
+[2023-07-12 15:59:03.293872] Evaluating random_pages08 with the submitted solution.
+[2023-07-12 15:59:03.445682] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+3851,3864c3851,3864
+< Virtual: 60969, Physical:  7977, Value: 106, TLB hit: false, PT hit: false 
+< Virtual: 61182, Physical:  8190, Value:  79, TLB hit: true
+< Virtual: 60974, Physical:  7982, Value:  36, TLB hit: true
+< Virtual: 60956, Physical:  7964, Value: 245, TLB hit: true
+< Virtual: 60930, Physical:  7938, Value:  10, TLB hit: true
+< Virtual: 61090, Physical:  8098, Value: 152, TLB hit: true
+< Virtual: 61015, Physical:  8023, Value: 194, TLB hit: true
+< Virtual: 61141, Physical:  8149, Value: 163, TLB hit: true
+< Virtual: 61035, Physical:  8043, Value:   7, TLB hit: true
+< Virtual: 60941, Physical:  7949, Value: 165, TLB hit: true
+< Virtual: 61061, Physical:  8069, Value: 180, TLB hit: true
+< Virtual: 61140, Physical:  8148, Value:  84, TLB hit: true
+< Virtual: 60964, Physical:  7972, Value: 194, TLB hit: true
+< Virtual: 61108, Physical:  8116, Value: 220, TLB hit: true
+---
+> Virtual: 60969, Physical:  6953, Value: 204, TLB hit: true
+> Virtual: 61182, Physical:  7166, Value: 206, TLB hit: true
+> Virtual: 60974, Physical:  6958, Value: 252, TLB hit: true
+> Virtual: 60956, Physical:  6940, Value: 100, TLB hit: true
+> Virtual: 60930, Physical:  6914, Value:  96, TLB hit: true
+> Virtual: 61090, Physical:  7074, Value: 175, TLB hit: true
+> Virtual: 61015, Physical:  6999, Value: 135, TLB hit: true
+> Virtual: 61141, Physical:  7125, Value:  76, TLB hit: true
+> Virtual: 61035, Physical:  7019, Value:  79, TLB hit: true
+> Virtual: 60941, Physical:  6925, Value: 122, TLB hit: true
+> Virtual: 61061, Physical:  7045, Value:  69, TLB hit: true
+> Virtual: 61140, Physical:  7124, Value: 152, TLB hit: true
+> Virtual: 60964, Physical:  6948, Value: 155, TLB hit: true
+> Virtual: 61108, Physical:  7092, Value:  90, TLB hit: true
+3893,3976c3893,3976
+< Virtual: 57487, Physical:  8335, Value: 120, TLB hit: false, PT hit: false 
+< Virtual: 57407, Physical:  8255, Value: 118, TLB hit: true
+< Virtual: 57552, Physical:  8400, Value: 197, TLB hit: true
+< Virtual: 57421, Physical:  8269, Value:  55, TLB hit: true
+< Virtual: 57575, Physical:  8423, Value: 204, TLB hit: true
+< Virtual: 57446, Physical:  8294, Value: 233, TLB hit: true
+< Virtual: 57447, Physical:  8295, Value:  12, TLB hit: true
+< Virtual: 57425, Physical:  8273, Value:   2, TLB hit: true
+< Virtual: 57489, Physical:  8337, Value: 242, TLB hit: true
+< Virtual: 57486, Physical:  8334, Value: 233, TLB hit: true
+< Virtual: 57549, Physical:  8397, Value: 182, TLB hit: true
+< Virtual: 57411, Physical:  8259, Value: 205, TLB hit: true
+< Virtual: 57366, Physical:  8214, Value: 232, TLB hit: true
+< Virtual: 57416, Physical:  8264, Value: 140, TLB hit: true
+< Virtual: 44067, Physical:  8483, Value: 101, TLB hit: false, PT hit: false 
+< Virtual: 44187, Physical:  8603, Value:  91, TLB hit: true
+< Virtual: 44167, Physical:  8583, Value:  11, TLB hit: true
+< Virtual: 44198, Physical:  8614, Value:  77, TLB hit: true
+< Virtual: 44147, Physical:  8563, Value:  88, TLB hit: true
+[2023-07-12 15:59:03.445805] Test not passed.
+[2023-07-12 15:59:03.445822] Running Score: 28/62
+
+[2023-07-12 15:59:03.445854] Evaluating random_pages09 with the submitted solution.
+[2023-07-12 15:59:03.593955] Outputs match.
+[2023-07-12 15:59:03.594038] Test passed.
+[2023-07-12 15:59:03.594064] Running Score: 29/63
+
+[2023-07-12 15:59:03.594104] Evaluating random_pages10 with the submitted solution.
+[2023-07-12 15:59:03.750322] Outputs match.
+[2023-07-12 15:59:03.750400] Test passed.
+[2023-07-12 15:59:03.750414] Running Score: 30/64
+
+[2023-07-12 15:59:03.750437] Evaluating random_pages11 with the submitted solution.
+[2023-07-12 15:59:03.902338] Outputs match.
+[2023-07-12 15:59:03.902418] Test passed.
+[2023-07-12 15:59:03.902435] Running Score: 31/65
+
+[2023-07-12 15:59:03.902464] Evaluating random_pages12 with the submitted solution.
+[2023-07-12 15:59:04.051520] Outputs match.
+[2023-07-12 15:59:04.051603] Test passed.
+[2023-07-12 15:59:04.051621] Running Score: 32/66
+
+[2023-07-12 15:59:04.051647] Evaluating random_pages13 with the submitted solution.
+[2023-07-12 15:59:04.184800] Outputs match.
+[2023-07-12 15:59:04.184874] Test passed.
+[2023-07-12 15:59:04.184891] Running Score: 33/67
+
+[2023-07-12 15:59:04.184918] Evaluating random_pages14 with the submitted solution.
+[2023-07-12 15:59:04.322624] Outputs match.
+[2023-07-12 15:59:04.322711] Test passed.
+[2023-07-12 15:59:04.322732] Running Score: 34/68
+
+[2023-07-12 15:59:04.322769] Evaluating random_pages15 with the submitted solution.
+[2023-07-12 15:59:04.460846] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+847,924c847,924
+< Virtual: 62352, Physical: 12688, Value: 216, TLB hit: false, PT hit: false 
+< Virtual: 62372, Physical: 12708, Value:  97, TLB hit: true
+< Virtual: 62443, Physical: 12779, Value:  67, TLB hit: true
+< Virtual: 62275, Physical: 12611, Value:  63, TLB hit: true
+< Virtual: 62280, Physical: 12616, Value: 183, TLB hit: true
+< Virtual: 62380, Physical: 12716, Value:  16, TLB hit: true
+< Virtual:  7649, Physical: 13025, Value: 104, TLB hit: false, PT hit: false 
+< Virtual:  7542, Physical: 12918, Value:  50, TLB hit: true
+< Virtual:  7545, Physical: 12921, Value: 248, TLB hit: true
+< Virtual:  7657, Physical: 13033, Value:  94, TLB hit: true
+< Virtual:  7543, Physical: 12919, Value: 105, TLB hit: true
+< Virtual:  7652, Physical: 13028, Value: 116, TLB hit: true
+< Virtual: 40255, Physical: 13119, Value: 239, TLB hit: false, PT hit: false 
+< Virtual: 40360, Physical: 13224, Value:  66, TLB hit: true
+< Virtual: 40230, Physical: 13094, Value:  24, TLB hit: true
+< Virtual: 40400, Physical: 13264, Value: 212, TLB hit: true
+< Virtual: 40422, Physical: 13286, Value: 205, TLB hit: true
+< Virtual: 40301, Physical: 13165, Value: 207, TLB hit: true
+< Virtual: 11453, Physical: 13501, Value: 168, TLB hit: false, PT hit: false 
+< Virtual: 11272, Physical: 13320, Value: 219, TLB hit: true
+< Virtual: 11357, Physical: 13405, Value:  40, TLB hit: true
+< Virtual: 11367, Physical: 13415, Value: 104, TLB hit: true
+< Virtual: 11455, Physical: 13503, Value:  86, TLB hit: true
+< Virtual: 11333, Physical: 13381, Value:  36, TLB hit: true
+< Virtual: 44887, Physical: 13655, Value: 230, TLB hit: false, PT hit: false 
+< Virtual: 44974, Physical: 13742, Value:  65, TLB hit: true
+< Virtual: 44819, Physical: 13587, Value: 196, TLB hit: true
+< Virtual: 44960, Physical: 13728, Value: 171, TLB hit: true
+< Virtual: 44996, Physical: 13764, Value:  62, TLB hit: true
+< Virtual: 45017, Physical: 13785, Value:  63, TLB hit: true
+< Virtual: 40644, Physical: 14020, Value:  89, TLB hit: false, PT hit: false 
+< Virtual: 40465, Physical: 13841, Value: 199, TLB hit: true
+< Virtual: 40617, Physical: 13993, Value:  53, TLB hit: true
+< Virtual: 40540, Physical: 13916, Value: 101, TLB hit: true
+< Virtual: 40630, Physical: 14006, Value:   5, TLB hit: true
+< Virtual: 40549, Physical: 13925, Value:   9, TLB hit: true
+< Virtual: 14313, Physical: 14313, Value: 227, TLB hit: false, PT hit: false 
+< Virtual: 14178, Physical: 14178, Value: 158, TLB hit: true
+< Virtual: 14263, Physical: 14263, Value: 228, TLB hit: true
+< Virtual: 14085, Physical: 14085, Value: 215, TLB hit: true
+< Virtual: 14146, Physical: 14146, Value: 218, TLB hit: true
+< Virtual: 14090, Physical: 14090, Value: 193, TLB hit: true
+< Virtual: 24582, Physical: 14342, Value: 192, TLB hit: false, PT hit: false 
+< Virtual: 24711, Physical: 14471, Value:  51, TLB hit: true
+< Virtual: 24802, Physical: 14562, Value:   9, TLB hit: true
+< Virtual: 24785, Physical: 14545, Value:  87, TLB hit: true
+< Virtual: 24582, Physical: 14342, Value: 192, TLB hit: true
+< Virtual: 24761, Physical: 14521, Value: 190, TLB hit: true
+< Virtual: 65235, Physical: 14803, Value:  28, TLB hit: false, PT hit: false 
+[2023-07-12 15:59:04.460999] Test not passed.
+[2023-07-12 15:59:04.461018] Running Score: 34/69
+
+[2023-07-12 15:59:04.461042] Evaluating random_pages16 with the submitted solution.
+[2023-07-12 15:59:04.598923] Outputs match.
+[2023-07-12 15:59:04.598994] Test passed.
+[2023-07-12 15:59:04.599007] Running Score: 35/70
+
+[2023-07-12 15:59:04.599032] Evaluating random_pages17 with the submitted solution.
+[2023-07-12 15:59:04.740108] Outputs match.
+[2023-07-12 15:59:04.740174] Test passed.
+[2023-07-12 15:59:04.740188] Running Score: 36/71
+
+[2023-07-12 15:59:04.740211] Evaluating random_pages18 with the submitted solution.
+[2023-07-12 15:59:04.876205] Outputs match.
+[2023-07-12 15:59:04.876275] Test passed.
+[2023-07-12 15:59:04.876288] Running Score: 37/72
+
+[2023-07-12 15:59:04.876311] Evaluating random_pages19 with the submitted solution.
+[2023-07-12 15:59:05.017618] Outputs match.
+[2023-07-12 15:59:05.017701] Test passed.
+[2023-07-12 15:59:05.017718] Running Score: 38/73
+
+[2023-07-12 15:59:05.017746] Evaluating random_pages20 with the submitted solution.
+[2023-07-12 15:59:05.158708] Outputs match.
+[2023-07-12 15:59:05.158789] Test passed.
+[2023-07-12 15:59:05.158805] Running Score: 39/74
+
+[2023-07-12 15:59:05.158829] Evaluating random_pages21 with the submitted solution.
+[2023-07-12 15:59:05.302423] Outputs match.
+[2023-07-12 15:59:05.302480] Test passed.
+[2023-07-12 15:59:05.302497] Running Score: 40/75
+
+[2023-07-12 15:59:05.302519] Evaluating random_pages22 with the submitted solution.
+[2023-07-12 15:59:05.449385] Outputs match.
+[2023-07-12 15:59:05.449459] Test passed.
+[2023-07-12 15:59:05.449472] Running Score: 41/76
+
+[2023-07-12 15:59:05.449497] Evaluating random_pages23 with the submitted solution.
+[2023-07-12 15:59:05.596331] Outputs match.
+[2023-07-12 15:59:05.596421] Test passed.
+[2023-07-12 15:59:05.596439] Running Score: 42/77
+
+[2023-07-12 15:59:05.596489] Evaluating random_pages24 with the submitted solution.
+[2023-07-12 15:59:05.739801] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1765,1776c1765,1776
+< Virtual: 53076, Physical: 14932, Value:  11, TLB hit: false, PT hit: false 
+< Virtual: 53001, Physical: 14857, Value: 120, TLB hit: true
+< Virtual: 53231, Physical: 15087, Value:   1, TLB hit: true
+< Virtual: 53077, Physical: 14933, Value: 247, TLB hit: true
+< Virtual: 53045, Physical: 14901, Value:  41, TLB hit: true
+< Virtual: 53163, Physical: 15019, Value: 113, TLB hit: true
+< Virtual: 53178, Physical: 15034, Value: 189, TLB hit: true
+< Virtual: 53176, Physical: 15032, Value: 225, TLB hit: true
+< Virtual: 53242, Physical: 15098, Value: 253, TLB hit: true
+< Virtual: 53082, Physical: 14938, Value: 109, TLB hit: true
+< Virtual: 53086, Physical: 14942, Value: 197, TLB hit: true
+< Virtual: 53245, Physical: 15101, Value: 134, TLB hit: true
+---
+> Virtual: 53076, Physical: 14420, Value: 203, TLB hit: true
+> Virtual: 53001, Physical: 14345, Value: 100, TLB hit: true
+> Virtual: 53231, Physical: 14575, Value: 158, TLB hit: true
+> Virtual: 53077, Physical: 14421, Value: 207, TLB hit: true
+> Virtual: 53045, Physical: 14389, Value:   7, TLB hit: true
+> Virtual: 53163, Physical: 14507, Value: 110, TLB hit: true
+> Virtual: 53178, Physical: 14522, Value:   4, TLB hit: true
+> Virtual: 53176, Physical: 14520, Value:   5, TLB hit: true
+> Virtual: 53242, Physical: 14586, Value:  62, TLB hit: true
+> Virtual: 53082, Physical: 14426, Value:  12, TLB hit: true
+> Virtual: 53086, Physical: 14430, Value: 182, TLB hit: true
+> Virtual: 53245, Physical: 14589, Value: 250, TLB hit: true
+1789,2076c1789,2076
+< Virtual: 21559, Physical: 15159, Value:  17, TLB hit: false, PT hit: false 
+< Virtual: 21636, Physical: 15236, Value:  94, TLB hit: true
+< Virtual: 21710, Physical: 15310, Value:  35, TLB hit: true
+< Virtual: 21518, Physical: 15118, Value: 200, TLB hit: true
+< Virtual: 21570, Physical: 15170, Value: 198, TLB hit: true
+< Virtual: 21578, Physical: 15178, Value: 132, TLB hit: true
+< Virtual: 21560, Physical: 15160, Value: 215, TLB hit: true
+< Virtual: 21631, Physical: 15231, Value: 249, TLB hit: true
+< Virtual: 21642, Physical: 15242, Value:  18, TLB hit: true
+< Virtual: 21687, Physical: 15287, Value: 212, TLB hit: true
+< Virtual: 21694, Physical: 15294, Value:  82, TLB hit: true
+< Virtual: 21571, Physical: 15171, Value: 145, TLB hit: true
+< Virtual: 42907, Physical: 15515, Value: 171, TLB hit: false, PT hit: false 
+< Virtual: 42768, Physical: 15376, Value:  49, TLB hit: true
+< Virtual: 42854, Physical: 15462, Value:   1, TLB hit: true
+< Virtual: 42811, Physical: 15419, Value:  56, TLB hit: true
+< Virtual: 42850, Physical: 15458, Value: 171, TLB hit: true
+< Virtual: 42875, Physical: 15483, Value: 168, TLB hit: true
+< Virtual: 42816, Physical: 15424, Value: 250, TLB hit: true
+< Virtual: 42777, Physical: 15385, Value: 118, TLB hit: true
+< Virtual: 42793, Physical: 15401, Value:  70, TLB hit: true
+< Virtual: 42794, Physical: 15402, Value: 145, TLB hit: true
+< Virtual: 42936, Physical: 15544, Value: 130, TLB hit: true
+[2023-07-12 15:59:05.742150] Test not passed.
+[2023-07-12 15:59:05.742198] Running Score: 42/78
+
+[2023-07-12 15:59:05.742234] Evaluating random_pages25 with the submitted solution.
+[2023-07-12 15:59:05.901271] Outputs match.
+[2023-07-12 15:59:05.901343] Test passed.
+[2023-07-12 15:59:05.901359] Running Score: 43/79
+
+[2023-07-12 15:59:05.901394] Evaluating random_pages26 with the submitted solution.
+[2023-07-12 15:59:06.037565] Outputs match.
+[2023-07-12 15:59:06.037641] Test passed.
+[2023-07-12 15:59:06.037654] Running Score: 44/80
+
+[2023-07-12 15:59:06.037679] Evaluating random_pages27 with the submitted solution.
+[2023-07-12 15:59:06.178366] Outputs match.
+[2023-07-12 15:59:06.178452] Test passed.
+[2023-07-12 15:59:06.178475] Running Score: 45/81
+
+[2023-07-12 15:59:06.178507] Evaluating random_pages28 with the submitted solution.
+[2023-07-12 15:59:06.344647] Outputs match.
+[2023-07-12 15:59:06.344779] Test passed.
+[2023-07-12 15:59:06.344811] Running Score: 46/82
+
+[2023-07-12 15:59:06.344900] Evaluating random_pages29 with the submitted solution.
+[2023-07-12 15:59:06.495833] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1373,1401c1373,1401
+< Virtual: 35046, Physical:  7142, Value: 108, TLB hit: false, PT hit: false 
+< Virtual: 35011, Physical:  7107, Value:  46, TLB hit: true
+< Virtual: 34864, Physical:  6960, Value: 196, TLB hit: true
+< Virtual: 34869, Physical:  6965, Value: 121, TLB hit: true
+< Virtual: 34831, Physical:  6927, Value:   8, TLB hit: true
+< Virtual: 34956, Physical:  7052, Value: 203, TLB hit: true
+< Virtual: 35020, Physical:  7116, Value: 115, TLB hit: true
+< Virtual: 50452, Physical:  7188, Value: 216, TLB hit: false, PT hit: false 
+< Virtual: 50559, Physical:  7295, Value: 199, TLB hit: true
+< Virtual: 50591, Physical:  7327, Value: 203, TLB hit: true
+< Virtual: 50631, Physical:  7367, Value: 146, TLB hit: true
+< Virtual: 50524, Physical:  7260, Value: 144, TLB hit: true
+< Virtual: 50665, Physical:  7401, Value: 138, TLB hit: true
+< Virtual: 50578, Physical:  7314, Value: 224, TLB hit: true
+< Virtual: 39921, Physical:  7665, Value: 249, TLB hit: false, PT hit: false 
+< Virtual: 39747, Physical:  7491, Value:  55, TLB hit: true
+< Virtual: 39931, Physical:  7675, Value:  77, TLB hit: true
+< Virtual: 39831, Physical:  7575, Value:  85, TLB hit: true
+< Virtual: 39902, Physical:  7646, Value:  27, TLB hit: true
+< Virtual: 39818, Physical:  7562, Value: 170, TLB hit: true
+< Virtual: 39774, Physical:  7518, Value:  16, TLB hit: true
+< Virtual: 30916, Physical:  7876, Value:  92, TLB hit: false, PT hit: false 
+< Virtual: 30968, Physical:  7928, Value:  39, TLB hit: true
+< Virtual: 30839, Physical:  7799, Value:  21, TLB hit: true
+< Virtual: 30909, Physical:  7869, Value: 220, TLB hit: true
+< Virtual: 30928, Physical:  7888, Value: 103, TLB hit: true
+< Virtual: 30816, Physical:  7776, Value:  38, TLB hit: true
+< Virtual: 30846, Physical:  7806, Value:   4, TLB hit: true
+< Virtual: 55902, Physical:  3934, Value:  29, TLB hit: false, PT hit: true 
+---
+> Virtual: 35046, Physical:  6118, Value:  24, TLB hit: true
+> Virtual: 35011, Physical:  6083, Value:  40, TLB hit: true
+> Virtual: 34864, Physical:  5936, Value: 117, TLB hit: true
+> Virtual: 34869, Physical:  5941, Value:  67, TLB hit: true
+> Virtual: 34831, Physical:  5903, Value: 166, TLB hit: true
+> Virtual: 34956, Physical:  6028, Value:  87, TLB hit: true
+> Virtual: 35020, Physical:  6092, Value: 101, TLB hit: true
+> Virtual: 50452, Physical:  6932, Value: 216, TLB hit: false, PT hit: false 
+> Virtual: 50559, Physical:  7039, Value: 199, TLB hit: true
+> Virtual: 50591, Physical:  7071, Value: 203, TLB hit: true
+> Virtual: 50631, Physical:  7111, Value: 146, TLB hit: true
+> Virtual: 50524, Physical:  7004, Value: 144, TLB hit: true
+> Virtual: 50665, Physical:  7145, Value: 138, TLB hit: true
+> Virtual: 50578, Physical:  7058, Value: 224, TLB hit: true
+> Virtual: 39921, Physical:  7409, Value: 249, TLB hit: false, PT hit: false 
+> Virtual: 39747, Physical:  7235, Value:  55, TLB hit: true
+> Virtual: 39931, Physical:  7419, Value:  77, TLB hit: true
+> Virtual: 39831, Physical:  7319, Value:  85, TLB hit: true
+> Virtual: 39902, Physical:  7390, Value:  27, TLB hit: true
+[2023-07-12 15:59:06.498892] Test not passed.
+[2023-07-12 15:59:06.498923] Running Score: 46/83
+
+[2023-07-12 15:59:06.498954] Evaluating random_pages30 with the submitted solution.
+[2023-07-12 15:59:06.643303] Outputs match.
+[2023-07-12 15:59:06.643383] Test passed.
+[2023-07-12 15:59:06.643403] Running Score: 47/84
+
+[2023-07-12 15:59:06.643438] Evaluating random_pages31 with the submitted solution.
+[2023-07-12 15:59:06.775016] Outputs match.
+[2023-07-12 15:59:06.775099] Test passed.
+[2023-07-12 15:59:06.775120] Running Score: 48/85
+
+[2023-07-12 15:59:06.775152] Evaluating random_pages32 with the submitted solution.
+[2023-07-12 15:59:06.913745] Outputs match.
+[2023-07-12 15:59:06.913821] Test passed.
+[2023-07-12 15:59:06.913839] Running Score: 49/86
+
+[2023-07-12 15:59:06.913867] Evaluating random_pages33 with the submitted solution.
+[2023-07-12 15:59:07.060984] Outputs match.
+[2023-07-12 15:59:07.061063] Test passed.
+[2023-07-12 15:59:07.061076] Running Score: 50/87
+
+[2023-07-12 15:59:07.061100] Evaluating random_pages34 with the submitted solution.
+[2023-07-12 15:59:07.222209] Outputs match.
+[2023-07-12 15:59:07.222282] Test passed.
+[2023-07-12 15:59:07.222298] Running Score: 51/88
+
+[2023-07-12 15:59:07.222321] Evaluating random_pages35 with the submitted solution.
+[2023-07-12 15:59:07.349051] Outputs match.
+[2023-07-12 15:59:07.349127] Test passed.
+[2023-07-12 15:59:07.349144] Running Score: 52/89
+
+[2023-07-12 15:59:07.349172] Evaluating random_pages36 with the submitted solution.
+[2023-07-12 15:59:07.492991] Outputs match.
+[2023-07-12 15:59:07.493076] Test passed.
+[2023-07-12 15:59:07.493092] Running Score: 53/90
+
+[2023-07-12 15:59:07.493122] Evaluating random_pages37 with the submitted solution.
+[2023-07-12 15:59:07.645473] Outputs match.
+[2023-07-12 15:59:07.645550] Test passed.
+[2023-07-12 15:59:07.645563] Running Score: 54/91
+
+[2023-07-12 15:59:07.645590] Evaluating random_pages38 with the submitted solution.
+[2023-07-12 15:59:07.789349] Outputs match.
+[2023-07-12 15:59:07.789418] Test passed.
+[2023-07-12 15:59:07.789434] Running Score: 55/92
+
+[2023-07-12 15:59:07.789460] Evaluating random_pages39 with the submitted solution.
+[2023-07-12 15:59:07.933970] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1772,1782c1772,1782
+< Virtual:  8452, Physical:     4, Value: 200, TLB hit: false, PT hit: false 
+< Virtual:  8666, Physical:   218, Value:  36, TLB hit: true
+< Virtual:  8606, Physical:   158, Value:  64, TLB hit: true
+< Virtual:  8535, Physical:    87, Value:   3, TLB hit: true
+< Virtual:  8463, Physical:    15, Value: 220, TLB hit: true
+< Virtual:  8522, Physical:    74, Value: 167, TLB hit: true
+< Virtual:  8502, Physical:    54, Value:  19, TLB hit: true
+< Virtual:  8506, Physical:    58, Value: 122, TLB hit: true
+< Virtual:  8636, Physical:   188, Value:  91, TLB hit: true
+< Virtual:  8538, Physical:    90, Value:  78, TLB hit: true
+< Virtual:  8449, Physical:     1, Value:  30, TLB hit: true
+---
+> Virtual:  8452, Physical: 16132, Value: 252, TLB hit: true
+> Virtual:  8666, Physical: 16346, Value:  86, TLB hit: true
+> Virtual:  8606, Physical: 16286, Value: 104, TLB hit: true
+> Virtual:  8535, Physical: 16215, Value: 248, TLB hit: true
+> Virtual:  8463, Physical: 16143, Value: 247, TLB hit: true
+> Virtual:  8522, Physical: 16202, Value:  80, TLB hit: true
+> Virtual:  8502, Physical: 16182, Value: 116, TLB hit: true
+> Virtual:  8506, Physical: 16186, Value: 181, TLB hit: true
+> Virtual:  8636, Physical: 16316, Value: 192, TLB hit: true
+> Virtual:  8538, Physical: 16218, Value: 238, TLB hit: true
+> Virtual:  8449, Physical: 16129, Value:  35, TLB hit: true
+1794,1826c1794,1826
+< Virtual:  9172, Physical:   468, Value:  39, TLB hit: false, PT hit: false 
+< Virtual:  8964, Physical:   260, Value: 128, TLB hit: true
+< Virtual:  9053, Physical:   349, Value: 161, TLB hit: true
+< Virtual:  8982, Physical:   278, Value:  81, TLB hit: true
+< Virtual:  9173, Physical:   469, Value: 167, TLB hit: true
+< Virtual:  8986, Physical:   282, Value: 145, TLB hit: true
+< Virtual:  9105, Physical:   401, Value: 198, TLB hit: true
+< Virtual:  9159, Physical:   455, Value: 252, TLB hit: true
+< Virtual:  9038, Physical:   334, Value: 124, TLB hit: true
+< Virtual:  9096, Physical:   392, Value:  61, TLB hit: true
+< Virtual:  9118, Physical:   414, Value:  54, TLB hit: true
+< Virtual: 55984, Physical:   688, Value: 245, TLB hit: false, PT hit: false 
+< Virtual: 55988, Physical:   692, Value:  19, TLB hit: true
+< Virtual: 56017, Physical:   721, Value:  82, TLB hit: true
+< Virtual: 55988, Physical:   692, Value:  19, TLB hit: true
+< Virtual: 55909, Physical:   613, Value: 253, TLB hit: true
+< Virtual: 55948, Physical:   652, Value: 101, TLB hit: true
+< Virtual: 56017, Physical:   721, Value:  82, TLB hit: true
+< Virtual: 56040, Physical:   744, Value: 150, TLB hit: true
+< Virtual: 55912, Physical:   616, Value:  58, TLB hit: true
+< Virtual: 55858, Physical:   562, Value: 102, TLB hit: true
+< Virtual: 55954, Physical:   658, Value: 121, TLB hit: true
+< Virtual: 33508, Physical:   996, Value: 200, TLB hit: false, PT hit: false 
+< Virtual: 33312, Physical:   800, Value:  97, TLB hit: true
+< Virtual: 33438, Physical:   926, Value: 114, TLB hit: true
+[2023-07-12 15:59:07.934112] Test not passed.
+[2023-07-12 15:59:07.934126] Running Score: 55/93
+
+[2023-07-12 15:59:07.934147] Evaluating random_pages40 with the submitted solution.
+[2023-07-12 15:59:08.078834] Outputs match.
+[2023-07-12 15:59:08.078916] Test passed.
+[2023-07-12 15:59:08.078935] Running Score: 56/94
+
+[2023-07-12 15:59:08.078967] Evaluating random_pages41 with the submitted solution.
+[2023-07-12 15:59:08.234731] Outputs match.
+[2023-07-12 15:59:08.234803] Test passed.
+[2023-07-12 15:59:08.234819] Running Score: 57/95
+
+[2023-07-12 15:59:08.234845] Evaluating random_pages42 with the submitted solution.
+[2023-07-12 15:59:08.374133] Outputs match.
+[2023-07-12 15:59:08.374275] Test passed.
+[2023-07-12 15:59:08.374295] Running Score: 58/96
+
+[2023-07-12 15:59:08.374321] Evaluating random_pages43 with the submitted solution.
+[2023-07-12 15:59:08.519725] Outputs match.
+[2023-07-12 15:59:08.519803] Test passed.
+[2023-07-12 15:59:08.519821] Running Score: 59/97
+
+[2023-07-12 15:59:08.519855] Evaluating random_pages44 with the submitted solution.
+[2023-07-12 15:59:08.663859] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+846,860c846,860
+< Virtual: 49382, Physical:   998, Value:   7, TLB hit: false, PT hit: false 
+< Virtual: 49251, Physical:   867, Value:  17, TLB hit: true
+< Virtual: 49249, Physical:   865, Value:   9, TLB hit: true
+< Virtual: 49322, Physical:   938, Value:   8, TLB hit: true
+< Virtual: 49288, Physical:   904, Value: 176, TLB hit: true
+< Virtual:  6002, Physical:  1138, Value: 191, TLB hit: false, PT hit: false 
+< Virtual:  6000, Physical:  1136, Value: 195, TLB hit: true
+< Virtual:  5974, Physical:  1110, Value: 246, TLB hit: true
+< Virtual:  6029, Physical:  1165, Value:  72, TLB hit: true
+< Virtual:  6065, Physical:  1201, Value: 247, TLB hit: true
+< Virtual: 15355, Physical:  1531, Value:  23, TLB hit: false, PT hit: false 
+< Virtual: 15215, Physical:  1391, Value:  25, TLB hit: true
+< Virtual: 15302, Physical:  1478, Value:  56, TLB hit: true
+< Virtual: 15332, Physical:  1508, Value: 247, TLB hit: true
+< Virtual: 15117, Physical:  1293, Value:  89, TLB hit: true
+---
+> Virtual: 49382, Physical: 14822, Value:  28, TLB hit: true
+> Virtual: 49251, Physical: 14691, Value: 141, TLB hit: true
+> Virtual: 49249, Physical: 14689, Value:  45, TLB hit: true
+> Virtual: 49322, Physical: 14762, Value: 251, TLB hit: true
+> Virtual: 49288, Physical: 14728, Value: 154, TLB hit: true
+> Virtual:  6002, Physical:   882, Value: 191, TLB hit: false, PT hit: false 
+> Virtual:  6000, Physical:   880, Value: 195, TLB hit: true
+> Virtual:  5974, Physical:   854, Value: 246, TLB hit: true
+> Virtual:  6029, Physical:   909, Value:  72, TLB hit: true
+> Virtual:  6065, Physical:   945, Value: 247, TLB hit: true
+> Virtual: 15355, Physical:  1275, Value:  23, TLB hit: false, PT hit: false 
+> Virtual: 15215, Physical:  1135, Value:  25, TLB hit: true
+> Virtual: 15302, Physical:  1222, Value:  56, TLB hit: true
+> Virtual: 15332, Physical:  1252, Value: 247, TLB hit: true
+> Virtual: 15117, Physical:  1037, Value:  89, TLB hit: true
+866,870c866,870
+< Virtual: 40295, Physical:  1639, Value:  13, TLB hit: false, PT hit: false 
+< Virtual: 40232, Physical:  1576, Value: 189, TLB hit: true
+< Virtual: 40369, Physical:  1713, Value:  51, TLB hit: true
+< Virtual: 40354, Physical:  1698, Value: 192, TLB hit: true
+< Virtual: 40409, Physical:  1753, Value: 153, TLB hit: true
+---
+> Virtual: 40295, Physical:  1383, Value:  13, TLB hit: false, PT hit: false 
+> Virtual: 40232, Physical:  1320, Value: 189, TLB hit: true
+> Virtual: 40369, Physical:  1457, Value:  51, TLB hit: true
+> Virtual: 40354, Physical:  1442, Value: 192, TLB hit: true
+> Virtual: 40409, Physical:  1497, Value: 153, TLB hit: true
+881,890c881,890
+< Virtual: 27289, Physical:  1945, Value: 173, TLB hit: false, PT hit: false 
+< Virtual: 27145, Physical:  1801, Value: 108, TLB hit: true
+< Virtual: 27275, Physical:  1931, Value: 104, TLB hit: true
+< Virtual: 27371, Physical:  2027, Value: 105, TLB hit: true
+< Virtual: 27169, Physical:  1825, Value:   4, TLB hit: true
+[2023-07-12 15:59:08.663980] Test not passed.
+[2023-07-12 15:59:08.663992] Running Score: 59/98
+
+[2023-07-12 15:59:08.664010] Evaluating random_pages45 with the submitted solution.
+[2023-07-12 15:59:08.796428] Outputs match.
+[2023-07-12 15:59:08.796559] Test passed.
+[2023-07-12 15:59:08.796582] Running Score: 60/99
+
+[2023-07-12 15:59:08.796612] Evaluating random_pages46 with the submitted solution.
+[2023-07-12 15:59:08.945650] Outputs match.
+[2023-07-12 15:59:08.945722] Test passed.
+[2023-07-12 15:59:08.945736] Running Score: 61/100
+
+[2023-07-12 15:59:08.945774] Evaluating random_pages47 with the submitted solution.
+[2023-07-12 15:59:09.097248] Outputs match.
+[2023-07-12 15:59:09.097329] Test passed.
+[2023-07-12 15:59:09.097344] Running Score: 62/101
+
+[2023-07-12 15:59:09.097370] Evaluating random_pages48 with the submitted solution.
+[2023-07-12 15:59:09.239291] Outputs match.
+[2023-07-12 15:59:09.239403] Test passed.
+[2023-07-12 15:59:09.239421] Running Score: 63/102
+
+[2023-07-12 15:59:09.239446] Evaluating random_pages49 with the submitted solution.
+[2023-07-12 15:59:09.405888] Outputs differ. 'diff'-log (Expected output first, Limited to 50 lines/10000 characters):
+1877,1918c1877,1918
+< Virtual: 14042, Physical: 10202, Value:  46, TLB hit: false, PT hit: false 
+< Virtual: 14020, Physical: 10180, Value: 214, TLB hit: true
+< Virtual: 13841, Physical: 10001, Value:  37, TLB hit: true
+< Virtual: 13982, Physical: 10142, Value: 151, TLB hit: true
+< Virtual: 14062, Physical: 10222, Value:  11, TLB hit: true
+< Virtual: 13843, Physical: 10003, Value:  57, TLB hit: true
+< Virtual: 14019, Physical: 10179, Value: 134, TLB hit: true
+< Virtual: 13888, Physical: 10048, Value: 162, TLB hit: true
+< Virtual: 13847, Physical: 10007, Value: 117, TLB hit: true
+< Virtual: 13877, Physical: 10037, Value: 106, TLB hit: true
+< Virtual: 13980, Physical: 10140, Value: 204, TLB hit: true
+< Virtual: 13852, Physical: 10012, Value: 114, TLB hit: true
+< Virtual: 13918, Physical: 10078, Value: 227, TLB hit: true
+< Virtual: 13953, Physical: 10113, Value:  52, TLB hit: true
+< Virtual: 12400, Physical: 10352, Value:  81, TLB hit: false, PT hit: false 
+< Virtual: 12306, Physical: 10258, Value: 193, TLB hit: true
+< Virtual: 12384, Physical: 10336, Value:  26, TLB hit: true
+< Virtual: 12323, Physical: 10275, Value:  39, TLB hit: true
+< Virtual: 12520, Physical: 10472, Value:  25, TLB hit: true
+< Virtual: 12481, Physical: 10433, Value: 225, TLB hit: true
+< Virtual: 12423, Physical: 10375, Value: 114, TLB hit: true
+< Virtual: 12501, Physical: 10453, Value: 177, TLB hit: true
+< Virtual: 12307, Physical: 10259, Value: 113, TLB hit: true
+< Virtual: 12473, Physical: 10425, Value: 102, TLB hit: true
+< Virtual: 12300, Physical: 10252, Value:  47, TLB hit: true
+< Virtual: 12322, Physical: 10274, Value:  90, TLB hit: true
+< Virtual: 12371, Physical: 10323, Value: 209, TLB hit: true
+< Virtual: 12333, Physical: 10285, Value: 136, TLB hit: true
+< Virtual: 25454, Physical: 10606, Value: 245, TLB hit: false, PT hit: false 
+< Virtual: 25345, Physical: 10497, Value:  68, TLB hit: true
+< Virtual: 25362, Physical: 10514, Value: 133, TLB hit: true
+< Virtual: 25526, Physical: 10678, Value:  53, TLB hit: true
+< Virtual: 25490, Physical: 10642, Value: 227, TLB hit: true
+< Virtual: 25500, Physical: 10652, Value:   5, TLB hit: true
+< Virtual: 25425, Physical: 10577, Value: 194, TLB hit: true
+< Virtual: 25459, Physical: 10611, Value: 147, TLB hit: true
+< Virtual: 25396, Physical: 10548, Value:  37, TLB hit: true
+< Virtual: 25364, Physical: 10516, Value: 204, TLB hit: true
+< Virtual: 25363, Physical: 10515, Value: 206, TLB hit: true
+< Virtual: 25392, Physical: 10544, Value: 151, TLB hit: true
+< Virtual: 25591, Physical: 10743, Value: 169, TLB hit: true
+< Virtual: 25530, Physical: 10682, Value: 102, TLB hit: true
+---
+> Virtual: 14042, Physical:  8922, Value: 151, TLB hit: true
+> Virtual: 14020, Physical:  8900, Value: 190, TLB hit: true
+> Virtual: 13841, Physical:  8721, Value:  49, TLB hit: true
+> Virtual: 13982, Physical:  8862, Value:  10, TLB hit: true
+> Virtual: 14062, Physical:  8942, Value:  55, TLB hit: true
+> Virtual: 13843, Physical:  8723, Value:  67, TLB hit: true
+[2023-07-12 15:59:09.406289] Test not passed.
+[2023-07-12 15:59:09.406321] Running Score: 63/103
+
+[2023-07-12 15:59:09.406361] Evaluating random_pages50 with the submitted solution.
+[2023-07-12 15:59:09.562493] Outputs match.
+[2023-07-12 15:59:09.562571] Test passed.
+[2023-07-12 15:59:09.562585] Running Score: 64/104
+
+[2023-07-12 15:59:09.562607] Evaluating sequenced01 with the submitted solution.
+[2023-07-12 15:59:09.708199] Outputs match.
+[2023-07-12 15:59:09.708260] Test passed.
+[2023-07-12 15:59:09.708278] Running Score: 65/105
+
+[2023-07-12 15:59:09.708304] Evaluating sequenced02 with the submitted solution.
+[2023-07-12 15:59:09.868188] Outputs match.
+[2023-07-12 15:59:09.868261] Test passed.
+[2023-07-12 15:59:09.868274] Running Score: 66/106
+
+[2023-07-12 15:59:09.868306] Evaluating sequenced03 with the submitted solution.
+[2023-07-12 15:59:10.003965] Outputs match.
+[2023-07-12 15:59:10.004043] Test passed.
+[2023-07-12 15:59:10.004059] Running Score: 67/107
+
+[2023-07-12 15:59:10.004088] Evaluating sequenced04 with the submitted solution.
+[2023-07-12 15:59:10.153498] Outputs match.
+[2023-07-12 15:59:10.153575] Test passed.
+[2023-07-12 15:59:10.153593] Running Score: 68/108
+
+[2023-07-12 15:59:10.153626] Evaluating sequenced05 with the submitted solution.
+[2023-07-12 15:59:10.300133] Outputs match.
+[2023-07-12 15:59:10.300223] Test passed.
+[2023-07-12 15:59:10.300240] Running Score: 69/109
+
+[2023-07-12 15:59:10.300291] Evaluating sequenced06 with the submitted solution.
+[2023-07-12 15:59:10.448927] Outputs match.
+[2023-07-12 15:59:10.449008] Test passed.
+[2023-07-12 15:59:10.449031] Running Score: 70/110
+
+[2023-07-12 15:59:10.449068] Evaluating sequenced07 with the submitted solution.
+[2023-07-12 15:59:10.592524] Outputs match.
+[2023-07-12 15:59:10.592604] Test passed.
+[2023-07-12 15:59:10.592622] Running Score: 71/111
+
+[2023-07-12 15:59:10.592651] Evaluating sequenced08 with the submitted solution.
+[2023-07-12 15:59:10.749162] Outputs match.
+[2023-07-12 15:59:10.749255] Test passed.
+[2023-07-12 15:59:10.749288] Running Score: 72/112
+
+[2023-07-12 15:59:10.749326] Evaluating sequenced09 with the submitted solution.
+[2023-07-12 15:59:10.902751] Outputs match.
+[2023-07-12 15:59:10.902867] Test passed.
+[2023-07-12 15:59:10.902898] Running Score: 73/113
+
+[2023-07-12 15:59:10.902941] Evaluating sequenced10 with the submitted solution.
+[2023-07-12 15:59:11.050301] Outputs match.
+[2023-07-12 15:59:11.050382] Test passed.
+[2023-07-12 15:59:11.050400] Running Score: 74/114
+
+[2023-07-12 15:59:11.050434] Evaluating sequenced11 with the submitted solution.
+[2023-07-12 15:59:11.199407] Outputs match.
+[2023-07-12 15:59:11.199489] Test passed.
+[2023-07-12 15:59:11.199509] Running Score: 75/115
+
+[2023-07-12 15:59:11.199538] Evaluating sequenced12 with the submitted solution.
+[2023-07-12 15:59:11.336530] Outputs match.
+[2023-07-12 15:59:11.336600] Test passed.
+[2023-07-12 15:59:11.336613] Running Score: 76/116
+
+[2023-07-12 15:59:11.336636] Evaluating sequenced13 with the submitted solution.
+[2023-07-12 15:59:11.480608] Outputs match.
+[2023-07-12 15:59:11.480689] Test passed.
+[2023-07-12 15:59:11.480703] Running Score: 77/117
+
+[2023-07-12 15:59:11.480728] Evaluating sequenced14 with the submitted solution.
+[2023-07-12 15:59:11.623827] Outputs match.
+[2023-07-12 15:59:11.623905] Test passed.
+[2023-07-12 15:59:11.623919] Running Score: 78/118
+
+[2023-07-12 15:59:11.623944] Evaluating sequenced15 with the submitted solution.
+[2023-07-12 15:59:11.764930] Outputs match.
+[2023-07-12 15:59:11.765015] Test passed.
+[2023-07-12 15:59:11.765031] Running Score: 79/119
+
+[2023-07-12 15:59:11.765075] Evaluating sequenced16 with the submitted solution.
+[2023-07-12 15:59:11.903968] Outputs match.
+[2023-07-12 15:59:11.904059] Test passed.
+[2023-07-12 15:59:11.904083] Running Score: 80/120
+
+[2023-07-12 15:59:11.904124] Evaluating sequenced17 with the submitted solution.
+[2023-07-12 15:59:12.053140] Outputs match.
+[2023-07-12 15:59:12.053222] Test passed.
+[2023-07-12 15:59:12.053236] Running Score: 81/121
+
+[2023-07-12 15:59:12.053265] Evaluating sequenced18 with the submitted solution.
+[2023-07-12 15:59:12.201679] Outputs match.
+[2023-07-12 15:59:12.201761] Test passed.
+[2023-07-12 15:59:12.201781] Running Score: 82/122
+
+[2023-07-12 15:59:12.201813] Evaluating sequenced19 with the submitted solution.
+[2023-07-12 15:59:12.356183] Outputs match.
+[2023-07-12 15:59:12.356264] Test passed.
+[2023-07-12 15:59:12.356282] Running Score: 83/123
+
+[2023-07-12 15:59:12.356306] Evaluating sequenced20 with the submitted solution.
+[2023-07-12 15:59:12.496982] Outputs match.
+[2023-07-12 15:59:12.497058] Test passed.
+[2023-07-12 15:59:12.497075] Running Score: 84/124
+
+[2023-07-12 15:59:12.497151] Evaluating sequenced21 with the submitted solution.
+[2023-07-12 15:59:12.641984] Outputs match.
+[2023-07-12 15:59:12.642051] Test passed.
+[2023-07-12 15:59:12.642065] Running Score: 85/125
+
+[2023-07-12 15:59:12.642095] Evaluating sequenced22 with the submitted solution.
+[2023-07-12 15:59:12.783512] Outputs match.
+[2023-07-12 15:59:12.783579] Test passed.
+[2023-07-12 15:59:12.783593] Running Score: 86/126
+
+[2023-07-12 15:59:12.783617] Evaluating sequenced23 with the submitted solution.
+[2023-07-12 15:59:12.926771] Outputs match.
+[2023-07-12 15:59:12.926930] Test passed.
+[2023-07-12 15:59:12.926965] Running Score: 87/127
+
+[2023-07-12 15:59:12.926994] Evaluating sequenced24 with the submitted solution.
+[2023-07-12 15:59:13.071915] Outputs match.
+[2023-07-12 15:59:13.071990] Test passed.
+[2023-07-12 15:59:13.072007] Running Score: 88/128
+
+[2023-07-12 15:59:13.072037] Evaluating sequenced25 with the submitted solution.
+[2023-07-12 15:59:13.215059] Outputs match.
+[2023-07-12 15:59:13.215148] Test passed.
+[2023-07-12 15:59:13.215165] Running Score: 89/129
+
+[2023-07-12 15:59:13.215198] Evaluating sequenced26 with the submitted solution.
+[2023-07-12 15:59:13.364014] Outputs match.
+[2023-07-12 15:59:13.364095] Test passed.
+[2023-07-12 15:59:13.364114] Running Score: 90/130
+
+[2023-07-12 15:59:13.364142] Evaluating sequenced27 with the submitted solution.
+[2023-07-12 15:59:13.507128] Outputs match.
+[2023-07-12 15:59:13.507209] Test passed.
+[2023-07-12 15:59:13.507228] Running Score: 91/131
+
+[2023-07-12 15:59:13.507255] Evaluating sequenced28 with the submitted solution.
+[2023-07-12 15:59:13.653769] Outputs match.
+[2023-07-12 15:59:13.653847] Test passed.
+[2023-07-12 15:59:13.653863] Running Score: 92/132
+
+[2023-07-12 15:59:13.653886] Evaluating sequenced29 with the submitted solution.
+[2023-07-12 15:59:13.790424] Outputs match.
+[2023-07-12 15:59:13.790497] Test passed.
+[2023-07-12 15:59:13.790511] Running Score: 93/133
+
+[2023-07-12 15:59:13.790536] Evaluating sequenced30 with the submitted solution.
+[2023-07-12 15:59:13.935820] Outputs match.
+[2023-07-12 15:59:13.935897] Test passed.
+[2023-07-12 15:59:13.935918] Running Score: 94/134
+
+[2023-07-12 15:59:13.935941] Evaluating sequenced31 with the submitted solution.
+[2023-07-12 15:59:14.088712] Outputs match.
+[2023-07-12 15:59:14.088788] Test passed.
+[2023-07-12 15:59:14.088805] Running Score: 95/135
+
+[2023-07-12 15:59:14.088836] Evaluating sequenced32 with the submitted solution.
+[2023-07-12 15:59:14.235312] Outputs match.
+[2023-07-12 15:59:14.235418] Test passed.
+[2023-07-12 15:59:14.235438] Running Score: 96/136
+
+[2023-07-12 15:59:14.235468] Evaluating sequenced33 with the submitted solution.
+[2023-07-12 15:59:14.377916] Outputs match.
+[2023-07-12 15:59:14.377990] Test passed.
+[2023-07-12 15:59:14.378005] Running Score: 97/137
+
+[2023-07-12 15:59:14.378029] Evaluating sequenced34 with the submitted solution.
+[2023-07-12 15:59:14.533323] Outputs match.
+[2023-07-12 15:59:14.533402] Test passed.
+[2023-07-12 15:59:14.533417] Running Score: 98/138
+
+[2023-07-12 15:59:14.533440] Evaluating sequenced35 with the submitted solution.
+[2023-07-12 15:59:14.675419] Outputs match.
+[2023-07-12 15:59:14.675498] Test passed.
+[2023-07-12 15:59:14.675516] Running Score: 99/139
+
+[2023-07-12 15:59:14.675547] Evaluating sequenced36 with the submitted solution.
+[2023-07-12 15:59:14.826763] Outputs match.
+[2023-07-12 15:59:14.827006] Test passed.
+[2023-07-12 15:59:14.827041] Running Score: 100/140
+
+[2023-07-12 15:59:14.827070] Evaluating sequenced37 with the submitted solution.
+[2023-07-12 15:59:14.969435] Outputs match.
+[2023-07-12 15:59:14.969513] Test passed.
+[2023-07-12 15:59:14.969528] Running Score: 101/141
+
+[2023-07-12 15:59:14.969555] Evaluating sequenced38 with the submitted solution.
+[2023-07-12 15:59:15.131923] Outputs match.
+[2023-07-12 15:59:15.131998] Test passed.
+[2023-07-12 15:59:15.132013] Running Score: 102/142
+
+[2023-07-12 15:59:15.132035] Evaluating sequenced39 with the submitted solution.
+[2023-07-12 15:59:15.281885] Outputs match.
+[2023-07-12 15:59:15.281962] Test passed.
+[2023-07-12 15:59:15.281980] Running Score: 103/143
+
+[2023-07-12 15:59:15.282006] Evaluating sequenced40 with the submitted solution.
+[2023-07-12 15:59:15.418011] Outputs match.
+[2023-07-12 15:59:15.418093] Test passed.
+[2023-07-12 15:59:15.418111] Running Score: 104/144
+
+[2023-07-12 15:59:15.418140] Evaluating sequenced41 with the submitted solution.
+[2023-07-12 15:59:15.555262] Outputs match.
+[2023-07-12 15:59:15.555343] Test passed.
+[2023-07-12 15:59:15.555361] Running Score: 105/145
+
+[2023-07-12 15:59:15.555392] Evaluating sequenced42 with the submitted solution.
+[2023-07-12 15:59:15.710390] Outputs match.
+[2023-07-12 15:59:15.710476] Test passed.
+[2023-07-12 15:59:15.710495] Running Score: 106/146
+
+[2023-07-12 15:59:15.710526] Evaluating sequenced43 with the submitted solution.
+[2023-07-12 15:59:15.852291] Outputs match.
+[2023-07-12 15:59:15.852370] Test passed.
+[2023-07-12 15:59:15.852388] Running Score: 107/147
+
+[2023-07-12 15:59:15.852416] Evaluating sequenced44 with the submitted solution.
+[2023-07-12 15:59:15.989236] Outputs match.
+[2023-07-12 15:59:15.989313] Test passed.
+[2023-07-12 15:59:15.989327] Running Score: 108/148
+
+[2023-07-12 15:59:15.989351] Evaluating sequenced45 with the submitted solution.
+[2023-07-12 15:59:16.126764] Outputs match.
+[2023-07-12 15:59:16.126841] Test passed.
+[2023-07-12 15:59:16.126855] Running Score: 109/149
+
+[2023-07-12 15:59:16.126878] Evaluating sequenced46 with the submitted solution.
+[2023-07-12 15:59:16.273893] Outputs match.
+[2023-07-12 15:59:16.273968] Test passed.
+[2023-07-12 15:59:16.273982] Running Score: 110/150
+
+[2023-07-12 15:59:16.274005] Evaluating sequenced47 with the submitted solution.
+[2023-07-12 15:59:16.407422] Outputs match.
+[2023-07-12 15:59:16.407551] Test passed.
+[2023-07-12 15:59:16.407574] Running Score: 111/151
+
+[2023-07-12 15:59:16.407599] Evaluating sequenced48 with the submitted solution.
+[2023-07-12 15:59:16.564313] Outputs match.
+[2023-07-12 15:59:16.564391] Test passed.
+[2023-07-12 15:59:16.564409] Running Score: 112/152
+
+[2023-07-12 15:59:16.564443] Evaluating sequenced49 with the submitted solution.
+[2023-07-12 15:59:16.696751] Outputs match.
+[2023-07-12 15:59:16.696835] Test passed.
+[2023-07-12 15:59:16.696851] Running Score: 113/153
+
+[2023-07-12 15:59:16.696877] Evaluating sequenced50 with the submitted solution.
+[2023-07-12 15:59:16.826410] Outputs match.
+[2023-07-12 15:59:16.826488] Test passed.
+[2023-07-12 15:59:16.826503] Running Score: 114/154
+
+[2023-07-12 15:59:16.826655] Final score: 114/154 (74%). 
+[2023-07-12 15:59:16.827123] 75% are needed to pass.
+[2023-07-12 15:59:17.166185] You have NOT PASSED this assignment.
+[2023-07-12 15:59:17.166555] You can try again. Deadline: 15.07.2023 23:59
+
+[2023-07-12 15:59:55.800178] === END Evaluation Log
+[2023-07-12 15:59:55.800242] NOTE: This evaluation log is also available at '/home/sarahallisa/Documents/bs-ss23/hu2/.submitscript/data/assignments/memory/submissions/[evaluated] 4343663c-ec9a-414d-8096-960c688f14c5/evaluation.log'
+[2023-07-12 15:59:55.800319] 

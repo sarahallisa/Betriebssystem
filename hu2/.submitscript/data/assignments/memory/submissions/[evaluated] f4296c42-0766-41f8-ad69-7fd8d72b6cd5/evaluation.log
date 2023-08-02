@@ -1,0 +1,802 @@
+[2023-07-12 16:24:39.321367] Start of evaluation log for submission 'f4296c42-0766-41f8-ad69-7fd8d72b6cd5'.
+[2023-07-12 16:24:39.321927] Team member: ('Allisa', 'Sarah Yanuar Nadia', '5307737')
+[2023-07-12 16:24:39.321960] Team member: ('Kirana', 'Yohanes Ranandika', '5310931')
+[2023-07-12 16:24:39.321981] Team member: ('Demir', 'Fatma Nur', '5116449')
+[2023-07-12 16:24:39.536090] Preparing the sandbox
+[2023-07-12 16:24:40.118846] Unpacking submission in sandbox
+[2023-07-12 16:24:40.498723] Building the test subject
+[2023-07-12 16:24:40.499217] Preparing build with cmake
+[2023-07-12 16:24:41.015436] CMake log:
+-- The C compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/solution/memory/build
+[2023-07-12 16:24:41.015510] Building solution with make
+[2023-07-12 16:24:41.396856] Make log:
+Scanning dependencies of target vmm
+[ 25%] Building C object CMakeFiles/vmm.dir/src/vmm.c.o
+[ 50%] Building C object CMakeFiles/vmm.dir/src/main.c.o
+[ 75%] Building C object CMakeFiles/vmm.dir/src/output_utility.c.o
+[100%] Linking C executable vmm
+[100%] Built target vmm
+[2023-07-12 16:24:41.518924] Beginning evaluation.
+[2023-07-12 16:24:41.519564] Evaluating pt_fault_invalidate_tlb016 with the submitted solution.
+[2023-07-12 16:24:41.647490] Outputs match.
+[2023-07-12 16:24:41.647564] Test passed.
+[2023-07-12 16:24:41.647579] Running Score: 1/1
+
+[2023-07-12 16:24:41.647609] Evaluating pt_fault_invalidate_tlb032 with the submitted solution.
+[2023-07-12 16:24:41.774353] Outputs match.
+[2023-07-12 16:24:41.774425] Test passed.
+[2023-07-12 16:24:41.774438] Running Score: 2/2
+
+[2023-07-12 16:24:41.774462] Evaluating pt_fault_invalidate_tlb064 with the submitted solution.
+[2023-07-12 16:24:41.912394] Outputs match.
+[2023-07-12 16:24:41.912463] Test passed.
+[2023-07-12 16:24:41.912500] Running Score: 3/3
+
+[2023-07-12 16:24:41.912527] Evaluating pt_fault_invalidate_tlb128 with the submitted solution.
+[2023-07-12 16:24:42.036171] Outputs match.
+[2023-07-12 16:24:42.036245] Test passed.
+[2023-07-12 16:24:42.036261] Running Score: 4/4
+
+[2023-07-12 16:24:42.036288] Evaluating random_addresses01 with the submitted solution.
+[2023-07-12 16:24:42.186234] Outputs match.
+[2023-07-12 16:24:42.186315] Test passed.
+[2023-07-12 16:24:42.186331] Running Score: 5/5
+
+[2023-07-12 16:24:42.186360] Evaluating random_addresses02 with the submitted solution.
+[2023-07-12 16:24:42.323466] Outputs match.
+[2023-07-12 16:24:42.323531] Test passed.
+[2023-07-12 16:24:42.323541] Running Score: 6/6
+
+[2023-07-12 16:24:42.323559] Evaluating random_addresses03 with the submitted solution.
+[2023-07-12 16:24:42.476338] Outputs match.
+[2023-07-12 16:24:42.476406] Test passed.
+[2023-07-12 16:24:42.476416] Running Score: 7/7
+
+[2023-07-12 16:24:42.476438] Evaluating random_addresses04 with the submitted solution.
+[2023-07-12 16:24:42.616831] Outputs match.
+[2023-07-12 16:24:42.616934] Test passed.
+[2023-07-12 16:24:42.616985] Running Score: 8/8
+
+[2023-07-12 16:24:42.617062] Evaluating random_addresses05 with the submitted solution.
+[2023-07-12 16:24:42.765782] Outputs match.
+[2023-07-12 16:24:42.765855] Test passed.
+[2023-07-12 16:24:42.765872] Running Score: 9/9
+
+[2023-07-12 16:24:42.765902] Evaluating random_addresses06 with the submitted solution.
+[2023-07-12 16:24:42.905438] Outputs match.
+[2023-07-12 16:24:42.905513] Test passed.
+[2023-07-12 16:24:42.905529] Running Score: 10/10
+
+[2023-07-12 16:24:42.905558] Evaluating random_addresses07 with the submitted solution.
+[2023-07-12 16:24:43.049564] Outputs match.
+[2023-07-12 16:24:43.049634] Test passed.
+[2023-07-12 16:24:43.049651] Running Score: 11/11
+
+[2023-07-12 16:24:43.049679] Evaluating random_addresses08 with the submitted solution.
+[2023-07-12 16:24:43.186964] Outputs match.
+[2023-07-12 16:24:43.187042] Test passed.
+[2023-07-12 16:24:43.187060] Running Score: 12/12
+
+[2023-07-12 16:24:43.187088] Evaluating random_addresses09 with the submitted solution.
+[2023-07-12 16:24:43.321972] Outputs match.
+[2023-07-12 16:24:43.322050] Test passed.
+[2023-07-12 16:24:43.322066] Running Score: 13/13
+
+[2023-07-12 16:24:43.322095] Evaluating random_addresses10 with the submitted solution.
+[2023-07-12 16:24:43.459457] Outputs match.
+[2023-07-12 16:24:43.459532] Test passed.
+[2023-07-12 16:24:43.459555] Running Score: 14/14
+
+[2023-07-12 16:24:43.459591] Evaluating random_addresses11 with the submitted solution.
+[2023-07-12 16:24:43.592708] Outputs match.
+[2023-07-12 16:24:43.592786] Test passed.
+[2023-07-12 16:24:43.592803] Running Score: 15/15
+
+[2023-07-12 16:24:43.592836] Evaluating random_addresses12 with the submitted solution.
+[2023-07-12 16:24:43.746270] Outputs match.
+[2023-07-12 16:24:43.746384] Test passed.
+[2023-07-12 16:24:43.746409] Running Score: 16/16
+
+[2023-07-12 16:24:43.746446] Evaluating random_addresses13 with the submitted solution.
+[2023-07-12 16:24:43.884534] Outputs match.
+[2023-07-12 16:24:43.884599] Test passed.
+[2023-07-12 16:24:43.884611] Running Score: 17/17
+
+[2023-07-12 16:24:43.884633] Evaluating random_addresses14 with the submitted solution.
+[2023-07-12 16:24:44.031614] Outputs match.
+[2023-07-12 16:24:44.031686] Test passed.
+[2023-07-12 16:24:44.031702] Running Score: 18/18
+
+[2023-07-12 16:24:44.031729] Evaluating random_addresses15 with the submitted solution.
+[2023-07-12 16:24:44.178560] Outputs match.
+[2023-07-12 16:24:44.178636] Test passed.
+[2023-07-12 16:24:44.178653] Running Score: 19/19
+
+[2023-07-12 16:24:44.178692] Evaluating random_addresses16 with the submitted solution.
+[2023-07-12 16:24:44.331457] Outputs match.
+[2023-07-12 16:24:44.331539] Test passed.
+[2023-07-12 16:24:44.331556] Running Score: 20/20
+
+[2023-07-12 16:24:44.331582] Evaluating random_addresses17 with the submitted solution.
+[2023-07-12 16:24:44.477302] Outputs match.
+[2023-07-12 16:24:44.477383] Test passed.
+[2023-07-12 16:24:44.477399] Running Score: 21/21
+
+[2023-07-12 16:24:44.477426] Evaluating random_addresses18 with the submitted solution.
+[2023-07-12 16:24:44.614685] Outputs match.
+[2023-07-12 16:24:44.614761] Test passed.
+[2023-07-12 16:24:44.614774] Running Score: 22/22
+
+[2023-07-12 16:24:44.614802] Evaluating random_addresses19 with the submitted solution.
+[2023-07-12 16:24:44.761987] Outputs match.
+[2023-07-12 16:24:44.762036] Test passed.
+[2023-07-12 16:24:44.762046] Running Score: 23/23
+
+[2023-07-12 16:24:44.762066] Evaluating random_addresses20 with the submitted solution.
+[2023-07-12 16:24:44.899235] Outputs match.
+[2023-07-12 16:24:44.899319] Test passed.
+[2023-07-12 16:24:44.899341] Running Score: 24/24
+
+[2023-07-12 16:24:44.899380] Evaluating random_addresses21 with the submitted solution.
+[2023-07-12 16:24:45.034316] Outputs match.
+[2023-07-12 16:24:45.034400] Test passed.
+[2023-07-12 16:24:45.034415] Running Score: 25/25
+
+[2023-07-12 16:24:45.034445] Evaluating random_addresses22 with the submitted solution.
+[2023-07-12 16:24:45.177527] Outputs match.
+[2023-07-12 16:24:45.177604] Test passed.
+[2023-07-12 16:24:45.177617] Running Score: 26/26
+
+[2023-07-12 16:24:45.177641] Evaluating random_addresses23 with the submitted solution.
+[2023-07-12 16:24:45.321970] Outputs match.
+[2023-07-12 16:24:45.322042] Test passed.
+[2023-07-12 16:24:45.322055] Running Score: 27/27
+
+[2023-07-12 16:24:45.322077] Evaluating random_addresses24 with the submitted solution.
+[2023-07-12 16:24:45.467557] Outputs match.
+[2023-07-12 16:24:45.467638] Test passed.
+[2023-07-12 16:24:45.467653] Running Score: 28/28
+
+[2023-07-12 16:24:45.467678] Evaluating random_addresses25 with the submitted solution.
+[2023-07-12 16:24:45.604727] Outputs match.
+[2023-07-12 16:24:45.604811] Test passed.
+[2023-07-12 16:24:45.604829] Running Score: 29/29
+
+[2023-07-12 16:24:45.604852] Evaluating random_addresses26 with the submitted solution.
+[2023-07-12 16:24:45.749036] Outputs match.
+[2023-07-12 16:24:45.749122] Test passed.
+[2023-07-12 16:24:45.749140] Running Score: 30/30
+
+[2023-07-12 16:24:45.749163] Evaluating random_addresses27 with the submitted solution.
+[2023-07-12 16:24:45.912718] Outputs match.
+[2023-07-12 16:24:45.912802] Test passed.
+[2023-07-12 16:24:45.912818] Running Score: 31/31
+
+[2023-07-12 16:24:45.912847] Evaluating random_addresses28 with the submitted solution.
+[2023-07-12 16:24:46.062757] Outputs match.
+[2023-07-12 16:24:46.062831] Test passed.
+[2023-07-12 16:24:46.062844] Running Score: 32/32
+
+[2023-07-12 16:24:46.062866] Evaluating random_addresses29 with the submitted solution.
+[2023-07-12 16:24:46.202194] Outputs match.
+[2023-07-12 16:24:46.202270] Test passed.
+[2023-07-12 16:24:46.202283] Running Score: 33/33
+
+[2023-07-12 16:24:46.202305] Evaluating random_addresses30 with the submitted solution.
+[2023-07-12 16:24:46.337729] Outputs match.
+[2023-07-12 16:24:46.337800] Test passed.
+[2023-07-12 16:24:46.337813] Running Score: 34/34
+
+[2023-07-12 16:24:46.337837] Evaluating random_addresses31 with the submitted solution.
+[2023-07-12 16:24:46.466563] Outputs match.
+[2023-07-12 16:24:46.466642] Test passed.
+[2023-07-12 16:24:46.466659] Running Score: 35/35
+
+[2023-07-12 16:24:46.466681] Evaluating random_addresses32 with the submitted solution.
+[2023-07-12 16:24:46.613038] Outputs match.
+[2023-07-12 16:24:46.613109] Test passed.
+[2023-07-12 16:24:46.613125] Running Score: 36/36
+
+[2023-07-12 16:24:46.613158] Evaluating random_addresses33 with the submitted solution.
+[2023-07-12 16:24:46.754430] Outputs match.
+[2023-07-12 16:24:46.754515] Test passed.
+[2023-07-12 16:24:46.754529] Running Score: 37/37
+
+[2023-07-12 16:24:46.754552] Evaluating random_addresses34 with the submitted solution.
+[2023-07-12 16:24:46.909432] Outputs match.
+[2023-07-12 16:24:46.909515] Test passed.
+[2023-07-12 16:24:46.909528] Running Score: 38/38
+
+[2023-07-12 16:24:46.909552] Evaluating random_addresses35 with the submitted solution.
+[2023-07-12 16:24:47.054749] Outputs match.
+[2023-07-12 16:24:47.054817] Test passed.
+[2023-07-12 16:24:47.054830] Running Score: 39/39
+
+[2023-07-12 16:24:47.054853] Evaluating random_addresses36 with the submitted solution.
+[2023-07-12 16:24:47.191749] Outputs match.
+[2023-07-12 16:24:47.191824] Test passed.
+[2023-07-12 16:24:47.191837] Running Score: 40/40
+
+[2023-07-12 16:24:47.191859] Evaluating random_addresses37 with the submitted solution.
+[2023-07-12 16:24:47.334371] Outputs match.
+[2023-07-12 16:24:47.334444] Test passed.
+[2023-07-12 16:24:47.334456] Running Score: 41/41
+
+[2023-07-12 16:24:47.334480] Evaluating random_addresses38 with the submitted solution.
+[2023-07-12 16:24:47.473744] Outputs match.
+[2023-07-12 16:24:47.473824] Test passed.
+[2023-07-12 16:24:47.473836] Running Score: 42/42
+
+[2023-07-12 16:24:47.473858] Evaluating random_addresses39 with the submitted solution.
+[2023-07-12 16:24:47.602838] Outputs match.
+[2023-07-12 16:24:47.602912] Test passed.
+[2023-07-12 16:24:47.602924] Running Score: 43/43
+
+[2023-07-12 16:24:47.602946] Evaluating random_addresses40 with the submitted solution.
+[2023-07-12 16:24:47.751587] Outputs match.
+[2023-07-12 16:24:47.751664] Test passed.
+[2023-07-12 16:24:47.751677] Running Score: 44/44
+
+[2023-07-12 16:24:47.751701] Evaluating random_addresses41 with the submitted solution.
+[2023-07-12 16:24:47.888672] Outputs match.
+[2023-07-12 16:24:47.888751] Test passed.
+[2023-07-12 16:24:47.888763] Running Score: 45/45
+
+[2023-07-12 16:24:47.888786] Evaluating random_addresses42 with the submitted solution.
+[2023-07-12 16:24:48.030813] Outputs match.
+[2023-07-12 16:24:48.030895] Test passed.
+[2023-07-12 16:24:48.030906] Running Score: 46/46
+
+[2023-07-12 16:24:48.030924] Evaluating random_addresses43 with the submitted solution.
+[2023-07-12 16:24:48.169888] Outputs match.
+[2023-07-12 16:24:48.169967] Test passed.
+[2023-07-12 16:24:48.169984] Running Score: 47/47
+
+[2023-07-12 16:24:48.170012] Evaluating random_addresses44 with the submitted solution.
+[2023-07-12 16:24:48.307878] Outputs match.
+[2023-07-12 16:24:48.307952] Test passed.
+[2023-07-12 16:24:48.307962] Running Score: 48/48
+
+[2023-07-12 16:24:48.307981] Evaluating random_addresses45 with the submitted solution.
+[2023-07-12 16:24:48.452694] Outputs match.
+[2023-07-12 16:24:48.452779] Test passed.
+[2023-07-12 16:24:48.452801] Running Score: 49/49
+
+[2023-07-12 16:24:48.452840] Evaluating random_addresses46 with the submitted solution.
+[2023-07-12 16:24:48.599058] Outputs match.
+[2023-07-12 16:24:48.599157] Test passed.
+[2023-07-12 16:24:48.599178] Running Score: 50/50
+
+[2023-07-12 16:24:48.599209] Evaluating random_addresses47 with the submitted solution.
+[2023-07-12 16:24:48.748609] Outputs match.
+[2023-07-12 16:24:48.748684] Test passed.
+[2023-07-12 16:24:48.748697] Running Score: 51/51
+
+[2023-07-12 16:24:48.748721] Evaluating random_addresses48 with the submitted solution.
+[2023-07-12 16:24:48.885171] Outputs match.
+[2023-07-12 16:24:48.885245] Test passed.
+[2023-07-12 16:24:48.885265] Running Score: 52/52
+
+[2023-07-12 16:24:48.885288] Evaluating random_addresses49 with the submitted solution.
+[2023-07-12 16:24:49.016874] Outputs match.
+[2023-07-12 16:24:49.016957] Test passed.
+[2023-07-12 16:24:49.016975] Running Score: 53/53
+
+[2023-07-12 16:24:49.017002] Evaluating random_addresses50 with the submitted solution.
+[2023-07-12 16:24:49.145608] Outputs match.
+[2023-07-12 16:24:49.145689] Test passed.
+[2023-07-12 16:24:49.145704] Running Score: 54/54
+
+[2023-07-12 16:24:49.145733] Evaluating random_pages01 with the submitted solution.
+[2023-07-12 16:24:49.279253] Outputs match.
+[2023-07-12 16:24:49.279333] Test passed.
+[2023-07-12 16:24:49.279352] Running Score: 55/55
+
+[2023-07-12 16:24:49.279382] Evaluating random_pages02 with the submitted solution.
+[2023-07-12 16:24:49.407195] Outputs match.
+[2023-07-12 16:24:49.407279] Test passed.
+[2023-07-12 16:24:49.407295] Running Score: 56/56
+
+[2023-07-12 16:24:49.407320] Evaluating random_pages03 with the submitted solution.
+[2023-07-12 16:24:49.552220] Outputs match.
+[2023-07-12 16:24:49.552323] Test passed.
+[2023-07-12 16:24:49.552347] Running Score: 57/57
+
+[2023-07-12 16:24:49.552386] Evaluating random_pages04 with the submitted solution.
+[2023-07-12 16:24:49.688969] Outputs match.
+[2023-07-12 16:24:49.689179] Test passed.
+[2023-07-12 16:24:49.689206] Running Score: 58/58
+
+[2023-07-12 16:24:49.689241] Evaluating random_pages05 with the submitted solution.
+[2023-07-12 16:24:49.842050] Outputs match.
+[2023-07-12 16:24:49.842124] Test passed.
+[2023-07-12 16:24:49.842141] Running Score: 59/59
+
+[2023-07-12 16:24:49.842170] Evaluating random_pages06 with the submitted solution.
+[2023-07-12 16:24:49.987576] Outputs match.
+[2023-07-12 16:24:49.987658] Test passed.
+[2023-07-12 16:24:49.987681] Running Score: 60/60
+
+[2023-07-12 16:24:49.987708] Evaluating random_pages07 with the submitted solution.
+[2023-07-12 16:24:50.128394] Outputs match.
+[2023-07-12 16:24:50.128485] Test passed.
+[2023-07-12 16:24:50.128499] Running Score: 61/61
+
+[2023-07-12 16:24:50.128523] Evaluating random_pages08 with the submitted solution.
+[2023-07-12 16:24:50.287921] Outputs match.
+[2023-07-12 16:24:50.287996] Test passed.
+[2023-07-12 16:24:50.288009] Running Score: 62/62
+
+[2023-07-12 16:24:50.288033] Evaluating random_pages09 with the submitted solution.
+[2023-07-12 16:24:50.426452] Outputs match.
+[2023-07-12 16:24:50.426527] Test passed.
+[2023-07-12 16:24:50.426540] Running Score: 63/63
+
+[2023-07-12 16:24:50.426563] Evaluating random_pages10 with the submitted solution.
+[2023-07-12 16:24:50.564276] Outputs match.
+[2023-07-12 16:24:50.564354] Test passed.
+[2023-07-12 16:24:50.564366] Running Score: 64/64
+
+[2023-07-12 16:24:50.564389] Evaluating random_pages11 with the submitted solution.
+[2023-07-12 16:24:50.703085] Outputs match.
+[2023-07-12 16:24:50.703159] Test passed.
+[2023-07-12 16:24:50.703176] Running Score: 65/65
+
+[2023-07-12 16:24:50.703203] Evaluating random_pages12 with the submitted solution.
+[2023-07-12 16:24:50.850842] Outputs match.
+[2023-07-12 16:24:50.850912] Test passed.
+[2023-07-12 16:24:50.850930] Running Score: 66/66
+
+[2023-07-12 16:24:50.850958] Evaluating random_pages13 with the submitted solution.
+[2023-07-12 16:24:50.978022] Outputs match.
+[2023-07-12 16:24:50.978100] Test passed.
+[2023-07-12 16:24:50.978119] Running Score: 67/67
+
+[2023-07-12 16:24:50.978153] Evaluating random_pages14 with the submitted solution.
+[2023-07-12 16:24:51.114189] Outputs match.
+[2023-07-12 16:24:51.114265] Test passed.
+[2023-07-12 16:24:51.114278] Running Score: 68/68
+
+[2023-07-12 16:24:51.114301] Evaluating random_pages15 with the submitted solution.
+[2023-07-12 16:24:51.258360] Outputs match.
+[2023-07-12 16:24:51.258433] Test passed.
+[2023-07-12 16:24:51.258448] Running Score: 69/69
+
+[2023-07-12 16:24:51.258472] Evaluating random_pages16 with the submitted solution.
+[2023-07-12 16:24:51.392785] Outputs match.
+[2023-07-12 16:24:51.392857] Test passed.
+[2023-07-12 16:24:51.392869] Running Score: 70/70
+
+[2023-07-12 16:24:51.392894] Evaluating random_pages17 with the submitted solution.
+[2023-07-12 16:24:51.530763] Outputs match.
+[2023-07-12 16:24:51.530835] Test passed.
+[2023-07-12 16:24:51.530851] Running Score: 71/71
+
+[2023-07-12 16:24:51.530888] Evaluating random_pages18 with the submitted solution.
+[2023-07-12 16:24:51.662704] Outputs match.
+[2023-07-12 16:24:51.662792] Test passed.
+[2023-07-12 16:24:51.662804] Running Score: 72/72
+
+[2023-07-12 16:24:51.662829] Evaluating random_pages19 with the submitted solution.
+[2023-07-12 16:24:51.799466] Outputs match.
+[2023-07-12 16:24:51.799548] Test passed.
+[2023-07-12 16:24:51.799560] Running Score: 73/73
+
+[2023-07-12 16:24:51.799584] Evaluating random_pages20 with the submitted solution.
+[2023-07-12 16:24:51.943822] Outputs match.
+[2023-07-12 16:24:51.943899] Test passed.
+[2023-07-12 16:24:51.943912] Running Score: 74/74
+
+[2023-07-12 16:24:51.943939] Evaluating random_pages21 with the submitted solution.
+[2023-07-12 16:24:52.090560] Outputs match.
+[2023-07-12 16:24:52.090629] Test passed.
+[2023-07-12 16:24:52.090649] Running Score: 75/75
+
+[2023-07-12 16:24:52.090678] Evaluating random_pages22 with the submitted solution.
+[2023-07-12 16:24:52.235338] Outputs match.
+[2023-07-12 16:24:52.235410] Test passed.
+[2023-07-12 16:24:52.235422] Running Score: 76/76
+
+[2023-07-12 16:24:52.236129] Evaluating random_pages23 with the submitted solution.
+[2023-07-12 16:24:52.389316] Outputs match.
+[2023-07-12 16:24:52.389392] Test passed.
+[2023-07-12 16:24:52.389405] Running Score: 77/77
+
+[2023-07-12 16:24:52.389428] Evaluating random_pages24 with the submitted solution.
+[2023-07-12 16:24:52.542704] Outputs match.
+[2023-07-12 16:24:52.542775] Test passed.
+[2023-07-12 16:24:52.542787] Running Score: 78/78
+
+[2023-07-12 16:24:52.542811] Evaluating random_pages25 with the submitted solution.
+[2023-07-12 16:24:52.679366] Outputs match.
+[2023-07-12 16:24:52.679435] Test passed.
+[2023-07-12 16:24:52.679447] Running Score: 79/79
+
+[2023-07-12 16:24:52.679474] Evaluating random_pages26 with the submitted solution.
+[2023-07-12 16:24:52.824596] Outputs match.
+[2023-07-12 16:24:52.824675] Test passed.
+[2023-07-12 16:24:52.824687] Running Score: 80/80
+
+[2023-07-12 16:24:52.824710] Evaluating random_pages27 with the submitted solution.
+[2023-07-12 16:24:52.960545] Outputs match.
+[2023-07-12 16:24:52.960626] Test passed.
+[2023-07-12 16:24:52.960643] Running Score: 81/81
+
+[2023-07-12 16:24:52.960671] Evaluating random_pages28 with the submitted solution.
+[2023-07-12 16:24:53.112069] Outputs match.
+[2023-07-12 16:24:53.112146] Test passed.
+[2023-07-12 16:24:53.112163] Running Score: 82/82
+
+[2023-07-12 16:24:53.112192] Evaluating random_pages29 with the submitted solution.
+[2023-07-12 16:24:53.259808] Outputs match.
+[2023-07-12 16:24:53.259879] Test passed.
+[2023-07-12 16:24:53.259896] Running Score: 83/83
+
+[2023-07-12 16:24:53.259923] Evaluating random_pages30 with the submitted solution.
+[2023-07-12 16:24:53.403797] Outputs match.
+[2023-07-12 16:24:53.403879] Test passed.
+[2023-07-12 16:24:53.403896] Running Score: 84/84
+
+[2023-07-12 16:24:53.403929] Evaluating random_pages31 with the submitted solution.
+[2023-07-12 16:24:53.547901] Outputs match.
+[2023-07-12 16:24:53.547969] Test passed.
+[2023-07-12 16:24:53.547981] Running Score: 85/85
+
+[2023-07-12 16:24:53.548006] Evaluating random_pages32 with the submitted solution.
+[2023-07-12 16:24:53.693663] Outputs match.
+[2023-07-12 16:24:53.693737] Test passed.
+[2023-07-12 16:24:53.693750] Running Score: 86/86
+
+[2023-07-12 16:24:53.693783] Evaluating random_pages33 with the submitted solution.
+[2023-07-12 16:24:53.830464] Outputs match.
+[2023-07-12 16:24:53.830542] Test passed.
+[2023-07-12 16:24:53.830559] Running Score: 87/87
+
+[2023-07-12 16:24:53.830592] Evaluating random_pages34 with the submitted solution.
+[2023-07-12 16:24:53.993258] Outputs match.
+[2023-07-12 16:24:53.993335] Test passed.
+[2023-07-12 16:24:53.993348] Running Score: 88/88
+
+[2023-07-12 16:24:53.993371] Evaluating random_pages35 with the submitted solution.
+[2023-07-12 16:24:54.139060] Outputs match.
+[2023-07-12 16:24:54.139137] Test passed.
+[2023-07-12 16:24:54.139150] Running Score: 89/89
+
+[2023-07-12 16:24:54.139172] Evaluating random_pages36 with the submitted solution.
+[2023-07-12 16:24:54.275111] Outputs match.
+[2023-07-12 16:24:54.275180] Test passed.
+[2023-07-12 16:24:54.275193] Running Score: 90/90
+
+[2023-07-12 16:24:54.275217] Evaluating random_pages37 with the submitted solution.
+[2023-07-12 16:24:54.425387] Outputs match.
+[2023-07-12 16:24:54.425456] Test passed.
+[2023-07-12 16:24:54.425469] Running Score: 91/91
+
+[2023-07-12 16:24:54.425491] Evaluating random_pages38 with the submitted solution.
+[2023-07-12 16:24:54.562471] Outputs match.
+[2023-07-12 16:24:54.562542] Test passed.
+[2023-07-12 16:24:54.562554] Running Score: 92/92
+
+[2023-07-12 16:24:54.562577] Evaluating random_pages39 with the submitted solution.
+[2023-07-12 16:24:54.706760] Outputs match.
+[2023-07-12 16:24:54.706830] Test passed.
+[2023-07-12 16:24:54.706842] Running Score: 93/93
+
+[2023-07-12 16:24:54.706868] Evaluating random_pages40 with the submitted solution.
+[2023-07-12 16:24:54.856866] Outputs match.
+[2023-07-12 16:24:54.856939] Test passed.
+[2023-07-12 16:24:54.856953] Running Score: 94/94
+
+[2023-07-12 16:24:54.856985] Evaluating random_pages41 with the submitted solution.
+[2023-07-12 16:24:55.000288] Outputs match.
+[2023-07-12 16:24:55.000361] Test passed.
+[2023-07-12 16:24:55.000374] Running Score: 95/95
+
+[2023-07-12 16:24:55.000396] Evaluating random_pages42 with the submitted solution.
+[2023-07-12 16:24:55.172640] Outputs match.
+[2023-07-12 16:24:55.172717] Test passed.
+[2023-07-12 16:24:55.172729] Running Score: 96/96
+
+[2023-07-12 16:24:55.172751] Evaluating random_pages43 with the submitted solution.
+[2023-07-12 16:24:55.324094] Outputs match.
+[2023-07-12 16:24:55.324165] Test passed.
+[2023-07-12 16:24:55.324177] Running Score: 97/97
+
+[2023-07-12 16:24:55.324200] Evaluating random_pages44 with the submitted solution.
+[2023-07-12 16:24:55.459654] Outputs match.
+[2023-07-12 16:24:55.459724] Test passed.
+[2023-07-12 16:24:55.459740] Running Score: 98/98
+
+[2023-07-12 16:24:55.459763] Evaluating random_pages45 with the submitted solution.
+[2023-07-12 16:24:55.589198] Outputs match.
+[2023-07-12 16:24:55.589330] Test passed.
+[2023-07-12 16:24:55.589350] Running Score: 99/99
+
+[2023-07-12 16:24:55.589375] Evaluating random_pages46 with the submitted solution.
+[2023-07-12 16:24:55.732226] Outputs match.
+[2023-07-12 16:24:55.732316] Test passed.
+[2023-07-12 16:24:55.732331] Running Score: 100/100
+
+[2023-07-12 16:24:55.732355] Evaluating random_pages47 with the submitted solution.
+[2023-07-12 16:24:55.879313] Outputs match.
+[2023-07-12 16:24:55.879385] Test passed.
+[2023-07-12 16:24:55.879398] Running Score: 101/101
+
+[2023-07-12 16:24:55.879422] Evaluating random_pages48 with the submitted solution.
+[2023-07-12 16:24:56.012870] Outputs match.
+[2023-07-12 16:24:56.012946] Test passed.
+[2023-07-12 16:24:56.012959] Running Score: 102/102
+
+[2023-07-12 16:24:56.012983] Evaluating random_pages49 with the submitted solution.
+[2023-07-12 16:24:56.173711] Outputs match.
+[2023-07-12 16:24:56.173805] Test passed.
+[2023-07-12 16:24:56.173830] Running Score: 103/103
+
+[2023-07-12 16:24:56.173875] Evaluating random_pages50 with the submitted solution.
+[2023-07-12 16:24:56.327533] Outputs match.
+[2023-07-12 16:24:56.327621] Test passed.
+[2023-07-12 16:24:56.327654] Running Score: 104/104
+
+[2023-07-12 16:24:56.327697] Evaluating sequenced01 with the submitted solution.
+[2023-07-12 16:24:56.483913] Outputs match.
+[2023-07-12 16:24:56.483994] Test passed.
+[2023-07-12 16:24:56.484010] Running Score: 105/105
+
+[2023-07-12 16:24:56.484037] Evaluating sequenced02 with the submitted solution.
+[2023-07-12 16:24:56.622802] Outputs match.
+[2023-07-12 16:24:56.622884] Test passed.
+[2023-07-12 16:24:56.622898] Running Score: 106/106
+
+[2023-07-12 16:24:56.622921] Evaluating sequenced03 with the submitted solution.
+[2023-07-12 16:24:56.758675] Outputs match.
+[2023-07-12 16:24:56.758754] Test passed.
+[2023-07-12 16:24:56.758769] Running Score: 107/107
+
+[2023-07-12 16:24:56.758794] Evaluating sequenced04 with the submitted solution.
+[2023-07-12 16:24:56.899193] Outputs match.
+[2023-07-12 16:24:56.899266] Test passed.
+[2023-07-12 16:24:56.899280] Running Score: 108/108
+
+[2023-07-12 16:24:56.899305] Evaluating sequenced05 with the submitted solution.
+[2023-07-12 16:24:57.035543] Outputs match.
+[2023-07-12 16:24:57.035623] Test passed.
+[2023-07-12 16:24:57.035641] Running Score: 109/109
+
+[2023-07-12 16:24:57.035665] Evaluating sequenced06 with the submitted solution.
+[2023-07-12 16:24:57.172485] Outputs match.
+[2023-07-12 16:24:57.172571] Test passed.
+[2023-07-12 16:24:57.172587] Running Score: 110/110
+
+[2023-07-12 16:24:57.172617] Evaluating sequenced07 with the submitted solution.
+[2023-07-12 16:24:57.323890] Outputs match.
+[2023-07-12 16:24:57.323973] Test passed.
+[2023-07-12 16:24:57.323990] Running Score: 111/111
+
+[2023-07-12 16:24:57.324024] Evaluating sequenced08 with the submitted solution.
+[2023-07-12 16:24:57.461119] Outputs match.
+[2023-07-12 16:24:57.461246] Test passed.
+[2023-07-12 16:24:57.461263] Running Score: 112/112
+
+[2023-07-12 16:24:57.461294] Evaluating sequenced09 with the submitted solution.
+[2023-07-12 16:24:57.598244] Outputs match.
+[2023-07-12 16:24:57.598327] Test passed.
+[2023-07-12 16:24:57.598345] Running Score: 113/113
+
+[2023-07-12 16:24:57.598368] Evaluating sequenced10 with the submitted solution.
+[2023-07-12 16:24:57.727064] Outputs match.
+[2023-07-12 16:24:57.727138] Test passed.
+[2023-07-12 16:24:57.727151] Running Score: 114/114
+
+[2023-07-12 16:24:57.727174] Evaluating sequenced11 with the submitted solution.
+[2023-07-12 16:24:57.872622] Outputs match.
+[2023-07-12 16:24:57.872696] Test passed.
+[2023-07-12 16:24:57.872709] Running Score: 115/115
+
+[2023-07-12 16:24:57.872733] Evaluating sequenced12 with the submitted solution.
+[2023-07-12 16:24:58.016963] Outputs match.
+[2023-07-12 16:24:58.017045] Test passed.
+[2023-07-12 16:24:58.017062] Running Score: 116/116
+
+[2023-07-12 16:24:58.017087] Evaluating sequenced13 with the submitted solution.
+[2023-07-12 16:24:58.155534] Outputs match.
+[2023-07-12 16:24:58.155605] Test passed.
+[2023-07-12 16:24:58.155618] Running Score: 117/117
+
+[2023-07-12 16:24:58.155643] Evaluating sequenced14 with the submitted solution.
+[2023-07-12 16:24:58.295730] Outputs match.
+[2023-07-12 16:24:58.295806] Test passed.
+[2023-07-12 16:24:58.295819] Running Score: 118/118
+
+[2023-07-12 16:24:58.295844] Evaluating sequenced15 with the submitted solution.
+[2023-07-12 16:24:58.437911] Outputs match.
+[2023-07-12 16:24:58.437988] Test passed.
+[2023-07-12 16:24:58.438001] Running Score: 119/119
+
+[2023-07-12 16:24:58.438025] Evaluating sequenced16 with the submitted solution.
+[2023-07-12 16:24:58.576462] Outputs match.
+[2023-07-12 16:24:58.576568] Test passed.
+[2023-07-12 16:24:58.576582] Running Score: 120/120
+
+[2023-07-12 16:24:58.576620] Evaluating sequenced17 with the submitted solution.
+[2023-07-12 16:24:58.714886] Outputs match.
+[2023-07-12 16:24:58.714984] Test passed.
+[2023-07-12 16:24:58.715005] Running Score: 121/121
+
+[2023-07-12 16:24:58.715035] Evaluating sequenced18 with the submitted solution.
+[2023-07-12 16:24:58.855988] Outputs match.
+[2023-07-12 16:24:58.856076] Test passed.
+[2023-07-12 16:24:58.856098] Running Score: 122/122
+
+[2023-07-12 16:24:58.856137] Evaluating sequenced19 with the submitted solution.
+[2023-07-12 16:24:58.998706] Outputs match.
+[2023-07-12 16:24:58.998776] Test passed.
+[2023-07-12 16:24:58.998788] Running Score: 123/123
+
+[2023-07-12 16:24:58.998814] Evaluating sequenced20 with the submitted solution.
+[2023-07-12 16:24:59.142670] Outputs match.
+[2023-07-12 16:24:59.142752] Test passed.
+[2023-07-12 16:24:59.142765] Running Score: 124/124
+
+[2023-07-12 16:24:59.142793] Evaluating sequenced21 with the submitted solution.
+[2023-07-12 16:24:59.281257] Outputs match.
+[2023-07-12 16:24:59.281345] Test passed.
+[2023-07-12 16:24:59.281363] Running Score: 125/125
+
+[2023-07-12 16:24:59.281394] Evaluating sequenced22 with the submitted solution.
+[2023-07-12 16:24:59.415281] Outputs match.
+[2023-07-12 16:24:59.415384] Test passed.
+[2023-07-12 16:24:59.415401] Running Score: 126/126
+
+[2023-07-12 16:24:59.415423] Evaluating sequenced23 with the submitted solution.
+[2023-07-12 16:24:59.550753] Outputs match.
+[2023-07-12 16:24:59.550826] Test passed.
+[2023-07-12 16:24:59.550844] Running Score: 127/127
+
+[2023-07-12 16:24:59.550870] Evaluating sequenced24 with the submitted solution.
+[2023-07-12 16:24:59.685891] Outputs match.
+[2023-07-12 16:24:59.686010] Test passed.
+[2023-07-12 16:24:59.686033] Running Score: 128/128
+
+[2023-07-12 16:24:59.686054] Evaluating sequenced25 with the submitted solution.
+[2023-07-12 16:24:59.829865] Outputs match.
+[2023-07-12 16:24:59.829966] Test passed.
+[2023-07-12 16:24:59.829984] Running Score: 129/129
+
+[2023-07-12 16:24:59.830087] Evaluating sequenced26 with the submitted solution.
+[2023-07-12 16:24:59.959571] Outputs match.
+[2023-07-12 16:24:59.959649] Test passed.
+[2023-07-12 16:24:59.959665] Running Score: 130/130
+
+[2023-07-12 16:24:59.959688] Evaluating sequenced27 with the submitted solution.
+[2023-07-12 16:25:00.107755] Outputs match.
+[2023-07-12 16:25:00.107829] Test passed.
+[2023-07-12 16:25:00.107846] Running Score: 131/131
+
+[2023-07-12 16:25:00.107874] Evaluating sequenced28 with the submitted solution.
+[2023-07-12 16:25:00.251654] Outputs match.
+[2023-07-12 16:25:00.251737] Test passed.
+[2023-07-12 16:25:00.251753] Running Score: 132/132
+
+[2023-07-12 16:25:00.251780] Evaluating sequenced29 with the submitted solution.
+[2023-07-12 16:25:00.394653] Outputs match.
+[2023-07-12 16:25:00.394866] Test passed.
+[2023-07-12 16:25:00.395027] Running Score: 133/133
+
+[2023-07-12 16:25:00.395290] Evaluating sequenced30 with the submitted solution.
+[2023-07-12 16:25:00.538294] Outputs match.
+[2023-07-12 16:25:00.538370] Test passed.
+[2023-07-12 16:25:00.538390] Running Score: 134/134
+
+[2023-07-12 16:25:00.538420] Evaluating sequenced31 with the submitted solution.
+[2023-07-12 16:25:00.683884] Outputs match.
+[2023-07-12 16:25:00.683955] Test passed.
+[2023-07-12 16:25:00.683971] Running Score: 135/135
+
+[2023-07-12 16:25:00.683999] Evaluating sequenced32 with the submitted solution.
+[2023-07-12 16:25:00.822263] Outputs match.
+[2023-07-12 16:25:00.822342] Test passed.
+[2023-07-12 16:25:00.822355] Running Score: 136/136
+
+[2023-07-12 16:25:00.822379] Evaluating sequenced33 with the submitted solution.
+[2023-07-12 16:25:00.961731] Outputs match.
+[2023-07-12 16:25:00.961811] Test passed.
+[2023-07-12 16:25:00.961824] Running Score: 137/137
+
+[2023-07-12 16:25:00.961847] Evaluating sequenced34 with the submitted solution.
+[2023-07-12 16:25:01.107120] Outputs match.
+[2023-07-12 16:25:01.107203] Test passed.
+[2023-07-12 16:25:01.107216] Running Score: 138/138
+
+[2023-07-12 16:25:01.107240] Evaluating sequenced35 with the submitted solution.
+[2023-07-12 16:25:01.249996] Outputs match.
+[2023-07-12 16:25:01.250072] Test passed.
+[2023-07-12 16:25:01.250084] Running Score: 139/139
+
+[2023-07-12 16:25:01.250108] Evaluating sequenced36 with the submitted solution.
+[2023-07-12 16:25:01.395799] Outputs match.
+[2023-07-12 16:25:01.395874] Test passed.
+[2023-07-12 16:25:01.395887] Running Score: 140/140
+
+[2023-07-12 16:25:01.395909] Evaluating sequenced37 with the submitted solution.
+[2023-07-12 16:25:01.532219] Outputs match.
+[2023-07-12 16:25:01.532299] Test passed.
+[2023-07-12 16:25:01.532311] Running Score: 141/141
+
+[2023-07-12 16:25:01.532335] Evaluating sequenced38 with the submitted solution.
+[2023-07-12 16:25:01.688735] Outputs match.
+[2023-07-12 16:25:01.688809] Test passed.
+[2023-07-12 16:25:01.688822] Running Score: 142/142
+
+[2023-07-12 16:25:01.688846] Evaluating sequenced39 with the submitted solution.
+[2023-07-12 16:25:01.828870] Outputs match.
+[2023-07-12 16:25:01.828941] Test passed.
+[2023-07-12 16:25:01.828953] Running Score: 143/143
+
+[2023-07-12 16:25:01.828976] Evaluating sequenced40 with the submitted solution.
+[2023-07-12 16:25:01.968664] Outputs match.
+[2023-07-12 16:25:01.968749] Test passed.
+[2023-07-12 16:25:01.968762] Running Score: 144/144
+
+[2023-07-12 16:25:01.968786] Evaluating sequenced41 with the submitted solution.
+[2023-07-12 16:25:02.109188] Outputs match.
+[2023-07-12 16:25:02.109269] Test passed.
+[2023-07-12 16:25:02.109282] Running Score: 145/145
+
+[2023-07-12 16:25:02.109306] Evaluating sequenced42 with the submitted solution.
+[2023-07-12 16:25:02.253247] Outputs match.
+[2023-07-12 16:25:02.253329] Test passed.
+[2023-07-12 16:25:02.253342] Running Score: 146/146
+
+[2023-07-12 16:25:02.253361] Evaluating sequenced43 with the submitted solution.
+[2023-07-12 16:25:02.387315] Outputs match.
+[2023-07-12 16:25:02.387390] Test passed.
+[2023-07-12 16:25:02.387405] Running Score: 147/147
+
+[2023-07-12 16:25:02.387429] Evaluating sequenced44 with the submitted solution.
+[2023-07-12 16:25:02.519312] Outputs match.
+[2023-07-12 16:25:02.519396] Test passed.
+[2023-07-12 16:25:02.519413] Running Score: 148/148
+
+[2023-07-12 16:25:02.519437] Evaluating sequenced45 with the submitted solution.
+[2023-07-12 16:25:02.679338] Outputs match.
+[2023-07-12 16:25:02.679416] Test passed.
+[2023-07-12 16:25:02.679428] Running Score: 149/149
+
+[2023-07-12 16:25:02.679451] Evaluating sequenced46 with the submitted solution.
+[2023-07-12 16:25:02.826169] Outputs match.
+[2023-07-12 16:25:02.826241] Test passed.
+[2023-07-12 16:25:02.826254] Running Score: 150/150
+
+[2023-07-12 16:25:02.826278] Evaluating sequenced47 with the submitted solution.
+[2023-07-12 16:25:02.961827] Outputs match.
+[2023-07-12 16:25:02.961904] Test passed.
+[2023-07-12 16:25:02.961917] Running Score: 151/151
+
+[2023-07-12 16:25:02.961939] Evaluating sequenced48 with the submitted solution.
+[2023-07-12 16:25:03.095819] Outputs match.
+[2023-07-12 16:25:03.095894] Test passed.
+[2023-07-12 16:25:03.095907] Running Score: 152/152
+
+[2023-07-12 16:25:03.095935] Evaluating sequenced49 with the submitted solution.
+[2023-07-12 16:25:03.236957] Outputs match.
+[2023-07-12 16:25:03.237032] Test passed.
+[2023-07-12 16:25:03.237044] Running Score: 153/153
+
+[2023-07-12 16:25:03.237076] Evaluating sequenced50 with the submitted solution.
+[2023-07-12 16:25:03.379729] Outputs match.
+[2023-07-12 16:25:03.379808] Test passed.
+[2023-07-12 16:25:03.379826] Running Score: 154/154
+
+[2023-07-12 16:25:03.379990] Final score: 154/154 (100%). 
+[2023-07-12 16:25:03.380426] 75% are needed to pass.
+[2023-07-12 16:25:03.673759] You have PASSED this assignment.
+

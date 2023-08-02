@@ -1,0 +1,32 @@
+{
+  "course_name": "Betriebssysteme-ss23",
+  "server": {
+    "hostname": "http://vmar01.mni.thm.de",
+    "port": 8000
+  },
+  "max_team_size": 3,
+  "assignment_ids": [
+    "memory"
+  ],
+  "skeleton_variants": [
+    {
+      "name": "memory",
+      "root": "memory",
+      "build": "cmake . && rm CMakeCache.txt && make",
+      "allowed_files": [
+        "*.h",
+        "*.c",
+        "*akefile",
+        "*.md",
+        "*.adoc",
+        "correct-256.txt",
+        "correct-64.txt",
+        "CMakeLists.txt",
+        "addresses.txt"
+      ],
+      "variant_data": {}
+    }
+  ]
+}
+
+

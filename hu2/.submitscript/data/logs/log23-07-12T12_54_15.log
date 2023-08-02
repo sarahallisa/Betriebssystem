@@ -1,0 +1,136 @@
+[2023-07-12 12:54:15.548433] Bootstrap log:
+Identified Python 3.9.2 at /usr/bin/python3.9
+[Bootstrap] Identified pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.9)' at /usr/bin/python3.9 -m pip
+[Bootstrap] Identified 'pipenv, version 2023.5.19' at /usr/bin/python3.9 -m pipenv
+[Bootstrap] Running '/usr/bin/python3.9 -m pipenv install --python 3.9' to ensure the existence of a virtual environment.
+[Bootstrap] This may take a moment.
+Creating a virtualenv for this project...
+Pipfile: /home/sarahallisa/Documents/bs-ss23/hu2/.submitscript/src/Pipfile
+Using /usr/bin/python3.9 (3.9.2) to create virtualenv...
+created virtual environment CPython3.9.2.final.0-64 in 245ms
+  creator CPython3Posix(dest=/home/sarahallisa/.local/share/virtualenvs/src-LYl61ihP, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/sarahallisa/.local/share/virtualenv)
+    added seed packages: pip==23.1.2, setuptools==67.8.0, wheel==0.40.0
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+
+✔ Successfully created virtual environment!
+Virtualenv location: /home/sarahallisa/.local/share/virtualenvs/src-LYl61ihP
+Installing dependencies from Pipfile.lock (df9bb1)...
+To activate this project's virtualenv, run pipenv shell.
+Alternatively, run a command inside the virtualenv with pipenv run.
+[Bootstrap] Running the script in a virtual environment.
+/usr/bin/python3.9 -m pipenv run python3 ./main.py
+
+[2023-07-12 12:54:15.548470] === Welcome ===
+[2023-07-12 12:54:15.617611] There is no team.json saved yet. You will need to provide information about your team before you can submit solutions.
+[2023-07-12 12:54:15.617631] A new team.json will now be created.
+
+[2023-07-12 12:54:15.617640] Please enter details of team member 1.
+[2023-07-12 12:54:39.128729] 
+[2023-07-12 12:54:39.128904] First name: Sarah Yanuar Nadia; Last name: Allisa; Matriculation number: 5307737
+[2023-07-12 12:54:44.850967] Please enter details of team member 2.
+[2023-07-12 12:55:20.280985] 
+[2023-07-12 12:55:20.281136] First name: Yohanes Ranandika; Last name: Kirana; Matriculation number: 5310931
+[2023-07-12 12:55:24.364875] Please enter details of team member 3.
+[2023-07-12 12:55:48.588092] 
+[2023-07-12 12:55:48.588241] First name: Fatma Nur; Last name: Demir; Matriculation number: 5116449
+[2023-07-12 12:55:51.187855] team.json successfully created.
+
+[2023-07-12 12:55:53.432329] 
+[2023-07-12 12:55:53.432380] === Submitting ===
+[2023-07-12 12:55:53.432615] 
+[2023-07-12 12:55:53.432663] 
+[2023-07-12 12:55:53.432671] Selected variant 'memory' for assignment 'memory'.
+[2023-07-12 12:55:53.449086] === Building submission ===
+[2023-07-12 12:55:53.449108] Running 'cmake . && rm CMakeCache.txt && make'.
+[2023-07-12 12:55:53.449113] === Building submission finished ===
+[2023-07-12 12:55:53.727966] === Cleaning directory for submission ===
+[2023-07-12 12:55:53.730480] === Cleaning directory finished ===
+[2023-07-12 12:55:53.740964] === Starting Upload ===
+[2023-07-12 12:55:53.939125] === Upload finished ===
+[2023-07-12 12:55:53.939154] === BEGIN Upload Log
+[2023-07-12 12:55:53.939164] [2023-07-12 12:55:53.818080] Received submission 37f8a9dd-78e5-4853-bb2d-38248fb91fb5
+[2023-07-12 12:55:53.818162] Ip: 92.77.119.176
+[2023-07-12 12:55:53.818211] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]
+[2023-07-12 12:55:53.915894] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.
+[2023-07-12 12:55:53.915962] Your submission has the id 37f8a9dd-78e5-4853-bb2d-38248fb91fb5.
+[2023-07-12 12:55:53.916364] It will be evaluated shortly. Please check back soon for your results.
+
+[2023-07-12 12:55:53.939178] === END Upload Log
+[2023-07-12 12:55:53.939187] Successfully submitted your solution. Please see the upload log above for more details.
+[2023-07-12 12:55:53.939897] Polling for results (Press CTRL + C to abort).
+[2023-07-12 12:55:53.999201] .
+[2023-07-12 12:55:55.066050] .
+[2023-07-12 12:55:56.145243] .
+[2023-07-12 12:55:57.221669] .
+[2023-07-12 12:55:58.300988] .
+[2023-07-12 12:55:59.372027] .
+[2023-07-12 12:56:00.454751] .
+[2023-07-12 12:56:01.523757] .
+[2023-07-12 12:56:02.602287] .
+[2023-07-12 12:56:03.678669] .
+[2023-07-12 12:56:04.761718] .
+[2023-07-12 12:56:05.834926] .
+[2023-07-12 12:56:06.907968] .
+[2023-07-12 12:56:07.980891] .
+[2023-07-12 12:56:09.057954] .
+[2023-07-12 12:56:10.138853] .
+[2023-07-12 12:56:11.210708] .
+[2023-07-12 12:56:12.286318] .
+[2023-07-12 12:56:13.356676] .
+[2023-07-12 12:56:14.424956] .
+[2023-07-12 12:56:15.497787] .
+[2023-07-12 12:56:16.575928] .
+[2023-07-12 12:56:17.646150] .
+[2023-07-12 12:56:18.715151] .
+[2023-07-12 12:56:19.788926] - Submission '37f8a9dd-78e5-4853-bb2d-38248fb91fb5' can no longer be found on the server and will be marked as [removed].
+[2023-07-12 12:56:19.792605] 
+[2023-07-12 12:57:41.017518] 
+[2023-07-12 12:57:41.017734] === Submitting ===
+[2023-07-12 12:57:41.018343] 
+[2023-07-12 12:57:41.018457] 
+[2023-07-12 12:57:41.018494] Selected variant 'memory' for assignment 'memory'.
+[2023-07-12 12:57:41.024635] === Building submission ===
+[2023-07-12 12:57:41.024677] Running 'cmake . && rm CMakeCache.txt && make'.
+[2023-07-12 12:57:41.024687] === Building submission finished ===
+[2023-07-12 12:57:41.307818] === Cleaning directory for submission ===
+[2023-07-12 12:57:41.309764] === Cleaning directory finished ===
+[2023-07-12 12:57:41.319149] === Starting Upload ===
+[2023-07-12 12:57:41.483526] === Upload finished ===
+[2023-07-12 12:57:41.483720] === BEGIN Upload Log
+[2023-07-12 12:57:41.483749] [2023-07-12 12:57:41.396455] Received submission 7d3a6139-89ca-497e-9e32-930adb58f894
+[2023-07-12 12:57:41.396538] Ip: 92.77.119.176
+[2023-07-12 12:57:41.396580] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]
+[2023-07-12 12:57:41.459629] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'memory'.
+[2023-07-12 12:57:41.459686] Your submission has the id 7d3a6139-89ca-497e-9e32-930adb58f894.
+[2023-07-12 12:57:41.460070] It will be evaluated shortly. Please check back soon for your results.
+
+[2023-07-12 12:57:41.483761] === END Upload Log
+[2023-07-12 12:57:41.483769] Successfully submitted your solution. Please see the upload log above for more details.
+[2023-07-12 12:57:41.484383] Polling for results (Press CTRL + C to abort).
+[2023-07-12 12:57:41.542238] .
+[2023-07-12 12:57:42.617938] .
+[2023-07-12 12:57:43.683926] .
+[2023-07-12 12:57:44.752712] .
+[2023-07-12 12:57:45.825276] .
+[2023-07-12 12:57:46.901911] .
+[2023-07-12 12:57:47.983283] .
+[2023-07-12 12:57:49.052077] .
+[2023-07-12 12:57:50.133673] .
+[2023-07-12 12:57:51.206619] .
+[2023-07-12 12:57:52.282089] .
+[2023-07-12 12:57:53.353441] .
+[2023-07-12 12:57:54.422921] .
+[2023-07-12 12:57:55.491938] .
+[2023-07-12 12:57:56.565000] .
+[2023-07-12 12:57:57.647171] .
+[2023-07-12 12:57:58.724724] .
+[2023-07-12 12:57:59.792701] .
+[2023-07-12 12:58:00.868002] .
+[2023-07-12 12:58:01.937731] .
+[2023-07-12 12:58:03.015149] .
+[2023-07-12 12:58:04.087066] .
+[2023-07-12 12:58:05.154335] .
+[2023-07-12 12:58:06.220725] .
+[2023-07-12 12:58:07.301951] - Submission '7d3a6139-89ca-497e-9e32-930adb58f894' can no longer be found on the server and will be marked as [removed].
+[2023-07-12 12:58:07.305134] 

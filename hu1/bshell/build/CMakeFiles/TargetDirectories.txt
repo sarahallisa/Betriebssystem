@@ -1,0 +1,3 @@
+/home/yranandika/Documents/Semester_6/BS/betriebssysteme_public/hausuebung/hu1/bshell/build/CMakeFiles/shell.dir
+/home/yranandika/Documents/Semester_6/BS/betriebssysteme_public/hausuebung/hu1/bshell/build/CMakeFiles/edit_cache.dir
+/home/yranandika/Documents/Semester_6/BS/betriebssysteme_public/hausuebung/hu1/bshell/build/CMakeFiles/rebuild_cache.dir

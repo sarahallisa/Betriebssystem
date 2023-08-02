@@ -1,0 +1,35 @@
+{
+  "course_name": "Betriebssysteme-ss23",
+  "server": {
+    "hostname": "http://vmar01.mni.thm.de",
+    "port": 8000
+  },
+  "max_team_size": 3,
+  "assignment_ids": [
+    "shell-basic",
+    "shell-advanced"
+  ],
+  "skeleton_variants": [
+    {
+      "name": "bshell",
+      "root": "bshell",
+      "build": "cmake . && make",
+      "allowed_files": [
+        "*.h",
+        "*.c",
+        "*.l",
+        "*.y",
+        "mknjvm",
+        "*akefile",
+        "*CMakeLists.txt",
+        "*.a",
+        "*.txt",
+        "*.md",
+        "*.adoc"
+      ],
+      "variant_data": {}
+    }
+  ]
+}
+
+

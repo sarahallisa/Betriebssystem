@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "first_name": "Sarah Yanuar Nadia",
+            "last_name": "Allisa",
+            "matriculation_number": "5307737"
+        },
+        {
+            "first_name": "Yohanes Ranandika",
+            "last_name": "Kirana",
+            "matriculation_number": "5310931"
+        },
+        {
+            "first_name": "Fatma Nur",
+            "last_name": "Demir",
+            "matriculation_number": "5116449"
+        }
+    ],
+    "evaluation_result": null,
+    "id": "6e7318db-ab71-499f-9b58-bdc7d45c2d5f",
+    "timestamp_ns": 1685544732431588959,
+    "upload_log": "[2023-05-31 16:52:12.431962] Received submission 6e7318db-ab71-499f-9b58-bdc7d45c2d5f\n[2023-05-31 16:52:12.432016] Ip: 10.192.99.215\n[2023-05-31 16:52:12.432072] Team members: [('Allisa', 'Sarah Yanuar Nadia', '5307737'), ('Kirana', 'Yohanes Ranandika', '5310931'), ('Demir', 'Fatma Nur', '5116449')]\n[2023-05-31 16:52:12.456885] Your submission was ACCEPTED for course 'Betriebssysteme-ss23', assignment 'shell-basic'.\n[2023-05-31 16:52:12.456930] Your submission has the id 6e7318db-ab71-499f-9b58-bdc7d45c2d5f.\n[2023-05-31 16:52:12.457206] This assignment is currently not automatically evaluated.\n[2023-05-31 16:52:12.457233] You will receive more information about the evaluation from your lecturer\n\n"
+}
